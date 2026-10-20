@@ -1,8 +1,8 @@
 # Stream health
 
-Last checked 2026-10-20T03:33:40+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
+Last checked 2026-10-20T03:40:09+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
 
-OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
+OK: 1117 - Slow: 46 - Failed: 278 - Hidden from playlists: 0
 
 **Speed** = how many times faster than real time a segment downloaded (under 1.5 = likely to buffer). A stream is **hidden** once it has failed checks at least 12 hours apart, and comes back automatically when it works again. Favourites are never hidden automatically.
 
@@ -10,17 +10,18 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| Tennis Channel 2 (1080p) | slow | 1.46 |  |  |  |
+| Tennis Channel 2 (1080p) | slow | 1.37 |  |  |  |
 
 ## All slow and failing streams
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| 30A Investment Pitch (720p) | dead |  | 0 |  | RemoteDisconnected |
+| 30A Georgia Hollywood Review (720p) | dead |  | 0 |  | RemoteDisconnected |
 | 30A Lionel Nation | dead |  | 1 |  | HTTP 404 |
 | 30A Loomered TV | dead |  | 1 |  | HTTP 404 |
 | 30A Music (720p) | dead |  | 0 |  | RemoteDisconnected |
-| 30A Television Channel (720p) | dead |  | 0 |  | RemoteDisconnected |
+| 30A The Beach Show (720p) | dead |  | 0 |  | RemoteDisconnected |
+| 30A TV Classic Movies (720p) | dead |  | 0 |  | RemoteDisconnected |
 | ABC News Live 1 (720p) | dead |  | 1 |  | HTTP 404 |
 | ABC News Live 10 (720p) | dead |  | 1 |  | HTTP 404 |
 | ABC News Live 2 (720p) | dead |  | 1 |  | HTTP 404 |
@@ -64,7 +65,6 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Capital City Connection Montgomery [Not 24/7] | dead |  | 1 |  | HTTP 403 |
 | Cartoon Network (United States) (720p) | dead |  | 1 |  | URLError |
 | CBS KUTV (1080p) | dead |  | 1 |  | HTTP 404 |
-| CBS News Baltimore (720p) | dead |  | 0 |  | empty segment |
 | CBS News Bay Area (720p) | dead |  | 1 |  | HTTP 404 |
 | CBS News Boston (720p) | dead |  | 1 |  | HTTP 404 |
 | CBS News Chicago (720p) | dead |  | 1 |  | HTTP 404 |
@@ -75,7 +75,6 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | CBS News New York (720p) | dead |  | 1 |  | HTTP 404 |
 | CBS News Philly (720p) | dead |  | 1 |  | HTTP 404 |
 | CBS News Pittsburgh (720p) | dead |  | 1 |  | HTTP 404 |
-| CBS News Sacramento (720p) | dead |  | 0 |  | empty segment |
 | CBS WKRC-TV (1080p) | dead |  | 1 |  | HTTP 404 |
 | CBS WPEC (1080p) | dead |  | 1 |  | HTTP 404 |
 | CBS WWMT (1080p) | dead |  | 1 |  | HTTP 404 |
@@ -91,7 +90,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | CMAC 1 (720p) | dead |  | 1 |  | HTTP 403 |
 | CMAC 2 (720p) | dead |  | 1 |  | HTTP 403 |
 | CMAC 3 (720p) | dead |  | 1 |  | HTTP 403 |
-| CMC-USA Country Music Channel (720p) | dead |  | 0 |  | InvalidURL |
+| CMAP Channel 19 (720p) | dead |  | 0 |  | URLError |
 | CNBC (720p) [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
 | Collier TV (720p) | dead |  | 1 |  | HTTP 403 |
 | Comedy Dynamics (1080p) | dead |  | 1 |  | URLError |
@@ -114,7 +113,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Disney XD (United States) (720p) | dead |  | 1 |  | HTTP 404 |
 | Diya TV (1080p) | dead |  | 1 |  | URLError |
 | Docurama (1080p) | dead |  | 1 |  | URLError |
-| DreamWorks Channel Asia (1080p) | dead |  | 1 |  | TimeoutError |
+| DreamWorks Channel Asia (1080p) | dead |  | 1 |  | HTTP 502 |
 | E! Keeping Up (1080p) | dead |  | 1 |  | URLError |
 | El Rey | dead |  | 1 |  | HTTP 400 |
 | Escambia County TV (720p) | dead |  | 1 |  | HTTP 404 |
@@ -129,7 +128,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Fox (United States) WBFF (1080p) | dead |  | 1 |  | HTTP 404 |
 | Fox (United States) West (720p) | dead |  | 1 |  | URLError |
 | Fox (United States) WSVN (1080p) | dead |  | 1 |  | URLError |
-| Fox Deportes (720p) | dead |  | 1 |  | TimeoutError |
+| Fox Deportes (720p) | dead |  | 1 |  | HTTP 404 |
 | Freebie TV (720p) [Not 24/7] | dead |  | 1 |  | HTTP 504 |
 | G10TV (1080p) | dead |  | 1 |  | HTTP 403 |
 | Gagsnetwork (576p) | dead |  | 1 |  | TimeoutError |
@@ -161,6 +160,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Ketchup TV (720p) | dead |  | 1 |  | HTTP 502 |
 | Kevin Hart's LOL! Network (720p) | dead |  | 1 |  | HTTP 502 |
 | KFON TV (720p) [Geo-blocked] | dead |  | 1 |  | HTTP 403 |
+| KVTN-DT 25.1 (720p) | dead |  | 0 |  | URLError |
 | LA CityView 35 (1080p) | dead |  | 1 |  | HTTP 403 |
 | LA36 (1080p) | dead |  | 1 |  | HTTP 403 |
 | Laff (576p) | dead |  | 1 |  | URLError |
@@ -173,6 +173,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Lone Star (1080p) | dead |  | 1 |  | HTTP 403 |
 | Magnificent Movies Network | dead |  | 1 |  | HTTP 404 |
 | Magnolia Network (720p) | dead |  | 1 |  | URLError |
+| MBC 1 USA (1080p) [Geo-blocked] | dead |  | 0 |  | InvalidURL |
 | MCPSS TV | dead |  | 1 |  | HTTP 404 |
 | MeTV (720p) | dead |  | 1 |  | HTTP 403 |
 | MMA TV (576p) | dead |  | 1 |  | URLError |
@@ -200,17 +201,17 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | NEW K-POP (1080p) | dead |  | 1 |  | HTTP 400 |
 | NEW K.MOVIES (1080p) | dead |  | 1 |  | HTTP 400 |
 | News of the World (720p) | dead |  | 1 |  | HTTP 404 |
-| News12 Bronx [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
-| News12 Brooklyn [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
-| News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
-| News12 Long Island (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| News12 Bronx [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
+| News12 Brooklyn [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
 | News12 New Jersey [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
-| News12 Westchester [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
+| News12 Westchester [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
-| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
-| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
-| News12+ New Jersey (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
-| News12+ New York (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
+| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| News12+ New Jersey (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
+| News12+ New York (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| Nicktoons (United States) CA | dead |  | 0 |  | empty segment |
 | NorCast Weather (1080p) | dead |  | 0 |  | too little data |
 | NRBTV (720p) | dead |  | 1 |  | HTTP 403 |
 | NYXT (1080p) | dead |  | 1 |  | HTTP 403 |
@@ -228,6 +229,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Popstar! TV (1080p) [Not 24/7] | dead |  | 1 |  | URLError |
 | PSD TV (720p) | dead |  | 1 |  | HTTP 403 |
 | PTL TV Network (1080p) | dead |  | 1 |  | HTTP 403 |
+| RCTV (United States) (720p) | dead |  | 0 |  | URLError |
 | Real America's Voice (1080p) | dead |  | 1 |  | URLError |
 | Reelz (720p) | dead |  | 1 |  | HTTP 404 |
 | Revry News (720p) [Not 24/7] | dead |  | 1 |  | URLError |
@@ -246,6 +248,7 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | Starz Encore Spanish (720p) | dead |  | 1 |  | URLError |
 | Stockton Gov TV (720p) | dead |  | 1 |  | HTTP 404 |
 | Summer of Movies | dead |  | 1 |  | HTTP 404 |
+| TAP TV Channel 23 (720p) | dead |  | 0 |  | URLError |
 | TBCN (480p) | dead |  | 1 |  | HTTP 403 |
 | TBN (1080p) | dead |  | 1 |  | HTTP 404 |
 | TBN Inspire (1080p) | dead |  | 1 |  | HTTP 404 |
@@ -283,29 +286,57 @@ OK: 1148 - Slow: 20 - Failed: 273 - Hidden from playlists: 0
 | WACX 55.1 (720p) | dead |  | 1 |  | URLError |
 | Willamette Falls Media Center | dead |  | 1 |  | HTTP 403 |
 | Willow (720p) | dead |  | 1 |  | URLError |
+| Wine Watches & Whiskey (1080p) | dead |  | 0 |  | empty segment |
 | WITN22 (1080p) [Not 24/7] | dead |  | 1 |  | HTTP 404 |
 | World Channel (1080p) | dead |  | 1 |  | too little data |
 | World Channel WGTV (1080p) | dead |  | 1 |  | too little data |
 | WPLG 10.1 (720p) | dead |  | 1 |  | HTTP 404 |
 | WPS-TV (360p) | dead |  | 1 |  | no segments |
+| WWE Network (1080p) | dead |  | 0 |  | ConnectionResetError |
 | Youtoo America KVVB-LD (1080p) [Not 24/7] | dead |  | 1 |  | HTTP 404 |
-| AXN Adria | slow | 0.15 |  |  |  |
-| Big Ten Network (720p) | slow | 1.16 |  |  |  |
-| Bravo (720p) | slow | 0.71 |  |  |  |
-| Extrema TV (United States) (720p) | slow | 0.96 |  |  |  |
-| Faith TV (1080p) | slow | 0.61 |  |  |  |
-| History Asia (720p) | slow | 0.97 |  |  |  |
-| It Is Written TV (1080p) | slow | 0.77 |  |  |  |
-| Just for Laughs Gags (1080p) | slow | 0.81 |  |  |  |
-| KOCT Channel 18 (720p) | slow | 1.49 |  |  |  |
-| Nicktoons (United States) (720p) | slow | 0.97 |  |  |  |
-| Outdoor Channel Vietnam (1080p) | slow | 0.68 |  |  |  |
-| People Are Awesome (1080p) | slow | 1.32 |  |  |  |
-| TBN Pacific | slow | 1.02 |  |  |  |
-| Tennis Channel 2 (1080p) | slow | 1.46 |  |  |  |
-| TVS Family Channel (360p) | slow | 0.32 |  |  |  |
-| TVS Hi Tops (720p) | slow | 0.15 |  |  |  |
-| TVS Pet Parade Network (360p) | slow | 0.17 |  |  |  |
-| TVS Television Network (480p) | slow | 0.37 |  |  |  |
-| Warner TV Asia (720p) | slow | 1.19 |  |  |  |
-| WWE Network (1080p) | slow | 1.22 |  |  |  |
+| AccessVision Channel 17 (720p) | slow | 1.41 |  |  |  |
+| AXN Adria | slow | 0.16 |  |  |  |
+| BATV Government Channel | slow | 1.16 |  |  |  |
+| Bravo (720p) | slow | 1.03 |  |  |  |
+| Disney Channel (United States) (720p) [Geo-blocked] | slow | 0.92 |  |  |  |
+| Extrema TV (United States) (720p) | slow | 1.36 |  |  |  |
+| Faith TV (1080p) | slow | 1.35 |  |  |  |
+| Government TV 16 (720p) | slow | 1.4 |  |  |  |
+| History Asia (720p) | slow | 0.9 |  |  |  |
+| LifevisionTV (406p) [Not 24/7] | slow | 0.31 |  |  |  |
+| Midpen Media Center Channel 26 (720p) | slow | 0.58 |  |  |  |
+| Midpen Media Center Channel 28 (720p) | slow | 0.62 |  |  |  |
+| Midpen Media Center Channel 29 (720p) | slow | 0.54 |  |  |  |
+| Midpen Media Center Channel 30 (720p) | slow | 0.46 |  |  |  |
+| Midpen Media Center Channel 75 (720p) | slow | 0.45 |  |  |  |
+| MRVTV Channel 44 (720p) | slow | 1.26 |  |  |  |
+| MRVTV Channel 45 (720p) | slow | 1.04 |  |  |  |
+| Natick Public Access Channel (720p) | slow | 1.13 |  |  |  |
+| NCTV79 (1080p) | slow | 1.08 |  |  |  |
+| Outdoor Channel Vietnam (1080p) | slow | 0.5 |  |  |  |
+| PCT Channel 26 (720p) | slow | 1.06 |  |  |  |
+| PCT Channel 27 (720p) | slow | 1.08 |  |  |  |
+| PhillyCAM (720p) | slow | 1.33 |  |  |  |
+| PHLgovTV (720p) | slow | 1.23 |  |  |  |
+| Racer Network (1080p) | slow | 1.22 |  |  |  |
+| RVTV Civic (720p) | slow | 1.39 |  |  |  |
+| RVTV Grants Pass (720p) | slow | 1.21 |  |  |  |
+| RVTV Prime (720p) | slow | 1.29 |  |  |  |
+| RVTV Voices (720p) | slow | 1.03 |  |  |  |
+| SMCTV Channel 25 (720p) | slow | 1.26 |  |  |  |
+| Sound View Community Media (480p) | slow | 1.16 |  |  |  |
+| TAP TV Channel 24 (720p) | slow | 1.19 |  |  |  |
+| TAP TV Channel 25 (720p) | slow | 1.29 |  |  |  |
+| TBN Pacific | slow | 0.98 |  |  |  |
+| Tennis Channel 2 (1080p) | slow | 1.37 |  |  |  |
+| The Asylum (1080p) | slow | 1.46 |  |  |  |
+| TNT (United States) (720p) [Geo-blocked] | slow | 1.45 |  |  |  |
+| TVS Family Channel (360p) | slow | 0.26 |  |  |  |
+| TVS Hi Tops (720p) | slow | 0.26 |  |  |  |
+| TVS Pet Parade Network (360p) | slow | 0.27 |  |  |  |
+| TVS Television Network (480p) | slow | 0.47 |  |  |  |
+| TVS Women Sports (720p) | slow | 0.28 |  |  |  |
+| Warner TV Asia (720p) | slow | 0.99 |  |  |  |
+| Westerns 4U (1080p) | slow | 0.3 |  |  |  |
+| Yuma Channel 72 (1080p) | slow | 1.16 |  |  |  |
+| Yuma Channel 73 (1080p) | slow | 1.23 |  |  |  |
