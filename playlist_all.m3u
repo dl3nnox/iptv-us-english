@@ -2215,10 +2215,10 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-chno="1100" group-title="Outdoor",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="1101" group-title="Outdoor",Outdoor Channel HD (720p)
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="1102" group-title="Outdoor",Outdoor Channel (1080p)
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="1101" group-title="Outdoor",Outdoor Channel (1080p)
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="1102" group-title="Outdoor",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@Vietnam" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="1103" group-title="Outdoor",Outdoor Channel Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://www.cynopsis.com/wp-content/uploads/2018/02/outside-tv.png" tvg-chno="1104" group-title="Outdoor",Outside TV (1080p)
