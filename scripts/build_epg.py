@@ -52,7 +52,8 @@ for s, root in guides.items():
     for ch in root.findall('channel'):
         for dn in ch.findall('display-name'):
             c[norm(dn.text or '')].add(ch.get('id'))
-    nidx[s] = {k: next(iter(v)) for k, v in c.items() if len(v) == 1 and k}
+    # names must be unique within a source - except Pluto, which repeats a channel per region
+    nidx[s] = {k: sorted(v)[0] for k, v in c.items() if k and (len(v) == 1 or s == 'pluto')}
 pluto_ids = {ch.get('id') for ch in guides['pluto'].findall('channel')}
 
 ents, cur = [], None

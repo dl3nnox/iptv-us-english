@@ -192,7 +192,7 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | NBC WRDE-LD (720p) [Not 24/7] | dead |  | 1 |  | HTTP 404 |
 | NBC WTLV (1080p) | dead |  | 1 |  | URLError |
 | NBC WTOV-TV (1080p) | dead |  | 1 |  | HTTP 404 |
-| NBC WTVJ (1080p) | dead |  | 0 |  | HTTP 404 |
+| NBC WTVJ (1080p) | dead |  | 1 |  | HTTP 404 |
 | NCM Educational & Kids Channel | dead |  | 1 |  | HTTP 403 |
 | NCM Government & Politics Channel | dead |  | 1 |  | HTTP 403 |
 | NCM Main Channel | dead |  | 1 |  | HTTP 403 |
@@ -204,7 +204,7 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | News12 Conneticut [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
 | News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
 | News12 Long Island (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
-| News12 New Jersey [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
+| News12 New Jersey [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12 Westchester [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
