@@ -1,7 +1,7 @@
 name: Build EPG
 on:
   schedule:
-    - cron: '17 9 * * *'   # daily, 4:17 AM Jamaica time
+    - cron: '17 9,21 * * *'   # twice daily: 4:17 AM and 4:17 PM Jamaica time
   workflow_dispatch:
   push:
     paths: ['source/**', 'scripts/**']

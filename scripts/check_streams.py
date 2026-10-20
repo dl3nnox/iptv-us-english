@@ -80,7 +80,8 @@ def run(e):
 
 try: health = json.load(open('health.json'))
 except Exception: health = {}
-today = datetime.date.today().isoformat()
+now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
+NOW = now.isoformat()
 ents = parse()
 with cf.ThreadPoolExecutor(48) as ex:
     results = list(ex.map(run, ents))
@@ -88,13 +89,14 @@ new = {}
 for url, name, r in results:
     old = health.get(url, {})
     if r['status'] != 'dead':
-        fails = 0
-    elif old.get('checked') == today and old.get('status') == 'dead':
-        fails = old.get('fails', 1)          # already counted today - count once per day
+        first_fail, last_ok, fails = None, NOW, 0
     else:
-        fails = old.get('fails', 0) + 1
-    new[url] = {'name': name, **r, 'fails': fails, 'checked': today,
-                'last_ok': today if r['status'] != 'dead' else old.get('last_ok')}
+        # first_fail = when this run of failures started (kept until the stream works again)
+        first_fail = old.get('first_fail') if old.get('status') == 'dead' and old.get('first_fail') else NOW
+        last_ok = old.get('last_ok')
+        fails = old.get('fails', 0) + 1 if old.get('status') == 'dead' else 1
+    new[url] = {'name': name, **r, 'fails': fails, 'checked': NOW,
+                'first_fail': first_fail, 'last_ok': last_ok}
 json.dump(new, open('health.json', 'w'), indent=1, sort_keys=True)
 c = {s: sum(1 for v in new.values() if v['status'] == s) for s in ('ok', 'slow', 'dead')}
 print('stream check:', c)

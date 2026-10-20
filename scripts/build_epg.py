@@ -89,14 +89,28 @@ def clean(inf):
 import json
 try: health = json.load(open('health.json'))
 except Exception: health = {}
-DROP_AFTER = 2   # consecutive daily failures before a stream is hidden
-def hidden(url): return health.get(url, {}).get('fails', 0) >= DROP_AFTER
+import datetime
+HIDE_AFTER_HOURS = 12   # hidden only if still failing 12+ hours after its first failed check
+NOW = datetime.datetime.now(datetime.timezone.utc)
+try:
+    FAVS = [l.strip() for l in open('source/favourites.txt', encoding='utf-8') if l.strip() and not l.startswith('#')]
+except FileNotFoundError:
+    FAVS = []
+FAV_SET = {f.lower() for f in FAVS}
+def failing_hours(v):
+    if v.get('status') != 'dead' or not v.get('first_fail'): return 0
+    return (NOW - datetime.datetime.fromisoformat(v['first_fail'])).total_seconds() / 3600
+def should_hide(v):
+    return failing_hours(v) >= HIDE_AFTER_HOURS and v.get('fails', 0) >= 2
+def hidden(url, name=''):
+    if name.strip().lower() in FAV_SET: return False      # never auto-hide favourites
+    return should_hide(health.get(url, {}))
 def speed(url):
     v = health.get(url, {})
     return -(v.get('speed') or 0) if v.get('status') in ('ok', 'slow') else 1
 ordered = []
 for inf, opts, url in ents:
-    if hidden(url): continue
+    if hidden(url, inf.rsplit(',', 1)[1]): continue
     g, inf2 = clean(inf)
     nm = inf2.rsplit(',', 1)[1].strip()
     base = re.sub(r'\s*(\(\d+p\)|\[.*?\]|\bHD\b|\bSD\b)', '', nm).strip().lower()
@@ -105,10 +119,7 @@ for inf, opts, url in ents:
 ordered.sort(key=lambda e: (e[0] == 'Other', e[0].lower(), e[1], e[6], e[7]))
 ordered = [e[:6] for e in ordered]
 # Favourites group at the top (copies; channels also stay in their own category)
-try:
-    favs = [l.strip() for l in open('source/favourites.txt', encoding='utf-8') if l.strip() and not l.startswith('#')]
-except FileNotFoundError:
-    favs = []
+favs = FAVS
 by_name = {}
 for e in ordered:
     by_name.setdefault(e[2].rsplit(',', 1)[1].strip().lower(), e)  # first = fastest copy
@@ -139,14 +150,24 @@ if len(mapping) < 50: sys.exit('Too few matches - not publishing a broken guide'
 if health:
     rows = sorted(health.values(), key=lambda v: (v['status'] != 'dead', v['status'] != 'slow', v['name'].lower()))
     cnt = collections.Counter(v['status'] for v in health.values())
-    hid = sum(1 for v in health.values() if v.get('fails', 0) >= DROP_AFTER)
+    hid = sum(1 for v in health.values() if should_hide(v) and v['name'].lower() not in FAV_SET)
+    fav_bad = [v for v in rows if v['name'].lower() in FAV_SET and v['status'] != 'ok']
+    last = max(v['checked'] for v in health.values())
+    def fmt(v):
+        h = failing_hours(v)
+        hidden_txt = 'yes' if should_hide(v) and v['name'].lower() not in FAV_SET else ''
+        return (f"| {v['name']} | {v['status']} | {v.get('speed') or ''} | "
+                f"{round(h) if h else ''} | {hidden_txt} | {v.get('why','')} |\n")
+    head = "| Channel | Status | Speed | Hours failing | Hidden | Note |\n|---|---|---|---|---|---|\n"
     with open('STREAM_HEALTH.md', 'w', encoding='utf-8') as f:
-        f.write(f"# Stream health\n\nChecked {rows[0]['checked']} from GitHub's US servers. "
+        f.write(f"# Stream health\n\nLast checked {last} UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).\n\n"
                 f"OK: {cnt['ok']} - Slow: {cnt['slow']} - Failed: {cnt['dead']} - Hidden from playlists: {hid}\n\n"
-                "Speed = how many times faster than real-time a segment downloaded (under 1.5 = likely to buffer). "
-                f"Streams that fail {DROP_AFTER} days in a row are hidden until they work again.\n\n"
-                "| Channel | Status | Speed | Days failing | Note |\n|---|---|---|---|---|\n")
+                "**Speed** = how many times faster than real time a segment downloaded (under 1.5 = likely to buffer). "
+                f"A stream is **hidden** once it has failed checks at least {HIDE_AFTER_HOURS} hours apart, and comes back automatically when it works again. "
+                "Favourites are never hidden automatically.\n\n")
+        f.write("## Favourites with problems\n\n")
+        f.write(head + ''.join(fmt(v) for v in fav_bad) if fav_bad else "None - all favourites passed the last check.\n")
+        f.write("\n## All slow and failing streams\n\n" + head)
         for v in rows:
-            if v['status'] == 'ok': continue
-            f.write(f"| {v['name']} | {v['status']} | {v.get('speed','')} | {v.get('fails',0)} | {v.get('why','')} |\n")
-    print('hidden streams:', hid)
+            if v['status'] != 'ok': f.write(fmt(v))
+    print('hidden streams:', hid, '| favourites with problems:', len(fav_bad))

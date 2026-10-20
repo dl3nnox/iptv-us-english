@@ -15,7 +15,7 @@ Replace `dl3nnox/iptv-us-english` with this repo's path.
 The playlists already include the EPG link, so most players pick up the guide automatically.
 
 ## Stream health
-Every day each stream is tested from GitHub's US servers. Streams that fail 2 days in a row are hidden from the playlists (and come back automatically if they recover); when a channel has several copies, the fastest is listed first. See [STREAM_HEALTH.md](STREAM_HEALTH.md) for slow and failing channels.
+Twice a day (about 4 AM and 4 PM Jamaica time) each stream is tested from GitHub's US servers. A stream that is still failing 12+ hours after it first failed is hidden from the playlists, and comes back automatically when it works again. Favourites are never hidden automatically; when a channel has several copies, the fastest is listed first. See [STREAM_HEALTH.md](STREAM_HEALTH.md) for slow and failing channels.
 
 ## How it works
 `.github/workflows/build-epg.yml` runs `scripts/build_epg.py` every day and commits fresh files.
