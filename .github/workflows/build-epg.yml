@@ -7,6 +7,9 @@ on:
     paths: ['source/**', 'scripts/**']
 permissions:
   contents: write
+concurrency:
+  group: build-epg
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,4 +25,5 @@ jobs:
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add epg.xml.gz playlist_all.m3u playlist_guide_only.m3u
           git diff --cached --quiet || git commit -m "Daily EPG refresh $(date -u +%F)"
+          git pull --rebase origin main
           git push
