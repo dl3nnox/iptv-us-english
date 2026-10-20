@@ -87,7 +87,12 @@ with cf.ThreadPoolExecutor(48) as ex:
 new = {}
 for url, name, r in results:
     old = health.get(url, {})
-    fails = 0 if r['status'] != 'dead' else old.get('fails', 0) + 1
+    if r['status'] != 'dead':
+        fails = 0
+    elif old.get('checked') == today and old.get('status') == 'dead':
+        fails = old.get('fails', 1)          # already counted today - count once per day
+    else:
+        fails = old.get('fails', 0) + 1
     new[url] = {'name': name, **r, 'fails': fails, 'checked': today,
                 'last_ok': today if r['status'] != 'dead' else old.get('last_ok')}
 json.dump(new, open('health.json', 'w'), indent=1, sort_keys=True)

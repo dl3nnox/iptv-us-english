@@ -37,7 +37,7 @@
  },
  "http://144.217.14.88/hls/hope4life.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Hope4Life TV (720p)",
   "status": "dead",
@@ -45,7 +45,7 @@
  },
  "http://145.239.5.177/215/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NRBTV (720p)",
   "status": "dead",
@@ -53,7 +53,7 @@
  },
  "http://168.228.44.241:9997/play/a07g/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Telemundo West (2160p)",
   "status": "dead",
@@ -61,7 +61,7 @@
  },
  "http://168.228.44.241:9998/play/a0e1/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Starz Encore Spanish (720p)",
   "status": "dead",
@@ -87,7 +87,7 @@
  },
  "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC (1080p)",
   "status": "dead",
@@ -95,7 +95,7 @@
  },
  "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Telemundo (720p)",
   "status": "dead",
@@ -103,7 +103,7 @@
  },
  "http://190.197.41.183/Fox/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) WSVN (1080p)",
   "status": "dead",
@@ -111,7 +111,7 @@
  },
  "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Magnolia Network (720p)",
   "status": "dead",
@@ -119,7 +119,7 @@
  },
  "http://190.197.41.183/NBC/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WTLV (1080p)",
   "status": "dead",
@@ -127,7 +127,7 @@
  },
  "http://190.197.41.183/USA_NETWORK/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "USA Network (720p)",
   "status": "dead",
@@ -135,7 +135,7 @@
  },
  "http://190.197.41.183/Unimas/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "UniMas WAMI-DT (1080p)",
   "status": "dead",
@@ -143,7 +143,7 @@
  },
  "http://190.197.41.183/Unimas/mono.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "UniMas Central (720p)",
   "status": "dead",
@@ -151,7 +151,7 @@
  },
  "http://190.197.41.183/Univision/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Univision (1080p)",
   "status": "dead",
@@ -384,7 +384,7 @@
  },
  "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Disney XD (United States) (720p)",
   "status": "dead",
@@ -401,7 +401,7 @@
  },
  "http://23.237.104.106:8080/USA_ESPNU/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ESPNU (720p)",
   "status": "dead",
@@ -418,7 +418,7 @@
  },
  "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox Deportes (720p)",
   "status": "dead",
@@ -435,7 +435,7 @@
  },
  "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Hallmark Channel (1080p)",
   "status": "dead",
@@ -443,7 +443,7 @@
  },
  "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HBO Movies (720p)",
   "status": "dead",
@@ -478,7 +478,7 @@
  },
  "http://23.237.104.106:8080/USA_LMN/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Lifetime Movies (1080p)",
   "status": "dead",
@@ -504,7 +504,7 @@
  },
  "http://23.237.104.106:8080/USA_MSG/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MSG (720p)",
   "status": "dead",
@@ -566,7 +566,7 @@
  },
  "http://23.237.104.106:8080/USA_REELZ/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Reelz (720p)",
   "status": "dead",
@@ -601,7 +601,7 @@
  },
  "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Starz Cinema (720p)",
   "status": "dead",
@@ -735,7 +735,7 @@
  },
  "http://31.148.48.15/M1_Global/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MMA TV (576p)",
   "status": "dead",
@@ -770,7 +770,7 @@
  },
  "http://41.205.93.154/CNBC/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CNBC (720p) [Geo-blocked]",
   "status": "dead",
@@ -814,7 +814,7 @@
  },
  "http://45.190.13.8/UnivisionHD/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Univision East HD (1080p)",
   "status": "dead",
@@ -885,7 +885,7 @@
  },
  "http://88.212.15.19/live/test_black/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "AXN Black (United States) Czech Republic",
   "status": "dead",
@@ -893,7 +893,7 @@
  },
  "http://88.212.15.19/live/viasat_film/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "AXN Crime",
   "status": "dead",
@@ -910,7 +910,7 @@
  },
  "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Toonami Aftermath West (480p)",
   "status": "dead",
@@ -945,7 +945,7 @@
  },
  "http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Gagsnetwork (576p)",
   "status": "dead",
@@ -1043,7 +1043,7 @@
  },
  "http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Lifetime Asia (1080p)",
   "status": "dead",
@@ -1051,7 +1051,7 @@
  },
  "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CCX1 (1080p)",
   "status": "dead",
@@ -1059,7 +1059,7 @@
  },
  "http://stream.cammonitorplus.net/1752/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) (720p)",
   "status": "dead",
@@ -1067,7 +1067,7 @@
  },
  "http://stream.cammonitorplus.net/1799/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) West (720p)",
   "status": "dead",
@@ -1075,7 +1075,7 @@
  },
  "http://stream.cammonitorplus.net/1800/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC West (720p)",
   "status": "dead",
@@ -1083,7 +1083,7 @@
  },
  "http://tvsen5.aynascope.net/disney/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "Disney Junior (United States) (480p)",
   "status": "dead",
@@ -1091,7 +1091,7 @@
  },
  "http://tvsen5.aynascope.net/willowhd/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "Willow (720p)",
   "status": "dead",
@@ -1099,7 +1099,7 @@
  },
  "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "Cartoon Network (United States) (720p)",
   "status": "dead",
@@ -1107,7 +1107,7 @@
  },
  "http://tvsen7.aynascope.net/espn/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "ESPN (United States) (432p)",
   "status": "dead",
@@ -1115,7 +1115,7 @@
  },
  "http://tvsen7.aynascope.net/hbo/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "HBO (United States) (720p)",
   "status": "dead",
@@ -1123,7 +1123,7 @@
  },
  "http://tvsen7.aynascope.net/hbo2/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HBO Hits (720p)",
   "status": "dead",
@@ -1131,7 +1131,7 @@
  },
  "http://tvsen7.aynascope.net/hgtv/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "HGTV (United States) (720p)",
   "status": "dead",
@@ -1139,7 +1139,7 @@
  },
  "http://tvsen7.aynascope.net/laff/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "Laff (576p)",
   "status": "dead",
@@ -1147,7 +1147,7 @@
  },
  "http://tvsen7.aynascope.net/teennick/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "TeenNick (United States) (432p)",
   "status": "dead",
@@ -1290,7 +1290,7 @@
  },
  "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Kentucky Educational Television WKMJ-TV (480p)",
   "status": "dead",
@@ -1433,7 +1433,7 @@
  },
  "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "WPS-TV (360p)",
   "status": "dead",
@@ -1441,7 +1441,7 @@
  },
  "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Kentucky Educational Television WKPC-TV (480p)",
   "status": "dead",
@@ -1467,7 +1467,7 @@
  },
  "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Youtoo America KVVB-LD (1080p) [Not 24/7]",
   "status": "dead",
@@ -1484,7 +1484,7 @@
  },
  "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS Kids Eastern/Central (720p)",
   "status": "dead",
@@ -1590,7 +1590,7 @@
  },
  "https://30a-tv.com/ln.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "30A Lionel Nation",
   "status": "dead",
@@ -1598,7 +1598,7 @@
  },
  "https://30a-tv.com/loomer.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "30A Loomered TV",
   "status": "dead",
@@ -1740,7 +1740,7 @@
  },
  "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MCPSS TV",
   "status": "dead",
@@ -1829,7 +1829,7 @@
  },
  "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "WACX 55.1 (720p)",
   "status": "dead",
@@ -1873,7 +1873,7 @@
  },
  "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MeTV (720p)",
   "status": "dead",
@@ -2007,7 +2007,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 1 (720p)",
   "status": "dead",
@@ -2015,7 +2015,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 2 (720p)",
   "status": "dead",
@@ -2023,7 +2023,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 3 (720p)",
   "status": "dead",
@@ -2031,7 +2031,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 4 (720p)",
   "status": "dead",
@@ -2039,7 +2039,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 5 (720p)",
   "status": "dead",
@@ -2047,7 +2047,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 6 (720p)",
   "status": "dead",
@@ -2055,7 +2055,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 7 (720p)",
   "status": "dead",
@@ -2063,7 +2063,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 8 (720p)",
   "status": "dead",
@@ -2071,7 +2071,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 9 (720p)",
   "status": "dead",
@@ -2079,7 +2079,7 @@
  },
  "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC News Live 10 (720p)",
   "status": "dead",
@@ -2087,7 +2087,7 @@
  },
  "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NEW K.MOVIES (1080p)",
   "status": "dead",
@@ -2095,7 +2095,7 @@
  },
  "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NEW K-POP (1080p)",
   "status": "dead",
@@ -2139,7 +2139,7 @@
  },
  "https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "The Bob Ross Channel (720p)",
   "status": "dead",
@@ -2363,7 +2363,7 @@
  },
  "https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Cinevault 80s (720p)",
   "status": "dead",
@@ -2479,7 +2479,7 @@
  },
  "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Alabama Weather Network (720p)",
   "status": "dead",
@@ -2523,7 +2523,7 @@
  },
  "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo '70s (1080p)",
   "status": "dead",
@@ -2531,7 +2531,7 @@
  },
  "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo '80s (1080p)",
   "status": "dead",
@@ -2539,7 +2539,7 @@
  },
  "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo '90s (1080p)",
   "status": "dead",
@@ -2547,7 +2547,7 @@
  },
  "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo Country (1080p)",
   "status": "dead",
@@ -2555,7 +2555,7 @@
  },
  "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Baywatch (1080p)",
   "status": "dead",
@@ -2860,7 +2860,7 @@
  },
  "https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "The Hill TV (1080p) [Geo-blocked]",
   "status": "dead",
@@ -3219,7 +3219,7 @@
  },
  "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Movies! (480p)",
   "status": "dead",
@@ -3245,7 +3245,7 @@
  },
  "https://brightonco.cablecast.tv/live-4/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "KBRI-8 (720p)",
   "status": "dead",
@@ -3307,7 +3307,7 @@
  },
  "https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Shalom World Australia (1080p) [Geo-blocked]",
   "status": "dead",
@@ -3333,7 +3333,7 @@
  },
  "https://buenapark.cablecast.tv/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BPTV (360p)",
   "status": "dead",
@@ -3386,7 +3386,7 @@
  },
  "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Capital City Connection Montgomery [Not 24/7]",
   "status": "dead",
@@ -3394,7 +3394,7 @@
  },
  "https://carolburnett-vizio.amagi.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "The Carol Burnett Show (1080p)",
   "status": "dead",
@@ -3465,7 +3465,7 @@
  },
  "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Boston (720p)",
   "status": "dead",
@@ -3473,7 +3473,7 @@
  },
  "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Chicago (720p)",
   "status": "dead",
@@ -3481,7 +3481,7 @@
  },
  "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Colorado (720p)",
   "status": "dead",
@@ -3489,7 +3489,7 @@
  },
  "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Detroit (720p)",
   "status": "dead",
@@ -3497,7 +3497,7 @@
  },
  "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Los Angeles (720p)",
   "status": "dead",
@@ -3514,7 +3514,7 @@
  },
  "https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Minnesota (720p)",
   "status": "dead",
@@ -3522,7 +3522,7 @@
  },
  "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News New York (720p)",
   "status": "dead",
@@ -3530,7 +3530,7 @@
  },
  "https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Philly (720p)",
   "status": "dead",
@@ -3538,7 +3538,7 @@
  },
  "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Pittsburgh (720p)",
   "status": "dead",
@@ -3546,7 +3546,7 @@
  },
  "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS News Bay Area (720p)",
   "status": "dead",
@@ -3581,7 +3581,7 @@
  },
  "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Shop LC (1080p)",
   "status": "dead",
@@ -3994,7 +3994,7 @@
  },
  "https://cdn12.178.indevs.in/163189/dreamworks": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "DreamWorks Channel Asia (1080p)",
   "status": "dead",
@@ -4344,7 +4344,7 @@
  },
  "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "The Burbank Channel (720p)",
   "status": "dead",
@@ -4388,7 +4388,7 @@
  },
  "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Stockton Gov TV (720p)",
   "status": "dead",
@@ -4432,7 +4432,7 @@
  },
  "https://ch8.littletongov.org/live-2/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Littleton 8 TV (1080p)",
   "status": "dead",
@@ -4440,7 +4440,7 @@
  },
  "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CGTV (720p)",
   "status": "dead",
@@ -4448,7 +4448,7 @@
  },
  "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "The Film Detective (720p)",
   "status": "dead",
@@ -4501,7 +4501,7 @@
  },
  "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Comedy Dynamics (1080p)",
   "status": "dead",
@@ -4509,7 +4509,7 @@
  },
  "https://concordca.cablecast.tv/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Concord TV (720p)",
   "status": "dead",
@@ -4652,7 +4652,7 @@
  },
  "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Escambia County TV (720p)",
   "status": "dead",
@@ -4669,7 +4669,7 @@
  },
  "https://create.lls.pbs.org/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Create (1080p)",
   "status": "dead",
@@ -4713,7 +4713,7 @@
  },
  "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo Pop (1080p)",
   "status": "dead",
@@ -4820,7 +4820,7 @@
  },
  "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Freebie TV (720p) [Not 24/7]",
   "status": "dead",
@@ -4828,7 +4828,7 @@
  },
  "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo R&B (1080p)",
   "status": "dead",
@@ -4854,7 +4854,7 @@
  },
  "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Clubbing TV France",
   "status": "dead",
@@ -4871,7 +4871,7 @@
  },
  "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Kevin Hart's LOL! Network (720p)",
   "status": "dead",
@@ -4915,7 +4915,7 @@
  },
  "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo 2K (1080p)",
   "status": "dead",
@@ -4986,7 +4986,7 @@
  },
  "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Ketchup TV (720p)",
   "status": "dead",
@@ -5057,7 +5057,7 @@
  },
  "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo Retro Rock (1080p)",
   "status": "dead",
@@ -5344,7 +5344,7 @@
  },
  "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Vevo Hip Hop (1080p)",
   "status": "dead",
@@ -5415,7 +5415,7 @@
  },
  "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WBBJ-TV (432p)",
   "status": "dead",
@@ -5441,7 +5441,7 @@
  },
  "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Humor Mill (1080p)",
   "status": "dead",
@@ -5602,7 +5602,7 @@
  },
  "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BBC Kids (720p)",
   "status": "dead",
@@ -5628,7 +5628,7 @@
  },
  "https://docurama-plex-ingest.cinedigm.com/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Docurama (1080p)",
   "status": "dead",
@@ -5708,7 +5708,7 @@
  },
  "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Galveston County TV (720p) [Not 24/7]",
   "status": "dead",
@@ -5887,7 +5887,7 @@
  },
  "https://fnx.lls.pbs.org/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "FNX (1080p)",
   "status": "dead",
@@ -5949,7 +5949,7 @@
  },
  "https://freem3u.xyz/api/live/play.m3u8?vid=99": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HGTV Asia (1080p)",
   "status": "dead",
@@ -5966,7 +5966,7 @@
  },
  "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PixL TV",
   "status": "dead",
@@ -6010,7 +6010,7 @@
  },
  "https://glorystartv.live/Overcomers/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Overcomers TV (720p)",
   "status": "dead",
@@ -6081,7 +6081,7 @@
  },
  "https://irctv.cablecast.tv/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "COStv",
   "status": "dead",
@@ -7150,7 +7150,7 @@
  },
  "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Transformers TV (720p)",
   "status": "dead",
@@ -7257,7 +7257,7 @@
  },
  "https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Homicide Hunter",
   "status": "dead",
@@ -7741,7 +7741,7 @@
  },
  "https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Transformers TV CA",
   "status": "dead",
@@ -8118,7 +8118,7 @@
  },
  "https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Iron Chef",
   "status": "dead",
@@ -8243,7 +8243,7 @@
  },
  "https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Summer of Movies",
   "status": "dead",
@@ -8746,7 +8746,7 @@
  },
  "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS KETS [Geo-blocked]",
   "status": "dead",
@@ -8754,7 +8754,7 @@
  },
  "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS KHET (1080p) [Not 24/7]",
   "status": "dead",
@@ -8762,7 +8762,7 @@
  },
  "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS KQED (1080p)",
   "status": "dead",
@@ -8770,7 +8770,7 @@
  },
  "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS KUON-TV (1080p) [Geo-blocked]",
   "status": "dead",
@@ -8778,7 +8778,7 @@
  },
  "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS KVIE (1080p)",
   "status": "dead",
@@ -8786,7 +8786,7 @@
  },
  "https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Cops (720p)",
   "status": "dead",
@@ -8803,7 +8803,7 @@
  },
  "https://lin10.isilive.ca/live/gainesville/live/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Community 12TV (720p)",
   "status": "dead",
@@ -8811,7 +8811,7 @@
  },
  "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Greensboro TV (720p)",
   "status": "dead",
@@ -8819,7 +8819,7 @@
  },
  "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Popstar! TV (1080p) [Not 24/7]",
   "status": "dead",
@@ -8908,7 +8908,7 @@
  },
  "https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Revry News (720p) [Not 24/7]",
   "status": "dead",
@@ -8925,7 +8925,7 @@
  },
  "https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WJLA-TV (1080p)",
   "status": "dead",
@@ -8933,7 +8933,7 @@
  },
  "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) WBFF (1080p)",
   "status": "dead",
@@ -8941,7 +8941,7 @@
  },
  "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WSYX (1080p)",
   "status": "dead",
@@ -8949,7 +8949,7 @@
  },
  "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Roar WKEF (1080p)",
   "status": "dead",
@@ -8957,7 +8957,7 @@
  },
  "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS WKRC-TV (1080p)",
   "status": "dead",
@@ -8965,7 +8965,7 @@
  },
  "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS WPEC (1080p)",
   "status": "dead",
@@ -8973,7 +8973,7 @@
  },
  "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Roar WSBT-TV (1080p)",
   "status": "dead",
@@ -8981,7 +8981,7 @@
  },
  "https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WLOS (1080p)",
   "status": "dead",
@@ -8989,7 +8989,7 @@
  },
  "https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WPDE-TV (1080p)",
   "status": "dead",
@@ -8997,7 +8997,7 @@
  },
  "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WJAC-TV (1080p)",
   "status": "dead",
@@ -9005,7 +9005,7 @@
  },
  "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WTOV-TV (1080p)",
   "status": "dead",
@@ -9013,7 +9013,7 @@
  },
  "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MNT WCIV (1080p)",
   "status": "dead",
@@ -9021,7 +9021,7 @@
  },
  "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS WWMT (1080p)",
   "status": "dead",
@@ -9029,7 +9029,7 @@
  },
  "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WOAI-TV (1080p)",
   "status": "dead",
@@ -9037,7 +9037,7 @@
  },
  "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) KOKH-TV (1080p)",
   "status": "dead",
@@ -9045,7 +9045,7 @@
  },
  "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CBS KUTV (1080p)",
   "status": "dead",
@@ -9053,7 +9053,7 @@
  },
  "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC KSNV (1080p)",
   "status": "dead",
@@ -9061,7 +9061,7 @@
  },
  "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Fox (United States) KMPH-TV (1080p)",
   "status": "dead",
@@ -9168,7 +9168,7 @@
  },
  "https://live.field59.com/wlio/wlio1/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WLIO (720p) [Not 24/7]",
   "status": "dead",
@@ -9176,7 +9176,7 @@
  },
  "https://live.field59.com/wrde/wrde1/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NBC WRDE-LD (720p) [Not 24/7]",
   "status": "dead",
@@ -9211,7 +9211,7 @@
  },
  "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "SGTV (1080p)",
   "status": "dead",
@@ -9219,7 +9219,7 @@
  },
  "https://live8fd.lakewood.org/live-2/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Lakewood Channel 8 (720p)",
   "status": "dead",
@@ -9227,7 +9227,7 @@
  },
  "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "TBN (1080p)",
   "status": "dead",
@@ -9235,7 +9235,7 @@
  },
  "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "TBN Inspire (1080p)",
   "status": "dead",
@@ -9252,7 +9252,7 @@
  },
  "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "GMTV (1080p)",
   "status": "dead",
@@ -9773,7 +9773,7 @@
  },
  "https://lonestar-rakuten.amagi.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Lone Star (1080p)",
   "status": "dead",
@@ -9807,7 +9807,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12 Conneticut [Geo-blocked]",
   "status": "dead",
@@ -9815,7 +9815,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 2,
+  "fails": 1,
   "last_ok": "2026-10-20",
   "name": "News12 Hudson Valley [Geo-blocked]",
   "status": "dead",
@@ -9823,7 +9823,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12 New Jersey [Geo-blocked]",
   "status": "dead",
@@ -9839,7 +9839,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12 Long Island (1080p) [Geo-blocked]",
   "status": "dead",
@@ -9847,7 +9847,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
   "status": "dead",
@@ -9855,7 +9855,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12+ Long Island (1080p) [Geo-blocked]",
   "status": "dead",
@@ -9871,7 +9871,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12+ New York (1080p) [Geo-blocked]",
   "status": "dead",
@@ -9879,7 +9879,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
   "status": "dead",
@@ -9887,7 +9887,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12 Westchester [Geo-blocked]",
   "status": "dead",
@@ -9895,7 +9895,7 @@
  },
  "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News12 Bronx [Geo-blocked]",
   "status": "dead",
@@ -9948,7 +9948,7 @@
  },
  "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Magnificent Movies Network",
   "status": "dead",
@@ -9965,7 +9965,7 @@
  },
  "https://mst3k-roku.amagi.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MST3K (1080p)",
   "status": "dead",
@@ -10089,7 +10089,7 @@
  },
  "https://nowhls.wns.live/hls/stream.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "News of the World (720p)",
   "status": "dead",
@@ -10142,7 +10142,7 @@
  },
  "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "AXN White (United States)",
   "status": "dead",
@@ -10267,7 +10267,7 @@
  },
  "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "WPLG 10.1 (720p)",
   "status": "dead",
@@ -10392,7 +10392,7 @@
  },
  "https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Access Sacramento Channel 17",
   "status": "dead",
@@ -10400,7 +10400,7 @@
  },
  "https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "AuroraTV (720p)",
   "status": "dead",
@@ -10408,7 +10408,7 @@
  },
  "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BATV Government TV (480p)",
   "status": "dead",
@@ -10416,7 +10416,7 @@
  },
  "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BATV (480p)",
   "status": "dead",
@@ -10424,7 +10424,7 @@
  },
  "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "SF Commons 29 (480p)",
   "status": "dead",
@@ -10432,7 +10432,7 @@
  },
  "https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "SF Commons 76 (480p)",
   "status": "dead",
@@ -10440,7 +10440,7 @@
  },
  "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PSD TV (720p)",
   "status": "dead",
@@ -10448,7 +10448,7 @@
  },
  "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BIG Community Channel",
   "status": "dead",
@@ -10456,7 +10456,7 @@
  },
  "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BIG Civic Channel",
   "status": "dead",
@@ -10464,7 +10464,7 @@
  },
  "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Channel 18 GAC",
   "status": "dead",
@@ -10472,7 +10472,7 @@
  },
  "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Access 4 PAC",
   "status": "dead",
@@ -10480,7 +10480,7 @@
  },
  "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "LA36 (1080p)",
   "status": "dead",
@@ -10488,7 +10488,7 @@
  },
  "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "City of Loveland TV (1080p)",
   "status": "dead",
@@ -10496,7 +10496,7 @@
  },
  "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Collier TV (720p)",
   "status": "dead",
@@ -10531,7 +10531,7 @@
  },
  "https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Contra Costa TV [Geo-blocked]",
   "status": "dead",
@@ -10539,7 +10539,7 @@
  },
  "https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CreaTV Channel 15 (720p)",
   "status": "dead",
@@ -10547,7 +10547,7 @@
  },
  "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CreaTV Channel 28 (720p)",
   "status": "dead",
@@ -10555,7 +10555,7 @@
  },
  "https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CreaTV Channel 30 (720p)",
   "status": "dead",
@@ -10563,7 +10563,7 @@
  },
  "https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CreaTV Channel 27 (720p)",
   "status": "dead",
@@ -10571,7 +10571,7 @@
  },
  "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Detroit Channel 68",
   "status": "dead",
@@ -10579,7 +10579,7 @@
  },
  "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Detroit Channel 10",
   "status": "dead",
@@ -10587,7 +10587,7 @@
  },
  "https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Detroit Channel 22",
   "status": "dead",
@@ -10595,7 +10595,7 @@
  },
  "https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Detroit Channel 21",
   "status": "dead",
@@ -10603,7 +10603,7 @@
  },
  "https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "City of Fairfield Channel 26 (720p) [Geo-blocked]",
   "status": "dead",
@@ -10611,7 +10611,7 @@
  },
  "https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "FC Public Media (1080p)",
   "status": "dead",
@@ -10619,7 +10619,7 @@
  },
  "https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "GCO.tv (1080p)",
   "status": "dead",
@@ -10627,7 +10627,7 @@
  },
  "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Willamette Falls Media Center",
   "status": "dead",
@@ -10635,7 +10635,7 @@
  },
  "https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Glendale TV (720p) [Geo-blocked]",
   "status": "dead",
@@ -10643,7 +10643,7 @@
  },
  "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HKTV (1080p) [Geo-blocked]",
   "status": "dead",
@@ -10651,7 +10651,7 @@
  },
  "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HCTV Educational Access Channel",
   "status": "dead",
@@ -10659,7 +10659,7 @@
  },
  "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HCTV Government Channel",
   "status": "dead",
@@ -10667,7 +10667,7 @@
  },
  "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HCTV Public Access Channel",
   "status": "dead",
@@ -10675,7 +10675,7 @@
  },
  "https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "HBTV (720p)",
   "status": "dead",
@@ -10683,7 +10683,7 @@
  },
  "https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "G10TV (1080p)",
   "status": "dead",
@@ -10691,7 +10691,7 @@
  },
  "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "KCAT (1080p)",
   "status": "dead",
@@ -10699,7 +10699,7 @@
  },
  "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "LakeFront TV (720p)",
   "status": "dead",
@@ -10707,7 +10707,7 @@
  },
  "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "LA CityView 35 (1080p)",
   "status": "dead",
@@ -10715,7 +10715,7 @@
  },
  "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "MSTV (1080p)",
   "status": "dead",
@@ -10723,7 +10723,7 @@
  },
  "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "City of Monroe Government Channel",
   "status": "dead",
@@ -10731,7 +10731,7 @@
  },
  "https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Monroe Community Media Public Access Channel",
   "status": "dead",
@@ -10739,7 +10739,7 @@
  },
  "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Monroe Community Media Education Channel",
   "status": "dead",
@@ -10747,7 +10747,7 @@
  },
  "https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Montgomery Channel",
   "status": "dead",
@@ -10755,7 +10755,7 @@
  },
  "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Access 19",
   "status": "dead",
@@ -10763,7 +10763,7 @@
  },
  "https://reflect-npa.cablecast.tv/live-6/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NCM Main Channel",
   "status": "dead",
@@ -10771,7 +10771,7 @@
  },
  "https://reflect-npa.cablecast.tv/live-8/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NCM Government & Politics Channel",
   "status": "dead",
@@ -10779,7 +10779,7 @@
  },
  "https://reflect-npa.cablecast.tv/live-9/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NCM Educational & Kids Channel",
   "status": "dead",
@@ -10787,7 +10787,7 @@
  },
  "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Pomona Internet Streaming Channel (720p)",
   "status": "dead",
@@ -10795,7 +10795,7 @@
  },
  "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "SCVTV (1080p)",
   "status": "dead",
@@ -10803,7 +10803,7 @@
  },
  "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "St Lucie Public Schools",
   "status": "dead",
@@ -10811,7 +10811,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "NYXT (1080p)",
   "status": "dead",
@@ -10819,7 +10819,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BX Omni (720p)",
   "status": "dead",
@@ -10827,7 +10827,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BX Inspire (720p)",
   "status": "dead",
@@ -10835,7 +10835,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BX Arts (720p)",
   "status": "dead",
@@ -10843,7 +10843,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BX Culture (720p)",
   "status": "dead",
@@ -10851,7 +10851,7 @@
  },
  "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "BX Inform (1080p)",
   "status": "dead",
@@ -10859,7 +10859,7 @@
  },
  "https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CommunityTV Channel 189 (1080p) [Geo-blocked]",
   "status": "dead",
@@ -10867,7 +10867,7 @@
  },
  "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "TBCN (480p)",
   "status": "dead",
@@ -10875,7 +10875,7 @@
  },
  "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Temecula TV (1080p)",
   "status": "dead",
@@ -10883,7 +10883,7 @@
  },
  "https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Thornton 8 (1080p)",
   "status": "dead",
@@ -10891,7 +10891,7 @@
  },
  "https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Access Tuolumne (720p)",
   "status": "dead",
@@ -10899,7 +10899,7 @@
  },
  "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CMAC 1 (720p)",
   "status": "dead",
@@ -10907,7 +10907,7 @@
  },
  "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CMAC 2 (720p)",
   "status": "dead",
@@ -10915,7 +10915,7 @@
  },
  "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CMAC 3 (720p)",
   "status": "dead",
@@ -10923,7 +10923,7 @@
  },
  "https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "FCTV (1080p)",
   "status": "dead",
@@ -10931,7 +10931,7 @@
  },
  "https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "VSCTV (1080p)",
   "status": "dead",
@@ -10939,7 +10939,7 @@
  },
  "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "KFON TV (720p) [Geo-blocked]",
   "status": "dead",
@@ -10956,7 +10956,7 @@
  },
  "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "RFD-TV",
   "status": "dead",
@@ -11342,7 +11342,7 @@
  },
  "https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "TVS Film Noir Network (720p)",
   "status": "dead",
@@ -11368,7 +11368,7 @@
  },
  "https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Access Humboldt (1080p)",
   "status": "dead",
@@ -11376,7 +11376,7 @@
  },
  "https://rumble.com/live-hls/6v67mu/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Lindell TV (720p)",
   "status": "dead",
@@ -11402,7 +11402,7 @@
  },
  "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "KBEV (1080p)",
   "status": "dead",
@@ -11410,7 +11410,7 @@
  },
  "https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "AXN Black (United States) Romania",
   "status": "dead",
@@ -11490,7 +11490,7 @@
  },
  "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Rocky Hill Channel 16 (480p)",
   "status": "dead",
@@ -11534,7 +11534,7 @@
  },
  "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PTL TV Network (1080p)",
   "status": "dead",
@@ -11713,7 +11713,7 @@
  },
  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "El Rey",
   "status": "dead",
@@ -11739,7 +11739,7 @@
  },
  "https://stream.diyatvinc.com/diya.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Diya TV (1080p)",
   "status": "dead",
@@ -11792,7 +11792,7 @@
  },
  "https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Real America's Voice (1080p)",
   "status": "dead",
@@ -12070,7 +12070,7 @@
  },
  "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Timeless TV",
   "status": "dead",
@@ -12078,7 +12078,7 @@
  },
  "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "ABC WTNH (720p)",
   "status": "dead",
@@ -12320,7 +12320,7 @@
  },
  "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Univision WGBO-DT (2160p)",
   "status": "dead",
@@ -12328,7 +12328,7 @@
  },
  "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "Aspire TV Life (1080p)",
   "status": "dead",
@@ -12336,7 +12336,7 @@
  },
  "https://vallejo.cablecast.tv/live-3/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "VCAT (480p)",
   "status": "dead",
@@ -12515,7 +12515,7 @@
  },
  "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS WEDQ (1080p)",
   "status": "dead",
@@ -12559,7 +12559,7 @@
  },
  "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "World Channel WGTV (1080p)",
   "status": "dead",
@@ -12567,7 +12567,7 @@
  },
  "https://whittier.cablecast.tv/live/stream-1/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "CityTV Whittier (720p)",
   "status": "dead",
@@ -12584,7 +12584,7 @@
  },
  "https://witn.cablecast.tv/live-4/live/live.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "WITN22 (1080p) [Not 24/7]",
   "status": "dead",
@@ -12592,7 +12592,7 @@
  },
  "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "PBS WNJT (1080p) [Not 24/7]",
   "status": "dead",
@@ -12600,7 +12600,7 @@
  },
  "https://world.lls.pbs.org/index.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "World Channel (1080p)",
   "status": "dead",
@@ -12644,7 +12644,7 @@
  },
  "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8": {
   "checked": "2026-10-20",
-  "fails": 3,
+  "fails": 1,
   "last_ok": null,
   "name": "E! Keeping Up (1080p)",
   "status": "dead",
