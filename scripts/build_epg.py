@@ -13,7 +13,9 @@ SOURCES = [('pluto', 'PlutoTV/all.xml.gz'), ('pbs', 'PBS/all.xml.gz'),
 # Each is tried every build; results are written to EPG_SOURCES.md.
 EXTRA = [('epgshare', 'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz'),
          ('openepg', 'https://www.open-epg.com/files/unitedstates1.xml.gz'),
-         ('openepg2', 'https://www.open-epg.com/files/unitedstates2.xml.gz')]
+         ('openepg2', 'https://www.open-epg.com/files/unitedstates2.xml.gz'),
+         ('epgshare2', 'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz'),
+         ('epgshare3', 'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz')]
 SOURCES += EXTRA
 EXTRA_KEYS = [k for k, _ in EXTRA]
 source_status = {}
@@ -201,3 +203,9 @@ with open('EPG_SOURCES.md', 'w', encoding='utf-8') as f:
             "| Source | Status | Channels matched |\n|---|---|---|\n")
     for k, _ in SOURCES:
         f.write(f"| {k} | {source_status.get(k,'')} | {cnt.get(k,0)} |\n")
+
+# names offered by the extra guides (for tuning matches / aliases)
+with open('extra_guide_channels.txt', 'w', encoding='utf-8') as f:
+    for k in EXTRA_KEYS:
+        for ch in guides[k].findall('channel'):
+            f.write(f"{k}\t{ch.get('id')}\t" + ' | '.join(d.text or '' for d in ch.findall('display-name')) + '\n')
