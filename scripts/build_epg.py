@@ -86,11 +86,24 @@ def clean(inf):
     inf = re.sub(r'\s*group-title="[^"]*"', '', inf)
     inf = re.sub(r'\s*tvg-chno="[^"]*"', '', inf)
     return g, inf
+import json
+try: health = json.load(open('health.json'))
+except Exception: health = {}
+DROP_AFTER = 2   # consecutive daily failures before a stream is hidden
+def hidden(url): return health.get(url, {}).get('fails', 0) >= DROP_AFTER
+def speed(url):
+    v = health.get(url, {})
+    return -(v.get('speed') or 0) if v.get('status') in ('ok', 'slow') else 1
 ordered = []
 for inf, opts, url in ents:
+    if hidden(url): continue
     g, inf2 = clean(inf)
-    ordered.append((g, inf2.rsplit(',', 1)[1].strip().lower(), inf2, opts, url, tid_of(inf)))
-ordered.sort(key=lambda e: (e[0] == 'Other', e[0].lower(), e[1]))
+    nm = inf2.rsplit(',', 1)[1].strip()
+    base = re.sub(r'\s*(\(\d+p\)|\[.*?\]|\bHD\b|\bSD\b)', '', nm).strip().lower()
+    ordered.append((g, base, inf2, opts, url, tid_of(inf), speed(url), nm.lower()))
+# A-Z by channel; when a channel has several copies, the fastest copy comes first
+ordered.sort(key=lambda e: (e[0] == 'Other', e[0].lower(), e[1], e[6], e[7]))
+ordered = [e[:6] for e in ordered]
 
 def line(g, inf, n):
     head, name = inf.rsplit(',', 1)
@@ -108,3 +121,18 @@ for name, keep in (('playlist_all.m3u', lambda t: True),
                 f.write('\n'.join([line(g, inf, n), *opts, url]) + '\n')
 print(f'channels with guide: {len(mapping)} / {len({tid_of(e[0]) for e in ents})}, programmes: {len(progs)}')
 if len(mapping) < 50: sys.exit('Too few matches - not publishing a broken guide')
+
+if health:
+    rows = sorted(health.values(), key=lambda v: (v['status'] != 'dead', v['status'] != 'slow', v['name'].lower()))
+    cnt = collections.Counter(v['status'] for v in health.values())
+    hid = sum(1 for v in health.values() if v.get('fails', 0) >= DROP_AFTER)
+    with open('STREAM_HEALTH.md', 'w', encoding='utf-8') as f:
+        f.write(f"# Stream health\n\nChecked {rows[0]['checked']} from GitHub's US servers. "
+                f"OK: {cnt['ok']} - Slow: {cnt['slow']} - Failed: {cnt['dead']} - Hidden from playlists: {hid}\n\n"
+                "Speed = how many times faster than real-time a segment downloaded (under 1.5 = likely to buffer). "
+                f"Streams that fail {DROP_AFTER} days in a row are hidden until they work again.\n\n"
+                "| Channel | Status | Speed | Days failing | Note |\n|---|---|---|---|---|\n")
+        for v in rows:
+            if v['status'] == 'ok': continue
+            f.write(f"| {v['name']} | {v['status']} | {v.get('speed','')} | {v.get('fails',0)} | {v.get('why','')} |\n")
+    print('hidden streams:', hid)

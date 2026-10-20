@@ -17,13 +17,16 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
+      - name: Check streams
+        run: python scripts/check_streams.py
+        timeout-minutes: 25
       - name: Build guide and playlists
         run: python scripts/build_epg.py "https://raw.githubusercontent.com/${{ github.repository }}/main"
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add epg.xml.gz playlist_all.m3u playlist_guide_only.m3u
+          git add epg.xml.gz playlist_all.m3u playlist_guide_only.m3u health.json STREAM_HEALTH.md
           git diff --cached --quiet || git commit -m "Daily EPG refresh $(date -u +%F)"
           git pull --rebase origin main
           git push
