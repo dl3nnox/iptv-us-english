@@ -104,6 +104,20 @@ for inf, opts, url in ents:
 # A-Z by channel; when a channel has several copies, the fastest copy comes first
 ordered.sort(key=lambda e: (e[0] == 'Other', e[0].lower(), e[1], e[6], e[7]))
 ordered = [e[:6] for e in ordered]
+# Favourites group at the top (copies; channels also stay in their own category)
+try:
+    favs = [l.strip() for l in open('source/favourites.txt', encoding='utf-8') if l.strip() and not l.startswith('#')]
+except FileNotFoundError:
+    favs = []
+by_name = {}
+for e in ordered:
+    by_name.setdefault(e[2].rsplit(',', 1)[1].strip().lower(), e)  # first = fastest copy
+fav_rows = []
+for f in favs:
+    e = by_name.get(f.lower())
+    if e: fav_rows.append(('Favourites',) + e[1:])
+    else: print('favourite not found or hidden:', f)
+ordered = fav_rows + ordered
 
 def line(g, inf, n):
     head, name = inf.rsplit(',', 1)

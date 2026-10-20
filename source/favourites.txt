@@ -1,0 +1,53 @@
+# Channels shown in the "Favourites" group at the top of the playlists, in this order.
+# One channel per line, exactly as named in the playlist. Lines starting with # are ignored.
+# Edit this file on GitHub to change your favourites - the next build picks it up.
+
+# News
+ABC News Live (720p)
+CBS News 24/7 (720p)
+NBC News NOW (1080p)
+LiveNOW from FOX (720p)
+Scripps News (1080p)
+Reuters TV (1080p)
+Bloomberg TV (1080p)
+Yahoo! Finance (1080p)
+Fox Weather (720p)
+TODAY All Day (1080p)
+
+# Sports
+NBC Sports NOW (1080p)
+CBS Sports HQ (720p)
+CBS Sports Golazo Network (720p)
+NFL Channel (720p)
+MLB (720p)
+Stadium (720p)
+Tennis Channel 2 (1080p)
+
+# Movies & entertainment
+Pluto TV Trending Now
+Pluto TV Action Movies
+Pluto TV Comedy Movies
+Pluto TV Crime Drama
+Hallmark Movies & More (1080p)
+Comet (1080p)
+Entertainment Tonight (1080p)
+TMZ (720p)
+
+# Shows
+Star Trek: The Next Generation (United States)
+CSI (United States)
+Dateline 24/7 (1080p)
+Court TV (1080p)
+Unsolved Mysteries (720p)
+Gordon Ramsay's Hell's Kitchen (720p)
+The Price Is Right
+Deal or No Deal (1080p)
+Wipeout Xtra (1080p)
+FailArmy (720p)
+BET Pluto TV
+MTV Pluto TV
+
+# Kids
+PBS Kids (720p)
+Nick Jr. Pluto TV (720p)
+SpongeBob SquarePants (720p)
