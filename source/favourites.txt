@@ -1,4 +1,4 @@
-# Channels shown in the "Favourites" group at the top of the playlists, in this order.
+# Channels shown in the "★ Top Picks" group at the top of the playlists, in this order.
 # One channel per line, exactly as named in the playlist. Lines starting with # are ignored.
 # Edit this file on GitHub to change your favourites - the next build picks it up.
 

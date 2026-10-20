@@ -126,7 +126,7 @@ for e in ordered:
 fav_rows = []
 for f in favs:
     e = by_name.get(f.lower())
-    if e: fav_rows.append(('Favourites',) + e[1:])
+    if e: fav_rows.append(('★ Top Picks',) + e[1:])
     else: print('favourite not found or hidden:', f)
 ordered = fav_rows + ordered
 
