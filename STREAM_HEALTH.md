@@ -1,8 +1,8 @@
 # Stream health
 
-Last checked 2026-10-20T03:41:44+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
+Last checked 2026-10-20T03:45:04+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
 
-OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
+OK: 1148 - Slow: 24 - Failed: 269 - Hidden from playlists: 0
 
 **Speed** = how many times faster than real time a segment downloaded (under 1.5 = likely to buffer). A stream is **hidden** once it has failed checks at least 12 hours apart, and comes back automatically when it works again. Favourites are never hidden automatically.
 
@@ -10,17 +10,15 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| Fox Weather (720p) | dead |  | 0 |  | empty segment |
-| Tennis Channel 2 (1080p) | slow | 1.45 |  |  |  |
+| Discovery Channel (United States) (1080p) [Geo-blocked] | slow | 1.49 |  |  |  |
 
 ## All slow and failing streams
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| 30A Investment Pitch (720p) | dead |  | 0 |  | RemoteDisconnected |
 | 30A Lionel Nation | dead |  | 1 |  | HTTP 404 |
 | 30A Loomered TV | dead |  | 1 |  | HTTP 404 |
-| 30A Sidewalks (720p) | dead |  | 0 |  | RemoteDisconnected |
+| 30A Music (720p) | dead |  | 0 |  | RemoteDisconnected |
 | 30A Television Channel (720p) | dead |  | 0 |  | RemoteDisconnected |
 | ABC News Live 1 (720p) | dead |  | 1 |  | HTTP 404 |
 | ABC News Live 10 (720p) | dead |  | 1 |  | HTTP 404 |
@@ -57,6 +55,7 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | BIG Civic Channel | dead |  | 1 |  | HTTP 403 |
 | BIG Community Channel | dead |  | 1 |  | HTTP 403 |
 | BPTV (360p) | dead |  | 1 |  | HTTP 403 |
+| Bravo (720p) | dead |  | 0 |  | URLError |
 | BX Arts (720p) | dead |  | 1 |  | HTTP 403 |
 | BX Culture (720p) | dead |  | 1 |  | HTTP 403 |
 | BX Inform (1080p) | dead |  | 1 |  | HTTP 403 |
@@ -128,11 +127,10 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | Fox (United States) West (720p) | dead |  | 1 |  | URLError |
 | Fox (United States) WSVN (1080p) | dead |  | 1 |  | URLError |
 | Fox Deportes (720p) | dead |  | 1 |  | HTTP 404 |
-| Fox Weather (720p) | dead |  | 0 |  | empty segment |
 | Freebie TV (720p) [Not 24/7] | dead |  | 1 |  | HTTP 504 |
 | G10TV (1080p) | dead |  | 1 |  | HTTP 403 |
 | Gagsnetwork (576p) | dead |  | 1 |  | TimeoutError |
-| Galveston County TV (720p) [Not 24/7] | dead |  | 1 |  | HTTP 503 |
+| Galveston County TV (720p) [Not 24/7] | dead |  | 1 |  | HTTP 404 |
 | GCO.tv (1080p) | dead |  | 1 |  | HTTP 403 |
 | Glendale TV (720p) [Geo-blocked] | dead |  | 1 |  | HTTP 403 |
 | GMTV (1080p) | dead |  | 1 |  | HTTP 404 |
@@ -202,9 +200,8 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | News12 Bronx [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
 | News12 Brooklyn [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
 | News12 Conneticut [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
-| News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
-| News12 Long Island (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
-| News12 New Jersey [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
+| News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
+| News12 New Jersey [Geo-blocked] | dead |  | 1 |  | HTTP 404 |
 | News12 Westchester [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
 | News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 |  | HTTP 408 |
@@ -288,29 +285,27 @@ OK: 1144 - Slow: 26 - Failed: 271 - Hidden from playlists: 0
 | WPLG 10.1 (720p) | dead |  | 1 |  | HTTP 404 |
 | WPS-TV (360p) | dead |  | 1 |  | no segments |
 | Youtoo America KVVB-LD (1080p) [Not 24/7] | dead |  | 1 |  | HTTP 404 |
-| AXN Adria | slow | 0.26 |  |  |  |
-| Big Ten Network (720p) | slow | 1.43 |  |  |  |
-| Bondi Rescue (United States) (720p) | slow | 0.97 |  |  |  |
-| Bravo (720p) | slow | 0.81 |  |  |  |
-| Discovery Turbo (United States) (720p) | slow | 1.33 |  |  |  |
-| Extrema TV (United States) (720p) | slow | 0.39 |  |  |  |
-| Faith TV (1080p) | slow | 0.71 |  |  |  |
-| History Asia (720p) | slow | 1.13 |  |  |  |
-| It Is Written TV (1080p) | slow | 1.14 |  |  |  |
-| LifevisionTV (406p) [Not 24/7] | slow | 0.22 |  |  |  |
-| Outdoor Channel Vietnam (1080p) | slow | 0.74 |  |  |  |
-| PokerGo | slow | 0.8 |  |  |  |
-| RadiantTV (1080p) | slow | 0.85 |  |  |  |
-| TBN Pacific | slow | 1.02 |  |  |  |
-| Tele Pam (1080p) | slow | 1.42 |  |  |  |
-| Tennis Channel 2 (1080p) | slow | 1.45 |  |  |  |
-| Tortues Ninja TV (United States) (720p) | slow | 1.47 |  |  |  |
-| TVS Comedy Network (720p) | slow | 1.32 |  |  |  |
-| TVS Family Channel (360p) | slow | 0.37 |  |  |  |
-| TVS Hi Tops (720p) | slow | 0.08 |  |  |  |
-| TVS Pet Parade Network (360p) | slow | 0.19 |  |  |  |
-| TVS Television Network (480p) | slow | 0.18 |  |  |  |
-| TVS Women Sports (720p) | slow | 0.19 |  |  |  |
-| Warner TV Asia (720p) | slow | 1.45 |  |  |  |
-| Westerns 4U (1080p) | slow | 0.46 |  |  |  |
-| WWE Network (1080p) | slow | 1.16 |  |  |  |
+| American Horrors (480p) | slow | 0.8 |  |  |  |
+| AXN Adria | slow | 0.81 |  |  |  |
+| Black News Channel (1080p) | slow | 0.52 |  |  |  |
+| CNN HD (720p) [Geo-blocked] | slow | 0.92 |  |  |  |
+| Discovery Channel (United States) (1080p) [Geo-blocked] | slow | 1.49 |  |  |  |
+| Discovery Turbo (United States) (720p) | slow | 1.36 |  |  |  |
+| Faith TV (1080p) | slow | 1.3 |  |  |  |
+| GCN America (720p) | slow | 1.42 |  |  |  |
+| History Asia (720p) | slow | 0.82 |  |  |  |
+| Midpen Media Center Channel 26 (720p) | slow | 0.58 |  |  |  |
+| Midpen Media Center Channel 28 (720p) | slow | 0.51 |  |  |  |
+| Midpen Media Center Channel 29 (720p) | slow | 0.56 |  |  |  |
+| Midpen Media Center Channel 30 (720p) | slow | 0.59 |  |  |  |
+| Midpen Media Center Channel 75 (720p) | slow | 0.61 |  |  |  |
+| Outdoor Channel Vietnam (1080p) | slow | 0.66 |  |  |  |
+| People Are Awesome (1080p) | slow | 0.94 |  |  |  |
+| TBN Pacific | slow | 0.71 |  |  |  |
+| TVS Family Channel (360p) | slow | 0.41 |  |  |  |
+| TVS Hi Tops (720p) | slow | 0.28 |  |  |  |
+| TVS Pet Parade Network (360p) | slow | 0.27 |  |  |  |
+| TVS Television Network (480p) | slow | 0.45 |  |  |  |
+| TVS Women Sports (720p) | slow | 0.29 |  |  |  |
+| Warner TV Asia (720p) | slow | 0.97 |  |  |  |
+| WWE Network (1080p) | slow | 1.12 |  |  |  |
