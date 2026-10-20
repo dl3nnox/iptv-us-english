@@ -1,6 +1,6 @@
 # Stream health
 
-Checked 2026-10-20 from GitHub's US servers. OK: 1139 - Slow: 26 - Failed: 273 - Hidden from playlists: 0
+Checked 2026-10-20 from GitHub's US servers. OK: 1136 - Slow: 21 - Failed: 281 - Hidden from playlists: 0
 
 Speed = how many times faster than real-time a segment downloaded (under 1.5 = likely to buffer). Streams that fail 2 days in a row are hidden until they work again.
 
@@ -8,8 +8,8 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 |---|---|---|---|---|
 | 30A Lionel Nation | dead |  | 1 | HTTP 404 |
 | 30A Loomered TV | dead |  | 1 | HTTP 404 |
-| 30A Ridiculous TV (720p) | dead |  | 1 | RemoteDisconnected |
-| 30A Sidewalks (720p) | dead |  | 1 | RemoteDisconnected |
+| 30A The Beach Show (720p) | dead |  | 1 | RemoteDisconnected |
+| 30A TV Classic Movies (720p) | dead |  | 1 | RemoteDisconnected |
 | ABC News Live 1 (720p) | dead |  | 1 | HTTP 404 |
 | ABC News Live 10 (720p) | dead |  | 1 | HTTP 404 |
 | ABC News Live 2 (720p) | dead |  | 1 | HTTP 404 |
@@ -74,12 +74,12 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | City of Loveland TV (1080p) | dead |  | 1 | HTTP 403 |
 | City of Monroe Government Channel | dead |  | 1 | HTTP 403 |
 | CityTV Whittier (720p) | dead |  | 1 | HTTP 403 |
-| Classic TV: Families CA | dead |  | 1 | empty segment |
 | Clubbing TV France | dead |  | 1 | HTTP 504 |
 | CMAC 1 (720p) | dead |  | 1 | HTTP 403 |
 | CMAC 2 (720p) | dead |  | 1 | HTTP 403 |
 | CMAC 3 (720p) | dead |  | 1 | HTTP 403 |
 | CNBC (720p) [Geo-blocked] | dead |  | 1 | HTTP 404 |
+| CNN HD (720p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | Collier TV (720p) | dead |  | 1 | HTTP 403 |
 | Comedy Dynamics (1080p) | dead |  | 1 | URLError |
 | Community 12TV (720p) | dead |  | 1 | HTTP 404 |
@@ -97,6 +97,8 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | Detroit Channel 21 | dead |  | 1 | HTTP 403 |
 | Detroit Channel 22 | dead |  | 1 | HTTP 403 |
 | Detroit Channel 68 | dead |  | 1 | HTTP 403 |
+| Discovery Channel (United States) (1080p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
+| Disney Channel (United States) (720p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | Disney Junior (United States) (480p) | dead |  | 1 | URLError |
 | Disney XD (United States) (720p) | dead |  | 1 | HTTP 404 |
 | Diya TV (1080p) | dead |  | 1 | URLError |
@@ -116,12 +118,11 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | Fox (United States) WBFF (1080p) | dead |  | 1 | HTTP 404 |
 | Fox (United States) West (720p) | dead |  | 1 | URLError |
 | Fox (United States) WSVN (1080p) | dead |  | 1 | URLError |
-| Fox Deportes (720p) | dead |  | 1 | TimeoutError |
+| Fox Deportes (720p) | dead |  | 1 | HTTP 404 |
 | Freebie TV (720p) [Not 24/7] | dead |  | 1 | HTTP 504 |
-| Funny AF | dead |  | 1 | HTTP 500 |
 | G10TV (1080p) | dead |  | 1 | HTTP 403 |
 | Gagsnetwork (576p) | dead |  | 1 | TimeoutError |
-| Galveston County TV (720p) [Not 24/7] | dead |  | 1 | TimeoutError |
+| Galveston County TV (720p) [Not 24/7] | dead |  | 1 | HTTP 503 |
 | GCO.tv (1080p) | dead |  | 1 | HTTP 403 |
 | Glendale TV (720p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | GMTV (1080p) | dead |  | 1 | HTTP 404 |
@@ -136,10 +137,12 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | HCTV Public Access Channel | dead |  | 1 | HTTP 403 |
 | HGTV (United States) (720p) | dead |  | 1 | URLError |
 | HGTV Asia (1080p) | dead |  | 1 | too little data |
+| History (United States) (720p) | dead |  | 1 | HTTP 403 |
 | HKTV (1080p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | Homicide Hunter | dead |  | 1 | HTTP 404 |
 | Hope4Life TV (720p) | dead |  | 1 | URLError |
 | Humor Mill (1080p) | dead |  | 1 | HTTP 404 |
+| Investigation Discovery (United States) (1080p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | Iron Chef | dead |  | 1 | HTTP 404 |
 | KBEV (1080p) | dead |  | 1 | HTTP 403 |
 | KBRI-8 (720p) | dead |  | 1 | HTTP 403 |
@@ -149,6 +152,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | Ketchup TV (720p) | dead |  | 1 | HTTP 502 |
 | Kevin Hart's LOL! Network (720p) | dead |  | 1 | HTTP 502 |
 | KFON TV (720p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
+| KTOO 360TV KTOO-TV | dead |  | 1 | InvalidURL |
 | LA CityView 35 (1080p) | dead |  | 1 | HTTP 403 |
 | LA36 (1080p) | dead |  | 1 | HTTP 403 |
 | Laff (576p) | dead |  | 1 | URLError |
@@ -161,7 +165,6 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | Lone Star (1080p) | dead |  | 1 | HTTP 403 |
 | Magnificent Movies Network | dead |  | 1 | HTTP 404 |
 | Magnolia Network (720p) | dead |  | 1 | URLError |
-| Maverick Black Cinema (1080p) | dead |  | 1 | no segments |
 | MCPSS TV | dead |  | 1 | HTTP 404 |
 | MeTV (720p) | dead |  | 1 | HTTP 403 |
 | MMA TV (576p) | dead |  | 1 | URLError |
@@ -173,6 +176,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | MSG (720p) | dead |  | 1 | HTTP 404 |
 | MST3K (1080p) | dead |  | 1 | HTTP 403 |
 | MSTV (1080p) | dead |  | 1 | HTTP 403 |
+| National Geographic (United States) (720p) | dead |  | 1 | HTTP 403 |
 | NBC (1080p) | dead |  | 1 | URLError |
 | NBC KSNV (1080p) | dead |  | 1 | HTTP 404 |
 | NBC West (720p) | dead |  | 1 | URLError |
@@ -182,6 +186,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | NBC WRDE-LD (720p) [Not 24/7] | dead |  | 1 | HTTP 404 |
 | NBC WTLV (1080p) | dead |  | 1 | URLError |
 | NBC WTOV-TV (1080p) | dead |  | 1 | HTTP 404 |
+| NBC WTVJ (1080p) | dead |  | 1 | HTTP 404 |
 | NCM Educational & Kids Channel | dead |  | 1 | HTTP 403 |
 | NCM Government & Politics Channel | dead |  | 1 | HTTP 403 |
 | NCM Main Channel | dead |  | 1 | HTTP 403 |
@@ -189,18 +194,18 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | NEW K.MOVIES (1080p) | dead |  | 1 | HTTP 400 |
 | News of the World (720p) | dead |  | 1 | HTTP 404 |
 | News12 Bronx [Geo-blocked] | dead |  | 1 | HTTP 408 |
-| News12 Brooklyn [Geo-blocked] | dead |  | 1 | HTTP 404 |
+| News12 Brooklyn [Geo-blocked] | dead |  | 1 | HTTP 408 |
 | News12 Conneticut [Geo-blocked] | dead |  | 1 | HTTP 408 |
 | News12 Hudson Valley [Geo-blocked] | dead |  | 1 | HTTP 408 |
 | News12 Long Island (1080p) [Geo-blocked] | dead |  | 1 | HTTP 408 |
-| News12 New Jersey [Geo-blocked] | dead |  | 1 | HTTP 408 |
+| News12 New Jersey [Geo-blocked] | dead |  | 1 | HTTP 404 |
 | News12 Westchester [Geo-blocked] | dead |  | 1 | HTTP 408 |
 | News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 1 | HTTP 408 |
-| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 | HTTP 400 |
-| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 1 | HTTP 408 |
+| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 1 | HTTP 408 |
+| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 1 | HTTP 404 |
 | News12+ New Jersey (1080p) [Geo-blocked] | dead |  | 1 | HTTP 404 |
-| News12+ New York (1080p) [Geo-blocked] | dead |  | 1 | HTTP 404 |
-| NorCast Weather (1080p) | dead |  | 1 | too little data |
+| News12+ New York (1080p) [Geo-blocked] | dead |  | 1 | HTTP 408 |
+| Nick Jr. (United States) (720p) | dead |  | 1 | HTTP 403 |
 | NRBTV (720p) | dead |  | 1 | HTTP 403 |
 | NYXT (1080p) | dead |  | 1 | HTTP 403 |
 | Overcomers TV (720p) | dead |  | 1 | HTTP 404 |
@@ -212,6 +217,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | PBS KVIE (1080p) | dead |  | 1 | too little data |
 | PBS WEDQ (1080p) | dead |  | 1 | too little data |
 | PBS WNJT (1080p) [Not 24/7] | dead |  | 1 | too little data |
+| People Are Awesome (1080p) | dead |  | 1 | HTTP 404 |
 | PixL TV | dead |  | 1 | HTTP 404 |
 | Pomona Internet Streaming Channel (720p) | dead |  | 1 | HTTP 403 |
 | Popstar! TV (1080p) [Not 24/7] | dead |  | 1 | URLError |
@@ -239,6 +245,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | TBN (1080p) | dead |  | 1 | HTTP 404 |
 | TBN Inspire (1080p) | dead |  | 1 | HTTP 404 |
 | TeenNick (United States) (432p) | dead |  | 1 | URLError |
+| Tele Pam (1080p) | dead |  | 1 | HTTP 403 |
 | Telemundo (720p) | dead |  | 1 | URLError |
 | Telemundo West (2160p) | dead |  | 1 | HTTP 404 |
 | Temecula TV (1080p) | dead |  | 1 | HTTP 403 |
@@ -249,6 +256,7 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | The Hill TV (1080p) [Geo-blocked] | dead |  | 1 | URLError |
 | Thornton 8 (1080p) | dead |  | 1 | HTTP 403 |
 | Timeless TV | dead |  | 1 | HTTP 404 |
+| TNT (United States) (720p) [Geo-blocked] | dead |  | 1 | HTTP 403 |
 | Toonami Aftermath West (480p) | dead |  | 1 | HTTP 503 |
 | Transformers TV (720p) | dead |  | 1 | HTTP 404 |
 | Transformers TV CA | dead |  | 1 | HTTP 404 |
@@ -279,29 +287,24 @@ Speed = how many times faster than real-time a segment downloaded (under 1.5 = l
 | WPLG 10.1 (720p) | dead |  | 1 | HTTP 404 |
 | WPS-TV (360p) | dead |  | 1 | no segments |
 | Youtoo America KVVB-LD (1080p) [Not 24/7] | dead |  | 1 | HTTP 404 |
-| ABC WFTV (720p) | slow | 1.49 | 0 |  |
-| American Horrors (480p) | slow | 0.96 | 0 |  |
-| AXN Adria | slow | 0.13 | 0 |  |
-| Bravo (720p) | slow | 0.26 | 0 |  |
-| Discovery Turbo (United States) (720p) | slow | 0.88 | 0 |  |
-| Faith TV (1080p) | slow | 0.74 | 0 |  |
-| Fox (United States) WTXF-TV (1080p) | slow | 0.78 | 0 |  |
-| History Asia (720p) | slow | 1.31 | 0 |  |
-| Just for Laughs Gags (1080p) | slow | 0.42 | 0 |  |
-| Midpen Media Center Channel 26 (720p) | slow | 0.56 | 0 |  |
-| Midpen Media Center Channel 28 (720p) | slow | 0.59 | 0 |  |
-| Midpen Media Center Channel 29 (720p) | slow | 0.67 | 0 |  |
-| Midpen Media Center Channel 30 (720p) | slow | 0.57 | 0 |  |
-| Midpen Media Center Channel 75 (720p) | slow | 0.58 | 0 |  |
-| Nicktoons (United States) (720p) | slow | 0.95 | 0 |  |
-| Outdoor Channel Vietnam (1080p) | slow | 0.72 | 0 |  |
-| Pluto TV Retro Crime Drama | slow | 0.56 | 0 |  |
-| TBN Pacific | slow | 1.24 | 0 |  |
-| TVS Family Channel (360p) | slow | 0.43 | 0 |  |
-| TVS Hi Tops (720p) | slow | 0.29 | 0 |  |
-| TVS Television Network (480p) | slow | 0.29 | 0 |  |
-| Warner TV Asia (720p) | slow | 1.33 | 0 |  |
-| WCOT (720p) | slow | 1.02 | 0 |  |
-| Westerns 4U (1080p) | slow | 0.67 | 0 |  |
-| WWE Network (1080p) | slow | 1.37 | 0 |  |
-| Yuma77 | slow | 1.41 | 0 |  |
+| American Horrors (480p) | slow | 0.75 | 0 |  |
+| AXN Adria | slow | 0.18 | 0 |  |
+| Bravo (720p) | slow | 0.08 | 0 |  |
+| Discovery Turbo (United States) (720p) | slow | 0.82 | 0 |  |
+| Faith TV (1080p) | slow | 1.06 | 0 |  |
+| History Asia (720p) | slow | 1.11 | 0 |  |
+| Midpen Media Center Channel 26 (720p) | slow | 0.6 | 0 |  |
+| Midpen Media Center Channel 28 (720p) | slow | 0.57 | 0 |  |
+| Midpen Media Center Channel 29 (720p) | slow | 0.54 | 0 |  |
+| Midpen Media Center Channel 30 (720p) | slow | 0.56 | 0 |  |
+| Midpen Media Center Channel 75 (720p) | slow | 0.62 | 0 |  |
+| Nicktoons (United States) (720p) | slow | 0.27 | 0 |  |
+| Outdoor Channel Vietnam (1080p) | slow | 0.65 | 0 |  |
+| Shemaroo Bollywood (1080p) | slow | 1.14 | 0 |  |
+| TBN Pacific | slow | 1.08 | 0 |  |
+| The Nest (1080p) | slow | 1.19 | 0 |  |
+| TVS Family Channel (360p) | slow | 0.31 | 0 |  |
+| TVS Hi Tops (720p) | slow | 0.15 | 0 |  |
+| TVS Television Network (480p) | slow | 0.17 | 0 |  |
+| Warner TV Asia (720p) | slow | 0.99 | 0 |  |
+| WWE Network (1080p) | slow | 0.87 | 0 |  |
