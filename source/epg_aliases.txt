@@ -1,0 +1,3 @@
+# Map a playlist channel name to the name a guide uses, when they differ.
+# Format:  Playlist name = Guide name
+BBC America (720p) = BBC America
