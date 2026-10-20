@@ -79,13 +79,32 @@ tv.extend(progs)
 with gzip.open('epg.xml.gz', 'wb') as f:
     ET.ElementTree(tv).write(f, encoding='utf-8', xml_declaration=True)
 
+def clean(inf):
+    m = re.search(r'group-title="([^"]*)"', inf)
+    g = (m.group(1).split(';')[0] if m else '') or 'Other'
+    if g == 'Undefined': g = 'Other'
+    inf = re.sub(r'\s*group-title="[^"]*"', '', inf)
+    inf = re.sub(r'\s*tvg-chno="[^"]*"', '', inf)
+    return g, inf
+ordered = []
+for inf, opts, url in ents:
+    g, inf2 = clean(inf)
+    ordered.append((g, inf2.rsplit(',', 1)[1].strip().lower(), inf2, opts, url, tid_of(inf)))
+ordered.sort(key=lambda e: (e[0] == 'Other', e[0].lower(), e[1]))
+
+def line(g, inf, n):
+    head, name = inf.rsplit(',', 1)
+    return f'{head} tvg-chno="{n}" group-title="{g}",{name}'
+
 hdr = f'#EXTM3U url-tvg="{BASE}/epg.xml.gz"\n' if BASE else '#EXTM3U\n'
 for name, keep in (('playlist_all.m3u', lambda t: True),
                    ('playlist_guide_only.m3u', lambda t: t in mapping)):
     with open(name, 'w', encoding='utf-8') as f:
         f.write(hdr)
-        for inf, opts, url in ents:
-            if keep(tid_of(inf)):
-                f.write('\n'.join([inf, *opts, url]) + '\n')
+        n = 0
+        for g, _, inf, opts, url, tid in ordered:
+            if keep(tid):
+                n += 1
+                f.write('\n'.join([line(g, inf, n), *opts, url]) + '\n')
 print(f'channels with guide: {len(mapping)} / {len({tid_of(e[0]) for e in ents})}, programmes: {len(progs)}')
 if len(mapping) < 50: sys.exit('Too few matches - not publishing a broken guide')
