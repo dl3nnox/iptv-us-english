@@ -141,7 +141,7 @@ for name, keep in (('playlist_all.m3u', lambda t: True),
         f.write(hdr)
         n = 0
         for g, _, inf, opts, url, tid in ordered:
-            if keep(tid):
+            if keep(tid) or g == '★ Top Picks':
                 n += 1
                 f.write('\n'.join([line(g, inf, n), *opts, url]) + '\n')
 print(f'channels with guide: {len(mapping)} / {len({tid_of(e[0]) for e in ents})}, programmes: {len(progs)}')

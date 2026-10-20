@@ -16,6 +16,8 @@ TODAY All Day (1080p)
 
 # Documentary
 Smithsonian Channel Selects (United States)
+BBC Earth US (1080p)
+BBC America (720p)
 Pluto TV History
 History Hit (1080p)
 Blaze Live (720p)
@@ -52,6 +54,7 @@ TMZ (720p)
 
 # Shows
 Star Trek: The Next Generation (United States)
+Top Gear (720p)
 CSI (United States)
 Dateline 24/7 (1080p)
 Court TV (1080p)
