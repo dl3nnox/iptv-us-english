@@ -863,10 +863,10 @@ https://d37kx062o4ii0p.cloudfront.net/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-chno="430" group-title="Outdoor",Monster Jam (720p)
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="431" group-title="Outdoor",Outdoor Channel HD (720p)
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="432" group-title="Outdoor",Outdoor Channel (1080p)
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="431" group-title="Outdoor",Outdoor Channel (1080p)
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-chno="432" group-title="Outdoor",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://www.cynopsis.com/wp-content/uploads/2018/02/outside-tv.png" tvg-chno="433" group-title="Outdoor",Outside TV (1080p)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us@SD" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-chno="434" group-title="Outdoor",PursuitUP (1080p)
