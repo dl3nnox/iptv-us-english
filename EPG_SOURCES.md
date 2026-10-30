@@ -4,11 +4,11 @@ Result of the last build. Channels are matched to the first source that lists th
 
 | Source | Status | Channels matched |
 |---|---|---|
-| pluto | ok - 3008 channels | 298 |
+| pluto | ok - 3016 channels | 298 |
 | pbs | ok - 146 channels | 0 |
 | samsung | ok - 588 channels | 139 |
-| plex | ok - 693 channels | 45 |
-| roku | ok - 718 channels | 32 |
+| plex | ok - 692 channels | 45 |
+| roku | ok - 717 channels | 32 |
 | epgshare | failed - HTTPError: HTTP Error 404: Not Found | 0 |
 | openepg | ok - 663 channels | 0 |
 | openepg2 | ok - 547 channels | 0 |
