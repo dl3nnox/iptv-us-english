@@ -4,7 +4,7 @@ Result of the last build. Channels are matched to the first source that lists th
 
 | Source | Status | Channels matched |
 |---|---|---|
-| pluto | ok - 3061 channels | 297 |
+| pluto | ok - 3070 channels | 297 |
 | pbs | ok - 146 channels | 0 |
 | samsung | ok - 593 channels | 138 |
 | plex | ok - 702 channels | 47 |
