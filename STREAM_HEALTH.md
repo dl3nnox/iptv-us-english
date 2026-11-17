@@ -1,8 +1,8 @@
 # Stream health
 
-Last checked 2026-11-17T03:53:13+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
+Last checked 2026-11-17T18:33:53+00:00 UTC from GitHub's US servers (twice daily, ~4 AM and ~4 PM Jamaica time).
 
-OK: 1095 - Slow: 36 - Failed: 310 - Hidden from playlists: 298
+OK: 1100 - Slow: 31 - Failed: 310 - Hidden from playlists: 299
 
 **Speed** = how many times faster than real time a segment downloaded (under 1.5 = likely to buffer). A stream is **hidden** once it has failed checks at least 12 hours apart, and comes back automatically when it works again. Favourites are never hidden automatically.
 
@@ -10,359 +10,354 @@ OK: 1095 - Slow: 36 - Failed: 310 - Hidden from playlists: 298
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| Animal Planet (United States) (720p) | dead |  | 315 |  | URLError |
-| BBC America (720p) | dead |  | 315 |  | URLError |
-| National Geographic (United States) HD East (720p) | dead |  | 315 |  | URLError |
-| National Geographic Wild (United States) HD East (720p) | dead |  | 315 |  | URLError |
-| Tennis Channel 2 (1080p) | dead |  | 0 |  | HTTP 404 |
+| Animal Planet (United States) (720p) | dead |  | 329 |  | URLError |
+| BBC America (720p) | dead |  | 329 |  | URLError |
+| National Geographic (United States) HD East (720p) | dead |  | 329 |  | URLError |
+| National Geographic Wild (United States) HD East (720p) | dead |  | 329 |  | URLError |
+| Discovery Channel (United States) (1080p) [Geo-blocked] | slow | 1.24 |  |  |  |
 
 ## All slow and failing streams
 
 | Channel | Status | Speed | Hours failing | Hidden | Note |
 |---|---|---|---|---|---|
-| 30A Lionel Nation | dead |  | 673 | yes | HTTP 404 |
-| 30A Loomered TV | dead |  | 673 | yes | HTTP 404 |
-| A&E (720p) | dead |  | 315 | yes | URLError |
-| ABC News Live 1 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 10 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 2 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 3 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 4 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 5 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 6 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 7 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 8 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC News Live 9 (720p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WBBJ-TV (432p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WJLA-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WLOS (1080p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WMAR-TV (720p) | dead |  | 493 | yes | HTTP 404 |
-| ABC WMUR-TV (720p) | dead |  | 493 | yes | HTTP 404 |
-| ABC WPDE-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WSYX (1080p) | dead |  | 673 | yes | HTTP 404 |
-| ABC WTNH (720p) | dead |  | 673 | yes | too little data |
-| ACC Network (720p) | dead |  | 315 | yes | URLError |
-| Access 19 | dead |  | 60 | yes | HTTP 403 |
-| Access 4 PAC | dead |  | 60 | yes | HTTP 403 |
-| Access Humboldt (1080p) | dead |  | 673 | yes | HTTP 503 |
-| Access Sacramento Channel 17 | dead |  | 673 | yes | HTTP 403 |
-| Access Tuolumne (720p) | dead |  | 60 | yes | HTTP 403 |
-| AKC TV Meet the Breeds | dead |  | 0 |  | HTTP 404 |
-| Alabama Weather Network (720p) | dead |  | 673 | yes | HTTP 404 |
-| AMC (United States) (720p) | dead |  | 315 | yes | URLError |
-| Animal Planet (United States) (720p) | dead |  | 315 |  | URLError |
-| Aspire TV Life (1080p) | dead |  | 673 | yes | HTTP 403 |
-| AuroraTV (720p) | dead |  | 673 | yes | HTTP 403 |
-| AXN Black (United States) Czech Republic | dead |  | 673 | yes | HTTP 503 |
-| AXN Black (United States) Romania | dead |  | 673 | yes | URLError |
-| AXN Crime | dead |  | 673 | yes | HTTP 503 |
-| AXN White (United States) | dead |  | 673 | yes | URLError |
-| AXS TV (720p) | dead |  | 315 | yes | URLError |
-| BATV (480p) | dead |  | 673 | yes | HTTP 403 |
-| BATV Government TV (480p) | dead |  | 673 | yes | HTTP 403 |
-| Baywatch (1080p) | dead |  | 673 | yes | URLError |
-| BBC America (720p) | dead |  | 315 |  | URLError |
-| BBC Kids (720p) | dead |  | 673 | yes | HTTP 502 |
-| BIG Civic Channel | dead |  | 60 | yes | HTTP 403 |
-| BIG Community Channel | dead |  | 60 | yes | HTTP 403 |
-| BPTV (360p) | dead |  | 60 | yes | HTTP 403 |
-| BX Arts (720p) | dead |  | 60 | yes | HTTP 403 |
-| BX Culture (720p) | dead |  | 60 | yes | HTTP 403 |
-| BX Inform (1080p) | dead |  | 60 | yes | HTTP 403 |
-| BX Inspire (720p) | dead |  | 60 | yes | HTTP 403 |
-| BX Omni (720p) | dead |  | 60 | yes | HTTP 403 |
-| Capital City Connection Montgomery [Not 24/7] | dead |  | 60 | yes | HTTP 403 |
-| Cartoon Network (United States) (720p) | dead |  | 219 | yes | HTTP 404 |
-| CBS KCCI (720p) | dead |  | 493 | yes | HTTP 404 |
-| CBS KMTV-TV (720p) | dead |  | 493 | yes | HTTP 404 |
-| CBS KUTV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Bay Area (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Boston (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Chicago (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Colorado (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Detroit (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Los Angeles (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Minnesota (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News New York (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Philly (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS News Pittsburgh (720p) | dead |  | 673 | yes | HTTP 404 |
-| CBS WKRC-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| CBS WPEC (1080p) | dead |  | 673 | yes | HTTP 404 |
-| CBS WWMT (1080p) | dead |  | 673 | yes | HTTP 404 |
-| CCX1 (1080p) | dead |  | 60 | yes | HTTP 403 |
-| CGTV (720p) | dead |  | 60 | yes | HTTP 403 |
-| Channel 18 GAC | dead |  | 60 | yes | HTTP 403 |
-| Cinevault 80s (720p) | dead |  | 673 | yes | HTTP 404 |
-| City of Fairfield Channel 26 (720p) [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| City of Loveland TV (1080p) | dead |  | 673 | yes | HTTP 403 |
-| City of Monroe Government Channel | dead |  | 60 | yes | HTTP 403 |
-| CityTV Whittier (720p) | dead |  | 673 | yes | HTTP 403 |
-| Clubbing TV France | dead |  | 673 | yes | HTTP 504 |
-| CMAC 1 (720p) | dead |  | 60 | yes | HTTP 403 |
-| CMAC 2 (720p) | dead |  | 60 | yes | HTTP 403 |
-| CMAC 3 (720p) | dead |  | 60 | yes | HTTP 403 |
-| CNBC (720p) [Geo-blocked] | dead |  | 673 | yes | HTTP 404 |
-| Collier TV (720p) | dead |  | 673 | yes | HTTP 403 |
-| Comedy Dynamics (1080p) | dead |  | 673 | yes | URLError |
-| Community 12TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| CommunityTV Channel 189 (1080p) [Geo-blocked] | dead |  | 60 | yes | HTTP 403 |
-| Concert Channel (720p) | dead |  | 176 | yes | HTTP 404 |
-| Concord TV (720p) | dead |  | 60 | yes | HTTP 403 |
-| Contra Costa TV [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| Cops (720p) | dead |  | 673 | yes | URLError |
-| COStv | dead |  | 60 | yes | HTTP 403 |
-| Create (1080p) | dead |  | 673 | yes | too little data |
-| CreaTV Channel 15 (720p) | dead |  | 673 | yes | HTTP 403 |
-| CreaTV Channel 27 (720p) | dead |  | 673 | yes | HTTP 403 |
-| CreaTV Channel 28 (720p) | dead |  | 673 | yes | HTTP 403 |
-| CreaTV Channel 30 (720p) | dead |  | 673 | yes | HTTP 403 |
-| Degrassi (720p) | dead |  | 493 | yes | HTTP 502 |
-| Detroit Channel 10 | dead |  | 60 | yes | HTTP 403 |
-| Detroit Channel 21 | dead |  | 60 | yes | HTTP 403 |
-| Detroit Channel 22 | dead |  | 60 | yes | HTTP 403 |
-| Detroit Channel 68 | dead |  | 60 | yes | HTTP 403 |
-| Disney Junior (United States) (480p) | dead |  | 219 | yes | HTTP 404 |
-| Disney XD (United States) (720p) | dead |  | 673 | yes | HTTP 404 |
-| Documentary+ International (1080p) | dead |  | 411 | yes | HTTP 404 |
-| Docurama (1080p) | dead |  | 673 | yes | URLError |
-| DreamWorks Channel Asia (1080p) | dead |  | 673 | yes | TimeoutError |
-| Duck Dynasty (1080p) | dead |  | 344 | yes | URLError |
-| E! Keeping Up (1080p) | dead |  | 673 | yes | URLError |
-| El Rey | dead |  | 673 | yes | HTTP 400 |
-| Escambia County TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| ESPN (United States) (432p) | dead |  | 219 | yes | HTTP 404 |
-| ESPNU (720p) | dead |  | 673 | yes | HTTP 404 |
-| Estrella TV WMBC-TV (720p) | dead |  | 228 | yes | HTTP 401 |
-| FC Public Media (1080p) | dead |  | 60 | yes | HTTP 403 |
-| FCTV (1080p) | dead |  | 60 | yes | HTTP 403 |
-| FNX (1080p) | dead |  | 673 | yes | too little data |
-| Fox (United States) (720p) | dead |  | 673 | yes | URLError |
-| Fox (United States) KCPQ (720p) | dead |  | 468 | yes | HTTP 404 |
-| Fox (United States) KMPH-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Fox (United States) KOKH-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Fox (United States) WBFF (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Fox (United States) West (720p) | dead |  | 673 | yes | URLError |
-| Fox (United States) WSVN (1080p) | dead |  | 673 | yes | URLError |
-| Fox Deportes (720p) | dead |  | 290 | yes | HTTP 404 |
-| Freebie TV (720p) [Not 24/7] | dead |  | 673 | yes | HTTP 504 |
-| G10TV (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Gagsnetwork (576p) | dead |  | 673 | yes | TimeoutError |
-| Galveston County TV (720p) [Not 24/7] | dead |  | 673 | yes | TimeoutError |
-| GCO.tv (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Glendale TV (720p) [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| GMTV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Greensboro TV (720p) | dead |  | 673 | yes | URLError |
-| Hallmark Channel (1080p) | dead |  | 673 | yes | HTTP 404 |
-| HBO (United States) (720p) | dead |  | 219 | yes | HTTP 404 |
-| HBO Hits (720p) | dead |  | 219 | yes | HTTP 404 |
-| HBO Movies (720p) | dead |  | 673 | yes | HTTP 404 |
-| HBO Signature Latin America | dead |  | 652 | yes | HTTP 403 |
-| HBTV (720p) | dead |  | 60 | yes | HTTP 403 |
-| HCTV Educational Access Channel | dead |  | 60 | yes | HTTP 403 |
-| HCTV Government Channel | dead |  | 60 | yes | HTTP 403 |
-| HCTV Public Access Channel | dead |  | 60 | yes | HTTP 403 |
-| HGTV (United States) (720p) | dead |  | 219 | yes | HTTP 404 |
-| HGTV Asia (1080p) | dead |  | 673 | yes | too little data |
-| HKTV (1080p) [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| Homicide Hunter | dead |  | 673 | yes | HTTP 404 |
-| Hope4Life TV (720p) | dead |  | 673 | yes | URLError |
-| Humor Mill (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Impact Network (720p) | dead |  | 74 | yes | HTTP 404 |
-| Iron Chef | dead |  | 673 | yes | HTTP 404 |
-| KBEV (1080p) | dead |  | 673 | yes | HTTP 403 |
-| KBRI-8 (720p) | dead |  | 673 | yes | HTTP 403 |
-| KCAT (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Kentucky Educational Television WKMJ-TV (480p) | dead |  | 673 | yes | no segments |
-| Kentucky Educational Television WKPC-TV (480p) | dead |  | 673 | yes | no segments |
-| Ketchup TV (720p) | dead |  | 673 | yes | HTTP 502 |
-| Kevin Hart's LOL! Network (720p) | dead |  | 673 | yes | HTTP 502 |
-| KFON TV (720p) [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| KTOO 360TV KTOO-TV | dead |  | 0 |  | InvalidURL |
-| LA CityView 35 (1080p) | dead |  | 673 | yes | HTTP 403 |
-| LA36 (1080p) | dead |  | 60 | yes | HTTP 403 |
-| Laff (576p) | dead |  | 219 | yes | HTTP 404 |
-| LakeFront TV (720p) | dead |  | 673 | yes | HTTP 403 |
-| Lakewood Channel 8 (720p) | dead |  | 673 | yes | HTTP 404 |
-| Las Vegas Tonight with Dale Davidson (1080p) | dead |  | 27 | yes | HTTP 404 |
-| Lifetime Asia (1080p) | dead |  | 673 | yes | URLError |
-| Lifetime Movies (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Lindell TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| Little Guyana TV (1080p) | dead |  | 243 | yes | HTTP 404 |
-| Littleton 8 TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Living Faith TV (540p) | dead |  | 323 | yes | HTTP 404 |
-| Lone Star (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Magnificent Movies Network | dead |  | 673 | yes | HTTP 404 |
-| Magnolia Network (720p) | dead |  | 673 | yes | URLError |
-| MBC 3 USA (1080p) [Geo-blocked] | dead |  | 0 |  | TimeoutError |
-| MCPSS TV | dead |  | 673 | yes | HTTP 404 |
-| MeTV (720p) | dead |  | 673 | yes | HTTP 403 |
-| MLB Strike Zone (720p) | dead |  | 444 | yes | HTTP 404 |
-| MMA TV (576p) | dead |  | 673 | yes | URLError |
-| MNT WCIV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| MNT WWOR-TV | dead |  | 243 | yes | HTTP 401 |
-| Monroe Community Media Education Channel | dead |  | 60 | yes | HTTP 403 |
-| Monroe Community Media Public Access Channel | dead |  | 60 | yes | HTTP 403 |
-| Montgomery Channel | dead |  | 60 | yes | HTTP 403 |
-| Movies! (480p) | dead |  | 673 | yes | HTTP 403 |
-| MSG (720p) | dead |  | 673 | yes | HTTP 404 |
-| MST3K (1080p) | dead |  | 673 | yes | HTTP 403 |
-| MSTV (1080p) | dead |  | 673 | yes | HTTP 403 |
-| MTV2 (720p) | dead |  | 315 | yes | URLError |
-| National Geographic (United States) HD East (720p) | dead |  | 315 |  | URLError |
-| National Geographic Wild (United States) HD East (720p) | dead |  | 315 |  | URLError |
-| NBC (1080p) | dead |  | 673 | yes | URLError |
-| NBC KSNV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| NBC West (720p) | dead |  | 673 | yes | URLError |
-| NBC WJAC-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| NBC WLIO (720p) [Not 24/7] | dead |  | 673 | yes | HTTP 403 |
-| NBC WOAI-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| NBC WRDE-LD (720p) [Not 24/7] | dead |  | 673 | yes | HTTP 404 |
-| NBC WTLV (1080p) | dead |  | 673 | yes | URLError |
-| NBC WTOV-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| NCM Educational & Kids Channel | dead |  | 673 | yes | HTTP 403 |
-| NCM Government & Politics Channel | dead |  | 673 | yes | HTTP 403 |
-| NCM Main Channel | dead |  | 673 | yes | HTTP 403 |
-| NEW K-POP (1080p) | dead |  | 673 | yes | HTTP 400 |
-| NEW K.MOVIES (1080p) | dead |  | 673 | yes | HTTP 400 |
-| News of the World (720p) | dead |  | 673 | yes | URLError |
-| News12 Bronx [Geo-blocked] | dead |  | 344 | yes | HTTP 404 |
-| News12 Brooklyn [Geo-blocked] | dead |  | 74 | yes | HTTP 408 |
-| News12 Conneticut [Geo-blocked] | dead |  | 363 | yes | HTTP 404 |
-| News12 Long Island (1080p) [Geo-blocked] | dead |  | 444 | yes | HTTP 408 |
-| News12 New Jersey [Geo-blocked] | dead |  | 131 | yes | HTTP 408 |
-| News12 New York (1080p) | dead |  | 468 | yes | HTTP 404 |
-| News12 Westchester [Geo-blocked] | dead |  | 155 | yes | HTTP 408 |
-| News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 275 | yes | HTTP 404 |
-| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 195 | yes | HTTP 408 |
-| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 0 |  | HTTP 404 |
-| News12+ New Jersey (1080p) [Geo-blocked] | dead |  | 83 | yes | HTTP 404 |
-| News12+ New York (1080p) [Geo-blocked] | dead |  | 251 | yes | HTTP 408 |
-| NFL Network (720p) | dead |  | 315 | yes | URLError |
-| Nickelodeon (United States) (720p) | dead |  | 315 | yes | URLError |
-| NRBTV (720p) | dead |  | 673 | yes | HTTP 403 |
-| NYXT (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Orange Government Access TV (720p) | dead |  | 0 |  | HTTP 404 |
-| Overcomers TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| Pasco TV (480p) | dead |  | 0 |  | HTTP 404 |
-| PBS KETS [Geo-blocked] | dead |  | 673 | yes | too little data |
-| PBS KHET (1080p) [Not 24/7] | dead |  | 673 | yes | too little data |
-| PBS Kids Eastern/Central (720p) | dead |  | 673 | yes | no segments |
-| PBS KQED (1080p) | dead |  | 673 | yes | too little data |
-| PBS KUON-TV (1080p) [Geo-blocked] | dead |  | 673 | yes | too little data |
-| PBS KVIE (1080p) | dead |  | 673 | yes | too little data |
-| PBS WEDQ (1080p) | dead |  | 673 | yes | too little data |
-| PBS WNJT (1080p) [Not 24/7] | dead |  | 673 | yes | too little data |
-| People Are Awesome (1080p) | dead |  | 8 |  | HTTP 404 |
-| PixL TV | dead |  | 673 | yes | HTTP 404 |
-| Pomona Internet Streaming Channel (720p) | dead |  | 673 | yes | HTTP 403 |
-| Popstar! TV (1080p) [Not 24/7] | dead |  | 673 | yes | URLError |
-| PSD TV (720p) | dead |  | 673 | yes | HTTP 403 |
-| PTL TV Network (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Real America's Voice (1080p) | dead |  | 673 | yes | URLError |
-| Reelz (720p) | dead |  | 673 | yes | HTTP 404 |
-| Revry News (720p) [Not 24/7] | dead |  | 673 | yes | URLError |
-| RFD-TV | dead |  | 673 | yes | HTTP 503 |
-| Roar WKEF (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Roar WSBT-TV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Rocky Hill Channel 16 (480p) | dead |  | 673 | yes | HTTP 404 |
-| S Corby TV (480p) | dead |  | 542 | yes | HTTP 404 |
-| S Metro TV (360p) | dead |  | 542 | yes | HTTP 404 |
-| S Play Event (1080p) | dead |  | 542 | yes | HTTP 404 |
-| Screen Dreams (720p) | dead |  | 147 | yes | HTTP 404 |
-| SCVTV (1080p) | dead |  | 60 | yes | HTTP 403 |
-| SF Commons 29 (480p) | dead |  | 673 | yes | HTTP 403 |
-| SF Commons 76 (480p) | dead |  | 673 | yes | HTTP 403 |
-| SGTV (1080p) | dead |  | 673 | yes | HTTP 404 |
-| Shalom World Australia (1080p) [Geo-blocked] | dead |  | 673 | yes | HTTP 403 |
-| Shemaroo Bollywood (1080p) | dead |  | 106 | yes | HTTP 500 |
-| Shop LC (1080p) | dead |  | 673 | yes | too little data |
-| St Lucie Public Schools | dead |  | 60 | yes | HTTP 403 |
-| Starz Cinema (720p) | dead |  | 673 | yes | HTTP 404 |
-| Starz Encore Spanish (720p) | dead |  | 673 | yes | URLError |
-| Stockton Gov TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| Summer of Movies | dead |  | 673 | yes | HTTP 404 |
-| TBCN (480p) | dead |  | 673 | yes | HTTP 403 |
-| TBN (1080p) | dead |  | 673 | yes | HTTP 404 |
-| TBN Inspire (1080p) | dead |  | 673 | yes | HTTP 404 |
-| TeenNick (United States) (432p) | dead |  | 219 | yes | HTTP 404 |
-| Tele Pam (1080p) | dead |  | 372 | yes | URLError |
-| Telemundo (720p) | dead |  | 673 | yes | URLError |
-| Telemundo West (2160p) | dead |  | 673 | yes | HTTP 404 |
-| Temecula TV (1080p) | dead |  | 60 | yes | HTTP 403 |
-| Tennis Channel 2 (1080p) | dead |  | 0 |  | HTTP 404 |
-| The Bob Ross Channel (720p) | dead |  | 673 | yes | HTTP 404 |
-| The Burbank Channel (720p) | dead |  | 673 | yes | HTTP 404 |
-| The Carol Burnett Show (1080p) | dead |  | 673 | yes | HTTP 403 |
-| The Film Detective (720p) | dead |  | 673 | yes | URLError |
-| The Hill TV (1080p) [Geo-blocked] | dead |  | 673 | yes | URLError |
-| Thornton 8 (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Timeless TV | dead |  | 673 | yes | HTTP 404 |
-| Transformers TV (720p) | dead |  | 673 | yes | HTTP 404 |
-| Transformers TV CA | dead |  | 673 | yes | HTTP 404 |
-| TSTV (720p) | dead |  | 60 | yes | HTTP 404 |
-| TVS Film Noir Network (720p) | dead |  | 673 | yes | too little data |
-| UniMas Central (720p) | dead |  | 673 | yes | URLError |
-| UniMas WAMI-DT (1080p) | dead |  | 673 | yes | URLError |
-| Universal Comedy (1080p) | dead |  | 652 | yes | HTTP 403 |
-| Universal Crime (1080p) | dead |  | 652 | yes | HTTP 403 |
-| Univision (1080p) | dead |  | 673 | yes | URLError |
-| Univision East HD (1080p) | dead |  | 673 | yes | URLError |
-| Univision WGBO-DT (2160p) | dead |  | 673 | yes | HTTP 403 |
-| USA Network (720p) | dead |  | 673 | yes | URLError |
-| VCAT (480p) | dead |  | 673 | yes | URLError |
-| Vevo '70s (1080p) | dead |  | 673 | yes | URLError |
-| Vevo '80s (1080p) | dead |  | 673 | yes | URLError |
-| Vevo '90s (1080p) | dead |  | 673 | yes | URLError |
-| Vevo 2K (1080p) | dead |  | 673 | yes | URLError |
-| Vevo Country (1080p) | dead |  | 673 | yes | URLError |
-| Vevo Hip Hop (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Vevo Pop (1080p) | dead |  | 673 | yes | URLError |
-| Vevo R&B (1080p) | dead |  | 673 | yes | HTTP 403 |
-| Vevo Retro Rock (1080p) | dead |  | 673 | yes | URLError |
-| VSCTV (1080p) | dead |  | 673 | yes | HTTP 403 |
-| WACX 55.1 (720p) | dead |  | 673 | yes | URLError |
-| Willamette Falls Media Center | dead |  | 60 | yes | HTTP 403 |
-| Willow (720p) | dead |  | 219 | yes | HTTP 404 |
-| WITN22 (1080p) [Not 24/7] | dead |  | 673 | yes | HTTP 404 |
-| World Channel (1080p) | dead |  | 673 | yes | too little data |
-| World Channel WGTV (1080p) | dead |  | 673 | yes | too little data |
-| WPLG 10.1 (720p) | dead |  | 673 | yes | HTTP 404 |
-| WPS-TV (360p) | dead |  | 673 | yes | no segments |
-| WWE Network (1080p) | dead |  | 459 | yes | HTTP 403 |
-| Youtoo America KVVB-LD (1080p) [Not 24/7] | dead |  | 673 | yes | HTTP 404 |
-| AXN Adria | slow | 0.16 |  |  |  |
-| Big Ten Network (720p) | slow | 0.41 |  |  |  |
-| Bounce (720p) | slow | 0.43 |  |  |  |
-| CNN HD (720p) [Geo-blocked] | slow | 0.58 |  |  |  |
-| Discovery Turbo (United States) (720p) | slow | 1.16 |  |  |  |
-| Disney Channel (United States) (720p) [Geo-blocked] | slow | 0.88 |  |  |  |
-| Faith TV (1080p) | slow | 1.16 |  |  |  |
-| GCN America (720p) | slow | 1.24 |  |  |  |
-| History (United States) (720p) | slow | 0.85 |  |  |  |
-| History Asia (720p) | slow | 1.22 |  |  |  |
-| Investigation Discovery (United States) (1080p) [Geo-blocked] | slow | 1.26 |  |  |  |
+| 30A Lionel Nation | dead |  | 688 | yes | HTTP 404 |
+| 30A Loomered TV | dead |  | 688 | yes | HTTP 404 |
+| A&E (720p) | dead |  | 329 | yes | URLError |
+| ABC News Live 1 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 10 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 2 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 3 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 4 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 5 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 6 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 7 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 8 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC News Live 9 (720p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WBBJ-TV (432p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WJLA-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WLOS (1080p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WMAR-TV (720p) | dead |  | 507 | yes | HTTP 404 |
+| ABC WMUR-TV (720p) | dead |  | 507 | yes | HTTP 404 |
+| ABC WPDE-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WSYX (1080p) | dead |  | 688 | yes | HTTP 404 |
+| ABC WTNH (720p) | dead |  | 688 | yes | too little data |
+| ACC Network (720p) | dead |  | 329 | yes | URLError |
+| Access 19 | dead |  | 75 | yes | HTTP 403 |
+| Access 4 PAC | dead |  | 75 | yes | HTTP 403 |
+| Access Humboldt (1080p) | dead |  | 688 | yes | HTTP 503 |
+| Access Sacramento Channel 17 | dead |  | 688 | yes | HTTP 403 |
+| Access Tuolumne (720p) | dead |  | 75 | yes | HTTP 403 |
+| Alabama Weather Network (720p) | dead |  | 688 | yes | HTTP 404 |
+| AMC (United States) (720p) | dead |  | 329 | yes | URLError |
+| Animal Planet (United States) (720p) | dead |  | 329 |  | URLError |
+| Aspire TV Life (1080p) | dead |  | 688 | yes | HTTP 403 |
+| AuroraTV (720p) | dead |  | 688 | yes | HTTP 403 |
+| AXN Black (United States) Czech Republic | dead |  | 688 | yes | HTTP 503 |
+| AXN Black (United States) Romania | dead |  | 688 | yes | URLError |
+| AXN Crime | dead |  | 688 | yes | HTTP 503 |
+| AXN White (United States) | dead |  | 688 | yes | URLError |
+| AXS TV (720p) | dead |  | 329 | yes | URLError |
+| BATV (480p) | dead |  | 688 | yes | HTTP 403 |
+| BATV Government TV (480p) | dead |  | 688 | yes | HTTP 403 |
+| Baywatch (1080p) | dead |  | 688 | yes | URLError |
+| BBC America (720p) | dead |  | 329 |  | URLError |
+| BBC Kids (720p) | dead |  | 688 | yes | HTTP 502 |
+| BIG Civic Channel | dead |  | 75 | yes | HTTP 403 |
+| BIG Community Channel | dead |  | 75 | yes | HTTP 403 |
+| BPTV (360p) | dead |  | 75 | yes | HTTP 403 |
+| BX Arts (720p) | dead |  | 75 | yes | HTTP 403 |
+| BX Culture (720p) | dead |  | 75 | yes | HTTP 403 |
+| BX Inform (1080p) | dead |  | 75 | yes | HTTP 403 |
+| BX Inspire (720p) | dead |  | 75 | yes | HTTP 403 |
+| BX Omni (720p) | dead |  | 75 | yes | HTTP 403 |
+| Capital City Connection Montgomery [Not 24/7] | dead |  | 75 | yes | HTTP 403 |
+| Cartoon Network (United States) (720p) | dead |  | 234 | yes | URLError |
+| CBS KCCI (720p) | dead |  | 507 | yes | HTTP 404 |
+| CBS KMTV-TV (720p) | dead |  | 507 | yes | HTTP 404 |
+| CBS KUTV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Bay Area (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Boston (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Chicago (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Colorado (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Detroit (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Los Angeles (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Minnesota (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News New York (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Philly (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS News Pittsburgh (720p) | dead |  | 688 | yes | HTTP 404 |
+| CBS WKRC-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| CBS WPEC (1080p) | dead |  | 688 | yes | HTTP 404 |
+| CBS WWMT (1080p) | dead |  | 688 | yes | HTTP 404 |
+| CCX1 (1080p) | dead |  | 75 | yes | HTTP 403 |
+| CGTV (720p) | dead |  | 75 | yes | HTTP 403 |
+| Channel 18 GAC | dead |  | 75 | yes | HTTP 403 |
+| Cinevault 80s (720p) | dead |  | 688 | yes | HTTP 404 |
+| City of Fairfield Channel 26 (720p) [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| City of Loveland TV (1080p) | dead |  | 688 | yes | HTTP 403 |
+| City of Monroe Government Channel | dead |  | 75 | yes | HTTP 403 |
+| CityTV Whittier (720p) | dead |  | 688 | yes | HTTP 403 |
+| Clubbing TV France | dead |  | 688 | yes | HTTP 504 |
+| CMAC 1 (720p) | dead |  | 75 | yes | HTTP 403 |
+| CMAC 2 (720p) | dead |  | 75 | yes | HTTP 403 |
+| CMAC 3 (720p) | dead |  | 75 | yes | HTTP 403 |
+| CMC-USA Country Music Channel (720p) | dead |  | 0 |  | too little data |
+| CNBC (720p) [Geo-blocked] | dead |  | 688 | yes | HTTP 404 |
+| Collier TV (720p) | dead |  | 688 | yes | HTTP 403 |
+| Comedy Dynamics (1080p) | dead |  | 688 | yes | URLError |
+| Community 12TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| CommunityTV Channel 189 (1080p) [Geo-blocked] | dead |  | 75 | yes | HTTP 403 |
+| Concert Channel (720p) | dead |  | 191 | yes | HTTP 404 |
+| Concord TV (720p) | dead |  | 75 | yes | HTTP 403 |
+| Contra Costa TV [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| Cops (720p) | dead |  | 688 | yes | URLError |
+| COStv | dead |  | 75 | yes | HTTP 403 |
+| Create (1080p) | dead |  | 688 | yes | too little data |
+| CreaTV Channel 15 (720p) | dead |  | 688 | yes | HTTP 403 |
+| CreaTV Channel 27 (720p) | dead |  | 688 | yes | HTTP 403 |
+| CreaTV Channel 28 (720p) | dead |  | 688 | yes | HTTP 403 |
+| CreaTV Channel 30 (720p) | dead |  | 688 | yes | HTTP 403 |
+| Cruz TV | dead |  | 0 |  | TimeoutError |
+| Degrassi (720p) | dead |  | 507 | yes | HTTP 502 |
+| Detroit Channel 10 | dead |  | 75 | yes | HTTP 403 |
+| Detroit Channel 21 | dead |  | 75 | yes | HTTP 403 |
+| Detroit Channel 22 | dead |  | 75 | yes | HTTP 403 |
+| Detroit Channel 68 | dead |  | 75 | yes | HTTP 403 |
+| Disney Junior (United States) (480p) | dead |  | 234 | yes | URLError |
+| Disney XD (United States) (720p) | dead |  | 688 | yes | HTTP 404 |
+| Documentary+ International (1080p) | dead |  | 426 | yes | HTTP 404 |
+| Docurama (1080p) | dead |  | 688 | yes | URLError |
+| DreamWorks Channel Asia (1080p) | dead |  | 688 | yes | TimeoutError |
+| Duck Dynasty (1080p) | dead |  | 359 | yes | URLError |
+| E! Keeping Up (1080p) | dead |  | 688 | yes | URLError |
+| El Rey | dead |  | 688 | yes | HTTP 400 |
+| Escambia County TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| ESPN (United States) (432p) | dead |  | 234 | yes | URLError |
+| ESPNU (720p) | dead |  | 688 | yes | HTTP 404 |
+| Estrella TV WMBC-TV (720p) | dead |  | 243 | yes | HTTP 401 |
+| FC Public Media (1080p) | dead |  | 75 | yes | HTTP 403 |
+| FCTV (1080p) | dead |  | 75 | yes | HTTP 403 |
+| FNX (1080p) | dead |  | 688 | yes | too little data |
+| Fox (United States) (720p) | dead |  | 688 | yes | URLError |
+| Fox (United States) KCPQ (720p) | dead |  | 483 | yes | HTTP 404 |
+| Fox (United States) KMPH-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Fox (United States) KOKH-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Fox (United States) WBFF (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Fox (United States) West (720p) | dead |  | 688 | yes | URLError |
+| Fox (United States) WFXT (1080p) [Geo-blocked] | dead |  | 0 |  | TimeoutError |
+| Fox (United States) WSVN (1080p) | dead |  | 688 | yes | URLError |
+| Fox Deportes (720p) | dead |  | 305 | yes | HTTP 404 |
+| Freebie TV (720p) [Not 24/7] | dead |  | 688 | yes | HTTP 504 |
+| G10TV (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Gagsnetwork (576p) | dead |  | 688 | yes | TimeoutError |
+| Galveston County TV (720p) [Not 24/7] | dead |  | 688 | yes | TimeoutError |
+| GCO.tv (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Glendale TV (720p) [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| GMTV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Greensboro TV (720p) | dead |  | 688 | yes | URLError |
+| Hallmark Channel (1080p) | dead |  | 688 | yes | HTTP 404 |
+| HBO (United States) (720p) | dead |  | 234 | yes | URLError |
+| HBO Hits (720p) | dead |  | 234 | yes | URLError |
+| HBO Movies (720p) | dead |  | 688 | yes | HTTP 404 |
+| HBO Signature Latin America | dead |  | 667 | yes | HTTP 403 |
+| HBTV (720p) | dead |  | 75 | yes | HTTP 403 |
+| HCTV Educational Access Channel | dead |  | 75 | yes | HTTP 403 |
+| HCTV Government Channel | dead |  | 75 | yes | HTTP 403 |
+| HCTV Public Access Channel | dead |  | 75 | yes | HTTP 403 |
+| HGTV (United States) (720p) | dead |  | 234 | yes | URLError |
+| HGTV Asia (1080p) | dead |  | 688 | yes | too little data |
+| HKTV (1080p) [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| Homicide Hunter | dead |  | 688 | yes | HTTP 404 |
+| Hope4Life TV (720p) | dead |  | 688 | yes | URLError |
+| Humor Mill (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Impact Network (720p) | dead |  | 89 | yes | HTTP 404 |
+| Iron Chef | dead |  | 688 | yes | HTTP 404 |
+| KBEV (1080p) | dead |  | 688 | yes | HTTP 403 |
+| KBRI-8 (720p) | dead |  | 688 | yes | HTTP 403 |
+| KCAT (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Kentucky Educational Television WKMJ-TV (480p) | dead |  | 688 | yes | no segments |
+| Kentucky Educational Television WKPC-TV (480p) | dead |  | 688 | yes | no segments |
+| Ketchup TV (720p) | dead |  | 688 | yes | HTTP 502 |
+| Kevin Hart's LOL! Network (720p) | dead |  | 688 | yes | HTTP 502 |
+| KFON TV (720p) [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| LA CityView 35 (1080p) | dead |  | 688 | yes | HTTP 403 |
+| LA36 (1080p) | dead |  | 75 | yes | HTTP 403 |
+| Laff (576p) | dead |  | 234 | yes | URLError |
+| LakeFront TV (720p) | dead |  | 688 | yes | HTTP 403 |
+| Lakewood Channel 8 (720p) | dead |  | 688 | yes | HTTP 404 |
+| Las Vegas Tonight with Dale Davidson (1080p) | dead |  | 42 | yes | HTTP 404 |
+| Lifetime Asia (1080p) | dead |  | 688 | yes | URLError |
+| Lifetime Movies (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Lindell TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| Little Guyana TV (1080p) | dead |  | 258 | yes | HTTP 404 |
+| Littleton 8 TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Living Faith TV (540p) | dead |  | 338 | yes | HTTP 404 |
+| Lone Star (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Magnificent Movies Network | dead |  | 688 | yes | HTTP 404 |
+| Magnolia Network (720p) | dead |  | 688 | yes | URLError |
+| MBC 1 USA (1080p) [Geo-blocked] | dead |  | 0 |  | TimeoutError |
+| MBC 3 USA (1080p) [Geo-blocked] | dead |  | 15 | yes | TimeoutError |
+| MCPSS TV | dead |  | 688 | yes | HTTP 404 |
+| MeTV (720p) | dead |  | 688 | yes | HTTP 403 |
+| MLB Strike Zone (720p) | dead |  | 458 | yes | HTTP 404 |
+| MMA TV (576p) | dead |  | 688 | yes | URLError |
+| MNT WCIV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| MNT WWOR-TV | dead |  | 258 | yes | HTTP 401 |
+| Monroe Community Media Education Channel | dead |  | 75 | yes | HTTP 403 |
+| Monroe Community Media Public Access Channel | dead |  | 75 | yes | HTTP 403 |
+| Montgomery Channel | dead |  | 75 | yes | HTTP 403 |
+| Movies! (480p) | dead |  | 688 | yes | HTTP 403 |
+| MSG (720p) | dead |  | 688 | yes | HTTP 404 |
+| MST3K (1080p) | dead |  | 688 | yes | HTTP 403 |
+| MSTV (1080p) | dead |  | 688 | yes | HTTP 403 |
+| MTV2 (720p) | dead |  | 329 | yes | URLError |
+| National Geographic (United States) HD East (720p) | dead |  | 329 |  | URLError |
+| National Geographic Wild (United States) HD East (720p) | dead |  | 329 |  | URLError |
+| NBC (1080p) | dead |  | 688 | yes | URLError |
+| NBC KSNV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| NBC West (720p) | dead |  | 688 | yes | URLError |
+| NBC WJAC-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| NBC WLIO (720p) [Not 24/7] | dead |  | 688 | yes | HTTP 403 |
+| NBC WOAI-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| NBC WRDE-LD (720p) [Not 24/7] | dead |  | 688 | yes | HTTP 404 |
+| NBC WTLV (1080p) | dead |  | 688 | yes | URLError |
+| NBC WTOV-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| NBC WTVJ (1080p) | dead |  | 0 |  | HTTP 404 |
+| NCM Educational & Kids Channel | dead |  | 688 | yes | HTTP 403 |
+| NCM Government & Politics Channel | dead |  | 688 | yes | HTTP 403 |
+| NCM Main Channel | dead |  | 688 | yes | HTTP 403 |
+| NEW K-POP (1080p) | dead |  | 688 | yes | HTTP 400 |
+| NEW K.MOVIES (1080p) | dead |  | 688 | yes | HTTP 400 |
+| News of the World (720p) | dead |  | 688 | yes | URLError |
+| News12 Bronx [Geo-blocked] | dead |  | 359 | yes | HTTP 408 |
+| News12 Brooklyn [Geo-blocked] | dead |  | 89 | yes | HTTP 408 |
+| News12 Conneticut [Geo-blocked] | dead |  | 378 | yes | HTTP 404 |
+| News12 Hudson Valley [Geo-blocked] | dead |  | 0 |  | HTTP 408 |
+| News12 Long Island (1080p) [Geo-blocked] | dead |  | 458 | yes | HTTP 408 |
+| News12 New Jersey [Geo-blocked] | dead |  | 145 | yes | HTTP 408 |
+| News12 New York (1080p) | dead |  | 483 | yes | HTTP 404 |
+| News12 Westchester [Geo-blocked] | dead |  | 170 | yes | HTTP 408 |
+| News12+ Connecticut (1080p) [Geo-blocked] | dead |  | 289 | yes | HTTP 408 |
+| News12+ Hudson Valley (1080p) [Geo-blocked] | dead |  | 210 | yes | HTTP 408 |
+| News12+ Long Island (1080p) [Geo-blocked] | dead |  | 15 | yes | HTTP 404 |
+| News12+ New York (1080p) [Geo-blocked] | dead |  | 266 | yes | HTTP 404 |
+| NFL Network (720p) | dead |  | 329 | yes | URLError |
+| Nickelodeon (United States) (720p) | dead |  | 329 | yes | URLError |
+| NRBTV (720p) | dead |  | 688 | yes | HTTP 403 |
+| NYXT (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Overcomers TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| PBS KETS [Geo-blocked] | dead |  | 688 | yes | too little data |
+| PBS KHET (1080p) [Not 24/7] | dead |  | 688 | yes | too little data |
+| PBS Kids Eastern/Central (720p) | dead |  | 688 | yes | no segments |
+| PBS KQED (1080p) | dead |  | 688 | yes | too little data |
+| PBS KUON-TV (1080p) [Geo-blocked] | dead |  | 688 | yes | too little data |
+| PBS KVIE (1080p) | dead |  | 688 | yes | too little data |
+| PBS WEDQ (1080p) | dead |  | 688 | yes | too little data |
+| PBS WNJT (1080p) [Not 24/7] | dead |  | 688 | yes | too little data |
+| PixL TV | dead |  | 688 | yes | HTTP 404 |
+| Pomona Internet Streaming Channel (720p) | dead |  | 688 | yes | HTTP 403 |
+| Popstar! TV (1080p) [Not 24/7] | dead |  | 688 | yes | URLError |
+| PSD TV (720p) | dead |  | 688 | yes | HTTP 403 |
+| PTL TV Network (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Radio Tele Puissance | dead |  | 0 |  | HTTP 403 |
+| Real America's Voice (1080p) | dead |  | 688 | yes | URLError |
+| Reelz (720p) | dead |  | 688 | yes | HTTP 404 |
+| Revry News (720p) [Not 24/7] | dead |  | 688 | yes | URLError |
+| RFD-TV | dead |  | 688 | yes | HTTP 503 |
+| Roar WKEF (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Roar WSBT-TV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Rocky Hill Channel 16 (480p) | dead |  | 688 | yes | HTTP 404 |
+| S Corby TV (480p) | dead |  | 557 | yes | HTTP 404 |
+| S Metro TV (360p) | dead |  | 557 | yes | HTTP 404 |
+| S Play Event (1080p) | dead |  | 557 | yes | HTTP 404 |
+| Screen Dreams (720p) | dead |  | 161 | yes | HTTP 404 |
+| SCVTV (1080p) | dead |  | 75 | yes | HTTP 403 |
+| SF Commons 29 (480p) | dead |  | 688 | yes | HTTP 403 |
+| SF Commons 76 (480p) | dead |  | 688 | yes | HTTP 403 |
+| SGTV (1080p) | dead |  | 688 | yes | HTTP 404 |
+| Shalom World Australia (1080p) [Geo-blocked] | dead |  | 688 | yes | HTTP 403 |
+| Shemaroo Bollywood (1080p) | dead |  | 121 | yes | HTTP 500 |
+| Shop LC (1080p) | dead |  | 688 | yes | too little data |
+| St Lucie Public Schools | dead |  | 75 | yes | HTTP 403 |
+| Starz Cinema (720p) | dead |  | 688 | yes | HTTP 404 |
+| Starz Encore Spanish (720p) | dead |  | 688 | yes | URLError |
+| Stockton Gov TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| Summer of Movies | dead |  | 688 | yes | HTTP 404 |
+| TBCN (480p) | dead |  | 688 | yes | HTTP 403 |
+| TBN (1080p) | dead |  | 688 | yes | HTTP 404 |
+| TBN Inspire (1080p) | dead |  | 688 | yes | HTTP 404 |
+| TeenNick (United States) (432p) | dead |  | 234 | yes | URLError |
+| Tele Pam (1080p) | dead |  | 387 | yes | URLError |
+| Telemundo (720p) | dead |  | 688 | yes | URLError |
+| Telemundo West (2160p) | dead |  | 688 | yes | HTTP 404 |
+| Temecula TV (1080p) | dead |  | 75 | yes | HTTP 403 |
+| The Bob Ross Channel (720p) | dead |  | 688 | yes | HTTP 404 |
+| The Burbank Channel (720p) | dead |  | 688 | yes | HTTP 404 |
+| The Carol Burnett Show (1080p) | dead |  | 688 | yes | HTTP 403 |
+| The Film Detective (720p) | dead |  | 688 | yes | URLError |
+| The Hill TV (1080p) [Geo-blocked] | dead |  | 688 | yes | URLError |
+| Thornton 8 (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Timeless TV | dead |  | 688 | yes | HTTP 404 |
+| Transformers TV (720p) | dead |  | 688 | yes | HTTP 404 |
+| Transformers TV CA | dead |  | 688 | yes | HTTP 404 |
+| TSTV (720p) | dead |  | 75 | yes | HTTP 404 |
+| TVS Film Noir Network (720p) | dead |  | 688 | yes | too little data |
+| UniMas Central (720p) | dead |  | 688 | yes | URLError |
+| UniMas WAMI-DT (1080p) | dead |  | 688 | yes | URLError |
+| Universal Comedy (1080p) | dead |  | 667 | yes | HTTP 403 |
+| Universal Crime (1080p) | dead |  | 667 | yes | HTTP 403 |
+| Univision (1080p) | dead |  | 688 | yes | URLError |
+| Univision East HD (1080p) | dead |  | 688 | yes | URLError |
+| Univision WGBO-DT (2160p) | dead |  | 688 | yes | HTTP 403 |
+| USA Network (720p) | dead |  | 688 | yes | URLError |
+| VCAT (480p) | dead |  | 688 | yes | URLError |
+| Vevo '70s (1080p) | dead |  | 688 | yes | URLError |
+| Vevo '80s (1080p) | dead |  | 688 | yes | URLError |
+| Vevo '90s (1080p) | dead |  | 688 | yes | URLError |
+| Vevo 2K (1080p) | dead |  | 688 | yes | URLError |
+| Vevo Country (1080p) | dead |  | 688 | yes | URLError |
+| Vevo Hip Hop (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Vevo Pop (1080p) | dead |  | 688 | yes | URLError |
+| Vevo R&B (1080p) | dead |  | 688 | yes | HTTP 403 |
+| Vevo Retro Rock (1080p) | dead |  | 688 | yes | URLError |
+| VSCTV (1080p) | dead |  | 688 | yes | HTTP 403 |
+| WACX 55.1 (720p) | dead |  | 688 | yes | URLError |
+| Willamette Falls Media Center | dead |  | 75 | yes | HTTP 403 |
+| Willow (720p) | dead |  | 234 | yes | URLError |
+| WITN22 (1080p) [Not 24/7] | dead |  | 688 | yes | HTTP 404 |
+| World Channel (1080p) | dead |  | 688 | yes | too little data |
+| World Channel WGTV (1080p) | dead |  | 688 | yes | too little data |
+| WPLG 10.1 (720p) | dead |  | 688 | yes | HTTP 404 |
+| WPS-TV (360p) | dead |  | 688 | yes | no segments |
+| WWE Network (1080p) | dead |  | 474 | yes | HTTP 403 |
+| Youtoo America KVVB-LD (1080p) [Not 24/7] | dead |  | 688 | yes | HTTP 404 |
+| American Horrors (480p) | slow | 0.77 |  |  |  |
+| Atlanta Channel (720p) | slow | 1.36 |  |  |  |
+| AXN Adria | slow | 0.1 |  |  |  |
+| Beach TV Florida & Alabama (720p) | slow | 0.9 |  |  |  |
+| Beach TV Key West & Florida Keys (720p) | slow | 0.29 |  |  |  |
+| Beach TV Myrtle Beach & The Grand Strand (720p) | slow | 1.12 |  |  |  |
+| Beach TV Panama City (720p) | slow | 0.61 |  |  |  |
+| CNN HD (720p) [Geo-blocked] | slow | 0.75 |  |  |  |
+| Discovery Channel (United States) (1080p) [Geo-blocked] | slow | 1.24 |  |  |  |
+| Disney Channel (United States) (720p) [Geo-blocked] | slow | 1.4 |  |  |  |
+| Faith TV (1080p) | slow | 1.36 |  |  |  |
+| History (United States) (720p) | slow | 0.74 |  |  |  |
+| History Asia (720p) | slow | 1.14 |  |  |  |
+| KNOV-CD 41.1 (720p) | slow | 1.32 |  |  |  |
+| LATV (1080p) [Geo-blocked] | slow | 0.44 |  |  |  |
 | Midpen Media Center Channel 26 (720p) | slow | 0.47 |  |  |  |
 | Midpen Media Center Channel 28 (720p) | slow | 0.46 |  |  |  |
-| Midpen Media Center Channel 29 (720p) | slow | 0.47 |  |  |  |
-| Midpen Media Center Channel 30 (720p) | slow | 0.44 |  |  |  |
-| Midpen Media Center Channel 75 (720p) | slow | 0.44 |  |  |  |
-| National Geographic (United States) (720p) | slow | 0.44 |  |  |  |
-| NBA TV (720p) | slow | 1.42 |  |  |  |
-| Nick Jr. (United States) (720p) | slow | 0.89 |  |  |  |
-| OnTV4U (1080p) [Geo-blocked] | slow | 1.15 |  |  |  |
-| Outdoor Channel Vietnam (1080p) | slow | 0.5 |  |  |  |
-| Revolt (720p) | slow | 0.33 |  |  |  |
-| Scientology Network KSCN-TV | slow | 1.22 |  |  |  |
-| SEC Network (1080p) | slow | 0.36 |  |  |  |
-| Starz West (720p) | slow | 0.62 |  |  |  |
-| Tastemade UK (1080p) | slow | 0.65 |  |  |  |
-| TNT (United States) (720p) [Geo-blocked] | slow | 0.75 |  |  |  |
-| truTV (720p) | slow | 0.65 |  |  |  |
-| TVS Family Channel (360p) | slow | 0.56 |  |  |  |
-| TVS Hi Tops (720p) | slow | 0.55 |  |  |  |
-| TVS Television Network (480p) | slow | 0.97 |  |  |  |
-| VICE TV (1080p) | slow | 1.45 |  |  |  |
-| Warner TV Asia (720p) | slow | 1.28 |  |  |  |
-| We TV (1080p) | slow | 0.52 |  |  |  |
-| Westerns 4U (1080p) | slow | 0.41 |  |  |  |
-| Yes Network (720p) | slow | 0.43 |  |  |  |
+| Midpen Media Center Channel 29 (720p) | slow | 0.45 |  |  |  |
+| Midpen Media Center Channel 30 (720p) | slow | 0.43 |  |  |  |
+| Midpen Media Center Channel 75 (720p) | slow | 0.45 |  |  |  |
+| National Geographic (United States) (720p) | slow | 0.73 |  |  |  |
+| Nick Jr. (United States) (720p) | slow | 0.82 |  |  |  |
+| Outdoor Channel Vietnam (1080p) | slow | 0.74 |  |  |  |
+| Payvand TV (United States) (720p) | slow | 1.37 |  |  |  |
+| TNT (United States) (720p) [Geo-blocked] | slow | 0.98 |  |  |  |
+| TVS Classic Sports (360p) | slow | 0.11 |  |  |  |
+| TVS Comedy Network (720p) | slow | 0.45 |  |  |  |
+| TVS Drive In Movie (360p) | slow | 0.21 |  |  |  |
+| TVS Flashback Network (360p) | slow | 0.3 |  |  |  |
+| TVS Hi Tops (720p) | slow | 0.96 |  |  |  |
+| Warner TV Asia (720p) | slow | 1.08 |  |  |  |
