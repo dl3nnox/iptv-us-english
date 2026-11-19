@@ -7,8 +7,8 @@ Result of the last build. Channels are matched to the first source that lists th
 | pluto | ok - 3108 channels | 297 |
 | pbs | ok - 146 channels | 0 |
 | samsung | ok - 594 channels | 138 |
-| plex | ok - 702 channels | 47 |
-| roku | ok - 742 channels | 32 |
+| plex | ok - 701 channels | 47 |
+| roku | ok - 728 channels | 31 |
 | epgshare | failed - HTTPError: HTTP Error 404: Not Found | 0 |
 | openepg | ok - 663 channels | 0 |
 | openepg2 | ok - 547 channels | 0 |
