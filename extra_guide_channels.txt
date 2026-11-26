@@ -1208,798 +1208,798 @@ openepg2	YTA.us	YTA.us
 openepg2	ZEA8BR.us	ZEA8BR.us
 openepg2	ZEETV.us	ZEETV.us
 openepg2	ZEETVH.us	ZEETVH.us
-epgshare2	Once.us2	Once
-epgshare2	The.First.us2	The First
-epgshare2	The.Nest.us2	The Nest
-epgshare2	Flix.us2	Flix
-epgshare2	MGM+.Drive-In.us2	MGM+ Drive-In
-epgshare2	Hallmark.Channel.HD.us2	Hallmark Channel HD
-epgshare2	Shades.of.Black.us2	Shades of Black
-epgshare2	Teen.Nick.us2	Teen Nick
-epgshare2	GZTV.us2	GZTV
-epgshare2	WORLD.Channel.us2	WORLD Channel
-epgshare2	The.Movie.Channel.(Pacific).us2	The Movie Channel (Pacific)
-epgshare2	HBO2.HD.us2	HBO2 HD
-epgshare2	BET.Her.us2	BET Her
-epgshare2	SportsGrid.us2	SportsGrid
-epgshare2	MASN.-.Mid.Atlantic.Sports.Network.us2	MASN - Mid Atlantic Sports Network
-epgshare2	Movie.Hub.Action.us2	Movie Hub Action
-epgshare2	CHARGE!.us2	CHARGE!
-epgshare2	ABC.News.Live.us2	ABC News Live
-epgshare2	Spectrum.News.-.Central.NY.STVA.us2	Spectrum News - Central NY STVA
-epgshare2	NFL.RedZone.HD.us2	NFL RedZone HD
-epgshare2	MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2	MASN2 - Mid Atlantic Sports Network 2 HD
-epgshare2	NBA.League.Pass.5.HD.us2	NBA League Pass 5 HD
-epgshare2	Multimedios.USA.us2	Multimedios USA
-epgshare2	SonLife.Broadcasting.Network.HD.us2	SonLife Broadcasting Network HD
-epgshare2	DUCKTV.us2	DUCKTV
-epgshare2	CW.us2	CW
-epgshare2	SBS.Plus.us2	SBS Plus
-epgshare2	Blossom.TV.us2	Blossom TV
-epgshare2	NBA.League.Pass.9.HD.us2	NBA League Pass 9 HD
-epgshare2	AccuWeather.HD.us2	AccuWeather HD
-epgshare2	AFN.spectrum.us2	AFN spectrum
-epgshare2	Great.American.Romcoms.us2	Great American Romcoms
-epgshare2	Spectrum.News.-.(New.York).Rochester.STVA.us2	Spectrum News - (New York) Rochester STVA
-epgshare2	VIETV.us2	VIETV
-epgshare2	ESPN8.The.Ocho.us2	ESPN8 The Ocho
-epgshare2	Discovery.Familia.En.Español.us2	Discovery Familia En Español
-epgshare2	HBO.Comedy.HD.us2	HBO Comedy HD
-epgshare2	NBC.Sports.California.SAT.us2	NBC Sports California HD
-epgshare2	Investigation.Discovery.HD.us2	Investigation Discovery HD
-epgshare2	Sur.Peru.us2	Sur Peru
-epgshare2	Tan.Tv.us2	Tan Tv
-epgshare2	Ryz.Sports.Network.us2	Ryz Sports Network
-epgshare2	Spectrum.News.-.Albany.Capital.Region.STVA.us2	Spectrum News - Albany Capital Region STVA
-epgshare2	TNT.HD.us2	TNT HD
-epgshare2	Home.Shopping.Network.us2	Home Shopping Network
-epgshare2	ESPNU.HD.us2	ESPNU HD
-epgshare2	Playboy.TV.us2	Playboy TV
-epgshare2	NBA.League.Pass.4.HD.us2	NBA League Pass 4 HD
-epgshare2	The.Filipino.Channel.(Pacific).us2	The Filipino Channel (Pacific)
-epgshare2	Vien.Thao.TV.us2	Vien Thao TV
-epgshare2	INFAST.US.us2	INFAST US
-epgshare2	AFN.news.us2	AFN news
-epgshare2	Rai.Radio.1.us2	Rai Radio 1
-epgshare2	Altitude.Sports.us2	Altitude Sports
-epgshare2	Free.Speech.TV.us2	Free Speech TV
-epgshare2	HBO2.(Pacific).us2	HBO2 (Pacific)
-epgshare2	Pure.Flix.TV.us2	Pure Flix TV
-epgshare2	Spectrum.News.1.-.Toledo/Lima.-.STVA.us2	Spectrum News 1 - Toledo/Lima - STVA
-epgshare2	Movie.Hub.Romance.us2	Movie Hub Romance
-epgshare2	CANAL.22.INTERNACIONAL.us2	CANAL 22 INTERNACIONAL
-epgshare2	Cine.Mexicano.US.Feed.us2	Cine Mexicano US Feed
-epgshare2	NBA.League.Pass.7.us2	NBA League Pass 7
-epgshare2	ReelzChannel.HD.us2	ReelzChannel HD
-epgshare2	AXS.TV.us2	AXS TV
-epgshare2	Xumo.Free.Westerns.us2	Xumo Free Westerns
-epgshare2	Spectrum.News.1.-.SO.CAL.-.STVA.us2	Spectrum News 1 - SO CAL - STVA
-epgshare2	NBA.League.Pass.6.HD.us2	NBA League Pass 6 HD
-epgshare2	DirecTV.VALU.us2	DirecTV VALU
-epgshare2	Fox.Business.HD.us2	Fox Business HD
-epgshare2	Family.Entertainment.Television.us2	Family Entertainment Television
-epgshare2	NBA.League.Pass.1.us2	NBA League Pass 1
-epgshare2	BET.GOSPEL.us2	BET GOSPEL
-epgshare2	Game.Show.Network.HD.us2	Game Show Network HD
-epgshare2	Spectrum.News.1.-.(Kentucky).Lexington.us2	Spectrum News 1 - (Kentucky) Lexington
-epgshare2	America’s.Test.Kitchen.us2	America’s Test Kitchen
-epgshare2	FS1.HD.us2	FS1 HD
-epgshare2	SportsNet.Pittsburgh.Plus.us2	SportsNet Pittsburgh Plus
-epgshare2	Cinemax.Action.us2	Cinemax Action
-epgshare2	Daystar.Español.us2	Daystar Español
-epgshare2	Cheddar.us2	Cheddar
-epgshare2	ABC.National.Feed.Pacific.us2	ABC National Feed Pacific
-epgshare2	Nosey.on.Peacock.us2	Nosey on Peacock
-epgshare2	NBA.League.Pass.8.us2	NBA League Pass 8
-epgshare2	AdultSwim.com.Cartoon.Network.us2	AdultSwim com Cartoon Network
-epgshare2	Military.History.Channel.us2	Military History Channel
-epgshare2	Starz.(Pacific).us2	Starz (Pacific)
-epgshare2	MOTORTREND.HD.us2	MOTORTREND HD
-epgshare2	Revolt.HD.us2	Revolt HD
-epgshare2	QVC2.us2	QVC2
-epgshare2	Smithsonian.HD.Network.us2	Smithsonian HD Network
-epgshare2	Bowling.TV.us2	Bowling TV
-epgshare2	Disney.XD.HD.us2	Disney XD HD
-epgshare2	Crime.and.Investigation.Network.HD.us2	Crime and Investigation Network HD
-epgshare2	WAPA.America.us2	WAPA America
-epgshare2	EarthX.us2	EarthX
-epgshare2	80s.Sitcoms.us2	80s Sitcoms
-epgshare2	Vice.us2	Vice
-epgshare2	Horror.Plus.us2	Horror Plus
-epgshare2	Jewish.Life.TV.us2	Jewish Life TV
-epgshare2	Origin.Sports.us2	Origin Sports
-epgshare2	3ABN.Proclaim.Network.us2	3ABN Proclaim Network
-epgshare2	Compre.AQUI.los.productos.mejores.del.TV.us2	Compre AQUI los productos mejores del TV
-epgshare2	Scientology.Media.Productions.us2	Scientology Media Productions
-epgshare2	NBC.Sports.Bay.Area.Plus.us2	NBC Sports Bay Area Plus
-epgshare2	Saigon.Broadcasting.Network.us2	Saigon Broadcasting Network
-epgshare2	UPtv.us2	UPtv
-epgshare2	Spectrum.News.1.(Carolinas).-.Raleigh.STVA.us2	Spectrum News 1 (Carolinas) - Raleigh STVA
-epgshare2	NBA.League.Pass.2.HD.us2	NBA League Pass 2 HD
-epgshare2	Plus.Movies.us2	Plus Movies
-epgshare2	VME.us2	VME
-epgshare2	Dabl.us2	Dabl
-epgshare2	NBC.Chicago.(Live.Stream).us2	NBC Chicago (Live Stream)
-epgshare2	3ABN.Kids.Network.us2	3ABN Kids Network
-epgshare2	Monumental.Sports.Network.HD.us2	Monumental Sports Network HD
-epgshare2	PixL.us2	PixL
-epgshare2	CNN.HD.us2	CNN HD
-epgshare2	MSG.Sportsnet.2.HD.us2	MSG Sportsnet 2 HD
-epgshare2	Bon.Appétit.TV.us2	Bon Appétit TV
-epgshare2	MTV.-.Music.Television.HD.(Pacific).us2	MTV - Music Television HD (Pacific)
-epgshare2	Universal.Crime.us2	Universal Crime
-epgshare2	Oxygen.True.Crime.HD.us2	Oxygen True Crime HD
-epgshare2	ActionMAX.HD.us2	ActionMAX HD
-epgshare2	Vevo.Regional.Mexicano.us2	Vevo Regional Mexicano
-epgshare2	Adult.On.Demand.us2	Adult On Demand
-epgshare2	MBC.America.us2	MBC America
-epgshare2	Positiv.TV.us2	Positiv TV
-epgshare2	TV.Chile.us2	TV Chile
-epgshare2	Animal.Planet.HD.us2	Animal Planet HD
-epgshare2	Law.and.Crime.us2	Law and Crime
-epgshare2	De.Pelicula.us2	De Pelicula
-epgshare2	PBS.Kids.West.Stream.us2	PBS Kids West Stream
-epgshare2	Fox.News.Channel.HD.us2	Fox News Channel HD
-epgshare2	Spectrum.SportsNet.LA.Dodgers.HD.us2	Spectrum SportsNet LA Dodgers HD
-epgshare2	CentroAméricaTV.us2	CentroAméricaTV
-epgshare2	MGM+.Hits.HD.us2	MGM+ Hits HD
-epgshare2	MGM.Presents:.Westerns.us2	MGM Presents: Westerns
-epgshare2	Fawesome.us2	Fawesome
-epgshare2	iCable.Finance.Info.News.Channel.us2	iCable Finance Info News Channel
-epgshare2	Spectrum.News.-.Alabama.STVA.us2	Spectrum News - Alabama STVA
-epgshare2	Spectrum.News.-.Hudson.Valley.STVA.us2	Spectrum News - Hudson Valley STVA
-epgshare2	NBC.Sports.Bay.Area.HD.us2	NBC Sports Bay Area HD
-epgshare2	ESPN2.HD.us2	ESPN2 HD
-epgshare2	AMC.HD.us2	AMC HD
-epgshare2	Starz.Encore.Westerns.SD.us2	Starz Encore Westerns SD
-epgshare2	Great.American.Adventures.us2	Great American Adventures
-epgshare2	Spectrum.News.1.-.(Kentucky).Louisville.us2	Spectrum News 1 - (Kentucky) Louisville
-epgshare2	CuriosityStream.us2	CuriosityStream
-epgshare2	Mega.TV.HD.us2	Mega TV HD
-epgshare2	Start.TV.Network.us2	Start TV Network
-epgshare2	De.Pelicula.Clasico.us2	De Pelicula Clasico
-epgshare2	Gulf.Coast.Sports.and.Entertainment.Network.us2	Gulf Coast Sports and Entertainment Network
-epgshare2	HBO.Movies.us2	HBO Movies
-epgshare2	Showtime.Familyzone.HD.us2	Showtime Familyzone HD
-epgshare2	Starz.Kids.HD.us2	Starz Kids HD
-epgshare2	Ovation.HD.us2	Ovation HD
-epgshare2	USA.Network.HD.(Pacific).us2	USA Network HD (Pacific)
-epgshare2	Heroes.and.Icons.Network.SD.us2	Heroes and Icons Network SD
-epgshare2	Pinoy.Box.Office.us2	Pinoy Box Office
-epgshare2	HLN.HD.us2	HLN HD
-epgshare2	CINEVAULT.Westerns.us2	CINEVAULT Westerns
-epgshare2	Hustler.Mature.HD.us2	Hustler Mature HD
-epgshare2	ZooMoo.us2	ZooMoo
-epgshare2	TLC.HD.(Pacific).us2	TLC HD (Pacific)
-epgshare2	Spectrum.News.1.-.Dallas.-.Ft.Worth.STVA.us2	Spectrum News 1 - Dallas - Ft Worth STVA
-epgshare2	The.Hope.Channel.us2	The Hope Channel
-epgshare2	USA.Network.HD.us2	USA Network HD
-epgshare2	Tastemade.Travel.us2	Tastemade Travel
-epgshare2	i24.News.English.us2	i24 News English
-epgshare2	Cinemax.Spanish.HD.us2	Cinemax Spanish HD
-epgshare2	Spectrum.News.1.-.Green.Bay/Appleton.-.STVA.us2	Spectrum News 1 - Green Bay/Appleton - STVA
-epgshare2	Investigation.Discovery.HD.(Pacific).us2	Investigation Discovery HD (Pacific)
-epgshare2	ScreenPix.Westerns.us2	ScreenPix Westerns
-epgshare2	Story.us2	Story
-epgshare2	Showtime.2.HD.us2	Showtime 2 HD
-epgshare2	3ABN.Radio.Network.us2	3ABN Radio Network
-epgshare2	Prime.Movies.us2	Prime Movies
-epgshare2	MSNBC.HD.us2	MSNBC HD
-epgshare2	AMC+.us2	AMC+
-epgshare2	HSN.Home.Shopping.Network.HD.us2	HSN Home Shopping Network HD
-epgshare2	MoviePlex.HD.us2	MoviePlex HD
-epgshare2	Justice.Central.HD.us2	Justice Central HD
-epgshare2	Mediaset.Italia.us2	Mediaset Italia
-epgshare2	Spectrum.News.1.(Carolinas).-.Charlotte.STVA.us2	Spectrum News 1 (Carolinas) - Charlotte STVA
-epgshare2	Honvietv.us2	Honvietv
-epgshare2	TC.Internacional.us2	TC Internacional
-epgshare2	OPM.TV.us2	OPM TV
-epgshare2	BET.HD.(Pacific).us2	BET HD (Pacific)
-epgshare2	MSG.Sportsnet.Zone.3.(MSG.WNY).us2	MSG Sportsnet Zone 3 (MSG WNY)
-epgshare2	TCT.us2	TCT
-epgshare2	El.Sembrador.us2	El Sembrador
-epgshare2	AFN.family/AFN.pulse.us2	AFN family/AFN pulse
-epgshare2	CBS.Sports.Network.HD.us2	CBS Sports Network HD
-epgshare2	Dabl.Network.LLC.Pacific.us2	Dabl Network LLC Pacific
-epgshare2	BabyFirst.TV.us2	BabyFirst TV
-epgshare2	Spectrum.News.1.-.Dayton.-.STVA.us2	Spectrum News 1 - Dayton - STVA
-epgshare2	NBC.Sports.California.Outer.Market.us2	NBC Sports California Outer Market
-epgshare2	Cars.TV.HD.us2	Cars TV HD
-epgshare2	Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2	Spectrum News 1 (Carolinas) - Greensboro STVA
-epgshare2	Destination.America.HD.us2	Destination America HD
-epgshare2	Bravo.(Pacific).us2	Bravo (Pacific)
-epgshare2	MLB.Network.HD.Alternate.us2	MLB Network HD Alternate
-epgshare2	Outdoor.Channel.HD.us2	Outdoor Channel HD
-epgshare2	Ecuavisa.International.us2	Ecuavisa International
-epgshare2	NBC.Sports.HD.3.us2	NBC Sports HD 3
-epgshare2	CHSN.Plus.us2	CHSN Plus
-epgshare2	History.Channel.En.Español.us2	History Channel En Español
-epgshare2	3ABN.International.Network.us2	3ABN International Network
-epgshare2	ROOT.Sports.Northwest.HD.us2	ROOT Sports Northwest HD
-epgshare2	Tastemade.en.Español.us2	Tastemade en Español
-epgshare2	Little.Saigon.Radio.Channel.us2	Little Saigon Radio Channel
-epgshare2	Nick.Jr.HD.us2	Nick Jr HD
-epgshare2	MBN.Plus.us2	MBN Plus
-epgshare2	MGM+.HD.us2	MGM+ HD
-epgshare2	TBS.HD.(Pacific).us2	TBS HD (Pacific)
-epgshare2	News.12.Westchester.us2	News 12 Westchester
-epgshare2	Science.Channel.HD.us2	Science Channel HD
-epgshare2	Spectrum.News.1.-.Austin.us2	Spectrum News 1 - Austin
-epgshare2	POP.HD.us2	POP HD
-epgshare2	Tastemade.Home.us2	Tastemade Home
-epgshare2	NESN+.New.England.Sports.Network.Plus.us2	NESN+ New England Sports Network Plus
-epgshare2	ETBN.Enlace.USA.us2	ETBN Enlace USA
-epgshare2	DirecTV.Sports.Mix.us2	DirecTV Sports Mix
-epgshare2	Home.and.Garden.Television.HD.(Pacific).us2	Home and Garden Television HD (Pacific)
-epgshare2	Starz.Encore.(Pacific).us2	Starz Encore (Pacific)
-epgshare2	Spectrum.News.1.(Carolinas).-.Mountain.STVA.us2	Spectrum News 1 (Carolinas) - Mountain STVA
-epgshare2	Starz.Encore.Westerns.(Pacific).us2	Starz Encore Westerns (Pacific)
-epgshare2	Spectrum.News.1.-.(MA).Springfield.-.STVA.us2	Spectrum News 1 - (MA) Springfield - STVA
-epgshare2	EWTN.Español.us2	EWTN Español
-epgshare2	VSIN.Vegas.Sports.and.Information.Network.us2	VSIN Vegas Sports and Information Network
-epgshare2	NFL.Network.HD.us2	NFL Network HD
-epgshare2	MSG.Plus.-.Syracuse.us2	MSG Plus - Syracuse
-epgshare2	Universal.Movies.us2	Universal Movies
-epgshare2	Pets.TV.HD.us2	Pets TV HD
-epgshare2	Big.Ten.Network.HD.us2	Big Ten Network HD
-epgshare2	FXX.HD.us2	FXX HD
-epgshare2	TV.ONE.HD.us2	TV ONE HD
-epgshare2	Nosey.us2	Nosey
-epgshare2	NBC.Sports.HD.1.us2	NBC Sports HD 1
-epgshare2	NBC.Sports.HD.2.us2	NBC Sports HD 2
-epgshare2	Vevo.80s.us2	Vevo 80s
-epgshare2	RACER.Network.HD.us2	RACER Network HD
-epgshare2	Busted.TV.us2	Busted TV
-epgshare2	Free.Movies.Plus.us2	Free Movies Plus
-epgshare2	NBC.True.CRMZ.us2	NBC True CRMZ
-epgshare2	AAPKA.Colors.US.us2	AAPKA Colors US
-epgshare2	MTV2:.Music.Television.HD.us2	MTV2: Music Television HD
-epgshare2	Vietface.TV.us2	Vietface TV
-epgshare2	NBC.Sports.Northwest.Streaming.us2	NBC Sports Northwest Streaming
-epgshare2	MLS.Direct.Kick.-.Direct.TV.-.MLSSO.us2	MLS Direct Kick - Direct TV - MLSSO
-epgshare2	Cine.Estelar.us2	Cine Estelar
-epgshare2	A.and.E.HD.East.us2	A and E HD East
-epgshare2	Food.Network.HD.us2	Food Network HD
-epgshare2	Quest.us2	Quest
-epgshare2	ATN.Movies.us2	ATN Movies
-epgshare2	UniMas.HD.(Pacific).us2	UniMas HD (Pacific)
-epgshare2	MagellanTV.Now.us2	MagellanTV Now
-epgshare2	E!.Entertainment.Television.HD.us2	E! Entertainment Television HD
-epgshare2	Rai.News.24.us2	Rai News 24
-epgshare2	Create.us2	Create
-epgshare2	Telefe.Internacional.us2	Telefe Internacional
-epgshare2	Yes.Network.Overflow.us2	Yes Network Overflow
-epgshare2	Comedy.TV.HD.us2	Comedy.TV HD
-epgshare2	Tennis.Channel.HD.us2	Tennis Channel HD
-epgshare2	Monumental.Sports.Network.2.HD.us2	Monumental Sports Network 2 HD
-epgshare2	Nick.Music.us2	Nick Music
-epgshare2	Spectrum.News.1.-.San.Antonio.us2	Spectrum News 1 - San Antonio
-epgshare2	UNIVERSO.HD.us2	UNIVERSO HD
-epgshare2	Action.Plus.us2	Action Plus
-epgshare2	Hallmark.Family.us2	Hallmark Family
-epgshare2	TVE.us2	TVE
-epgshare2	Rai.Italia.us2	Rai Italia
-epgshare2	News.12.Bronx.us2	News 12 Bronx
-epgshare2	The.Africa.Channel.us2	The Africa Channel
-epgshare2	ION.Television.HD.us2	ION Television HD
-epgshare2	Lifetime.Real.Women.us2	Lifetime Real Women
-epgshare2	IndiePlex.HD.us2	IndiePlex HD
-epgshare2	Universal.Action.us2	Universal Action
-epgshare2	ABS-CBN.News.Channel.us2	ABS-CBN News Channel
-epgshare2	Playboy.En.Español.us2	Playboy En Español
-epgshare2	BUZZR.Stream.us2	BUZZR Stream
-epgshare2	DirecTV.Celebrity.Shopping.Network.us2	DirecTV Celebrity Shopping Network
-epgshare2	Total.Crime.us2	Total Crime
-epgshare2	PBS.KIDS.HD.us2	PBS KIDS HD
-epgshare2	Weather.Nation.TV.HD.us2	Weather Nation TV HD
-epgshare2	China.Global.Television.Network.us2	China Global Television Network
-epgshare2	Telefe.international.us2	Telefe international
-epgshare2	GMA.Pinoy.TV.us2	GMA Pinoy TV
-epgshare2	Cine.Latino.US.us2	Cine Latino US
-epgshare2	Telemundo.Satellite.Feed.us2	Telemundo Satellite Feed
-epgshare2	MTVLIVE.us2	MTVLIVE
-epgshare2	Xplore.us2	Xplore
-epgshare2	Vevo.Rock.us2	Vevo Rock
-epgshare2	Antenna.TV.us2	Antenna TV
-epgshare2	CSPAN.us2	CSPAN
-epgshare2	HBO2.HD.(Pacific).us2	HBO2 HD (Pacific)
-epgshare2	World.Fishing.Network.HD.(US).us2	World Fishing Network HD (US)
-epgshare2	Nickelodeon.(Pacific).us2	Nickelodeon (Pacific)
-epgshare2	Me.TV.Network.us2	Me TV Network
-epgshare2	beIN.Sports.USA.HD.us2	beIN Sports USA HD
-epgshare2	HBO.Zone.HD.us2	HBO Zone HD
-epgshare2	Starz.Encore.Español.SD.us2	Starz Encore Español SD
-epgshare2	NHL.Network.HD.us2	NHL Network HD
-epgshare2	Root.Sports.Northwest.Plus.us2	Root Sports Northwest Plus
-epgshare2	Trinity.Broadcasting.Network.HD.us2	Trinity Broadcasting Network HD
-epgshare2	So.Yummy.us2	So Yummy
-epgshare2	Vevo.True.School.Hip-Hop.us2	Vevo True School Hip-Hop
-epgshare2	The.Cowboy.Channel.us2	The Cowboy Channel
-epgshare2	JBS.us2	JBS
-epgshare2	Vevo.70s.us2	Vevo 70s
-epgshare2	Anheuser.Busch.Private.Network.us2	Anheuser Busch Private Network
-epgshare2	Scripps.News.us2	Scripps News
-epgshare2	TLC.HD.(US).us2	TLC HD (US)
-epgshare2	News.12.Connecticut.us2	News 12 Connecticut
-epgshare2	NBC.Sports.4K.us2	NBC Sports 4K
-epgshare2	Nuestra.Tele.Internacional.us2	Nuestra Tele Internacional
-epgshare2	Fox.Sports.4K.us2	Fox Sports 4K
-epgshare2	Spectrum.News.1.(Carolinas).-.Coastal.STVA.us2	Spectrum News 1 (Carolinas) - Coastal STVA
-epgshare2	DZMM.Radyo.Patrol.us2	DZMM Radyo Patrol
-epgshare2	MTV.Classic.us2	MTV Classic
-epgshare2	Vevo.R.andB.us2	Vevo R and B
-epgshare2	¡HOLA!.TV.us2	¡HOLA! TV
-epgshare2	Hogar.HD.us2	Hogar HD
-epgshare2	Vice.HD.us2	Vice HD
-epgshare2	Showtime.Extreme.HD.us2	Showtime Extreme HD
-epgshare2	AFN.movie.us2	AFN movie
-epgshare2	CNN.En.Español.us2	CNN En Español
-epgshare2	FX.HD.(Pacific).us2	FX HD (Pacific)
-epgshare2	The.Travel.Channel.HD.us2	The Travel Channel HD
-epgshare2	Spectrum.News.-.Buffalo.-.STVA.us2	Spectrum News - Buffalo - STVA
-epgshare2	3ABN.us2	3ABN
-epgshare2	Lifetime.HD.us2	Lifetime HD
-epgshare2	Great.American.Family.HD.us2	Great American Family HD
-epgshare2	Cleo.TV.HD.us2	Cleo TV HD
-epgshare2	BET.Soul.us2	BET Soul
-epgshare2	CTI.Zhong.Tian.Channel.us2	CTI Zhong Tian Channel
-epgshare2	Universal.Monsters.us2	Universal Monsters
-epgshare2	Biz.TV.us2	Biz TV
-epgshare2	Love.Kills.us2	Love Kills
-epgshare2	MSG.Zone.1.us2	MSG Zone 1
-epgshare2	Atrescine.us2	Atrescine
-epgshare2	ScreenPix.us2	ScreenPix
-epgshare2	Great.Entertainment.Television.us2	Great Entertainment Television
-epgshare2	Barvanna.Network.us2	Barvanna Network
-epgshare2	INSP.HD.us2	INSP HD
-epgshare2	Bloomberg.HD.us2	Bloomberg HD
-epgshare2	NHK.World.TV.us2	NHK World TV
-epgshare2	NHK.1.HD.us2	NHK 1 HD
-epgshare2	88.TV.us2	88 TV
-epgshare2	The.Discovery.Channel.HD.(Pacific).us2	The Discovery Channel HD (Pacific)
-epgshare2	Hogar.TV.us2	Hogar TV
-epgshare2	AFN.Satellite.us2	AFN Satellite
-epgshare2	VGN.TV.us2	VGN TV
-epgshare2	MSG.Plus.(Zone.2).us2	MSG Plus (Zone 2)
-epgshare2	Starz.Comedy.HD.us2	Starz Comedy HD
-epgshare2	Disney.Channel.HD.us2	Disney Channel HD
-epgshare2	NBC.Sports.Boston.Outer.Market.us2	NBC Sports Boston Outer Market
-epgshare2	Black.Voices.us2	Black Voices
-epgshare2	Vevo.Country.us2	Vevo Country
-epgshare2	Discovery.Family.Channel.HD.us2	Discovery Family Channel HD
-epgshare2	Starz.Encore.Classic.us2	Starz Encore Classic
-epgshare2	Galavision.Cable.Network.HD.(Pacific).us2	Galavision Cable Network HD (Pacific)
-epgshare2	Tastemade.us2	Tastemade
-epgshare2	NBA.League.Pass.3.HD.us2	NBA League Pass 3 HD
-epgshare2	MS.NOW.HD.us2	MS NOW HD
-epgshare2	ESPNEWS.HD.us2	ESPNEWS HD
-epgshare2	PBS.Kids.Stream.us2	PBS Kids Stream
-epgshare2	Nippon.TV.Channel.us2	Nippon TV Channel
-epgshare2	My.Network.us2	My Network
-epgshare2	Cinema.Dinamita.us2	Cinema Dinamita
-epgshare2	Playboy.Premium.HD.us2	Playboy Premium HD
-epgshare2	Game+.Game.Plus.HD.us2	Game+ Game Plus HD
-epgshare2	FNX.First.Nations.Experience.us2	FNX First Nations Experience
-epgshare2	NBC.Sports.California.Plus.3.us2	NBC Sports California Plus 3
-epgshare2	CBO.us2	CBO
-epgshare2	LifeS.us2	LifeS
-epgshare2	NECN.New.England.Cable.News.us2	NECN New England Cable News
-epgshare2	COZI.TV.us2	COZI TV
-epgshare2	Danbi.Christian.TV.us2	Danbi Christian TV
-epgshare2	Comedy.Central.HD.us2	Comedy Central HD
-epgshare2	MLB.Network.Strike.Zone.HD.us2	MLB Network Strike Zone HD
-epgshare2	SHOPnow.us2	SHOPnow
-epgshare2	In.The.Garage.us2	In The Garage
-epgshare2	Comet.us2	Comet
-epgshare2	MGM.Presents:.Horror.us2	MGM Presents: Horror
-epgshare2	ROAR.TV.us2	ROAR TV
-epgshare2	CINEVAULT.us2	CINEVAULT
-epgshare2	Paramount+.with.Showtime.HD.us2	Paramount+ with Showtime HD
-epgshare2	Bravo.HD.us2	Bravo HD
-epgshare2	ScreenPix.Voices.us2	ScreenPix Voices
-epgshare2	SNY.SportsNet.New.York.HD.us2	SNY SportsNet New York HD
-epgshare2	Telecentro.TV.us2	Telecentro TV
-epgshare2	News.12.Hudson.Valley.us2	News 12 Hudson Valley
-epgshare2	Telemundo.Satellite.Feed.Pacific.us2	Telemundo Satellite Feed Pacific
-epgshare2	HBO.Signature.HD.us2	HBO Signature HD
-epgshare2	NBA.League.Pass.2.us2	NBA League Pass 2
-epgshare2	Spectrum.News.1.-.(MA).Worcester.-.STVA.us2	Spectrum News 1 - (MA) Worcester - STVA
-epgshare2	Cinemax.Classics.us2	Cinemax Classics
-epgshare2	Tribeca.Festival.+.us2	Tribeca Festival +
-epgshare2	Rai.Premium.us2	Rai Premium
-epgshare2	Cartoon.Network.HD.us2	Cartoon Network HD
-epgshare2	TV.Land.HD.us2	TV Land HD
-epgshare2	Space.City.Home.Network.HD.us2	Space City Home Network HD
-epgshare2	The.Weather.Channel.HD.us2	The Weather Channel HD
-epgshare2	Rede.Globo.TV.Internacional.us2	Rede Globo TV Internacional
-epgshare2	IFC.HD.us2	IFC HD
-epgshare2	Cooking.Channel.HD.us2	Cooking Channel HD
-epgshare2	Big.Ten.Network.Overflow.us2	Big Ten Network Overflow
-epgshare2	DIRECTV.Lifetime.us2	DIRECTV Lifetime
-epgshare2	3ABN.Praise.Him.Music.us2	3ABN Praise Him Music
-epgshare2	Golden.Eagle.Broadcasting.us2	Golden Eagle Broadcasting
-epgshare2	DirecTV.GO4IT.us2	DirecTV GO4IT
-epgshare2	BET.HD.us2	BET HD
-epgshare2	HBO.(Pacific).us2	HBO (Pacific)
-epgshare2	Fear.Zone.us2	Fear Zone
-epgshare2	Spectrum.News.1.-.Madison.-.STVA.us2	Spectrum News 1 - Madison - STVA
-epgshare2	MSG2.HD.us2	MSG2 HD
-epgshare2	ASPiRE.HD.us2	ASPiRE HD
-epgshare2	Cinemax.HD.(Pacific).us2	Cinemax HD (Pacific)
-epgshare2	Cinema.One.us2	Cinema One
-epgshare2	MSG.Plus.us2	MSG Plus
-epgshare2	TViet.Network.us2	TViet Network
-epgshare2	[TFC].The.Filipino.Channel.HD.us2	[TFC] The Filipino Channel HD
-epgshare2	Big.Ten.Network.Overflow.HD.us2	Big Ten Network Overflow HD
-epgshare2	Fuse.HD.us2	Fuse HD
-epgshare2	CMT.HD.us2	CMT HD
-epgshare2	Charming.China.us2	Charming China
-epgshare2	NTN24.us2	NTN24
-epgshare2	Altitude.Sports.2.HD.us2	Altitude Sports 2 HD
-epgshare2	Logo.us2	Logo
-epgshare2	Jewelry.Television.us2	Jewelry Television
-epgshare2	Outdoor.America.Field.and.Stream.us2	Outdoor America Field and Stream
-epgshare2	ShopHQ.HD.us2	ShopHQ HD
-epgshare2	DraftKings.Network.us2	DraftKings Network
-epgshare2	The.Repair.Shop.us2	The Repair Shop
-epgshare2	Grit.us2	Grit
-epgshare2	Oprah.Winfrey.Network.(Pacific.A.Feed).us2	Oprah Winfrey Network (Pacific A Feed)
-epgshare2	Westerns.Plus.us2	Westerns Plus
-epgshare2	Cinema.Dinamita.(HD.Feed).us2	Cinema Dinamita (HD Feed)
-epgshare2	Nicktoons.us2	Nicktoons
-epgshare2	MLB.Network.HD.us2	MLB Network HD
-epgshare2	The.Archive.us2	The Archive
-epgshare2	National.Geographic.Wild.HD.us2	National Geographic Wild HD
-epgshare2	CSPAN3.us2	CSPAN3
-epgshare2	Nat.Geo.Mundo.us2	Nat Geo Mundo
-epgshare2	RevN.us2	RevN
-epgshare2	El.Rey.Network.us2	El Rey Network
-epgshare2	3ABN.Latino.Network.us2	3ABN Latino Network
-epgshare2	Univision.Network.HD.us2	Univision Network HD
-epgshare2	Local.Now.us2	Local Now
-epgshare2	AFN.prime.Pacific.us2	AFN prime Pacific
-epgshare2	News.12.New.Jersey.us2	News 12 New Jersey
-epgshare2	Marquee.Sports.Network.Overflow.us2	Marquee Sports Network Overflow
-epgshare2	Paramount+.with.Showtime.HD.(Pacific).us2	Paramount+ with Showtime HD (Pacific)
-epgshare2	RETRO.us2	RETRO
-epgshare2	MGM+.Marquee.HD.us2	MGM+ Marquee HD
-epgshare2	NASA.Plus.us2	NASA Plus
-epgshare2	NBC.Sports.Philadelphia.HD.us2	NBC Sports Philadelphia HD
-epgshare2	Phoenix.Satellite.TV.us2	Phoenix Satellite TV
-epgshare2	YTA.Youtoo.America.us2	YTA Youtoo America
-epgshare2	HBCUGO.SPORTS.us2	HBCUGO SPORTS
-epgshare2	YTN.Radio.Korea.us2	YTN Radio Korea
-epgshare2	QVC3.us2	QVC3
-epgshare2	HDNet.Movies.us2	HDNet Movies
-epgshare2	Stories.by.AMC.us2	Stories by AMC
-epgshare2	Great.American.Faith.and.Living.us2	Great American Faith and Living
-epgshare2	Marquee.Sports.Network.HD.us2	Marquee Sports Network HD
-epgshare2	DangerTV.us2	DangerTV
-epgshare2	MTV.-.Music.Television.HD.us2	MTV - Music Television HD
-epgshare2	Nuestra.Visión.us2	Nuestra Visión
-epgshare2	Syfy.HD.(Pacific).us2	Syfy HD (Pacific)
-epgshare2	CSPAN2.us2	CSPAN2
-epgshare2	Discovery.Turbo.TV.us2	Discovery Turbo TV
-epgshare2	Kapatid.us2	Kapatid
-epgshare2	WE.tv.HD.us2	WE tv HD
-epgshare2	Mexicanal.us2	Mexicanal
-epgshare2	News.12.Brooklyn.us2	News 12 Brooklyn
-epgshare2	NASCAR.Channel.us2	NASCAR Channel
-epgshare2	mtv-U.us2	mtv-U
-epgshare2	Magnolia.Network.HD.us2	Magnolia Network HD
-epgshare2	Fun.Roads.us2	Fun Roads
-epgshare2	CBS.West.us2	CBS West
-epgshare2	EWTN.-.Eternal.Word.Television.Network.HD.us2	EWTN - Eternal Word Television Network HD
-epgshare2	NBC.East.Stream.us2	NBC East Stream
-epgshare2	Disney.Junior.HD.(Pacific).us2	Disney Junior HD (Pacific)
-epgshare2	The.Jack.Hanna.Channel.us2	The Jack Hanna Channel
-epgshare2	ESPN.Deportes.HD.us2	ESPN Deportes HD
-epgshare2	WRR.101.9.us2	WRR 101.9
-epgshare2	NBC.Sports.California.Plus.us2	NBC Sports California Plus
-epgshare2	PI.KBS.World.us2	PI KBS World
-epgshare2	Salem.News.Channel.us2	Salem News Channel
-epgshare2	Antena.3.Internacional.us2	Antena 3 Internacional
-epgshare2	NBA.League.Pass.5.us2	NBA League Pass 5
-epgshare2	NBC.West.Stream.us2	NBC West Stream
-epgshare2	Billiard.TV.us2	Billiard TV
-epgshare2	Starz.HD.us2	Starz HD
-epgshare2	MSG.SportsZone.us2	MSG SportsZone
-epgshare2	Vevo.Hip-Hop.us2	Vevo Hip-Hop
-epgshare2	Disney.Channel.(Pacific).us2	Disney Channel (Pacific)
-epgshare2	AMG.TV.us2	AMG TV
-epgshare2	Vevo.Reggaeton.and.Trap.us2	Vevo Reggaeton and Trap
-epgshare2	Right.Now.TV.us2	Right Now TV
-epgshare2	Golf.Channel.HD.us2	Golf Channel HD
-epgshare2	ScreenPix.Action.us2	ScreenPix Action
-epgshare2	SundanceTV.HD.us2	SundanceTV HD
-epgshare2	CCTV4-China.Central.TV.us2	CCTV4-China Central TV
-epgshare2	Fox.Soccer.Plus.HD.us2	Fox Soccer Plus HD
-epgshare2	ION.Mystery.us2	ION Mystery
-epgshare2	Recipe.TV.HD.us2	Recipe TV HD
-epgshare2	Cartoon.Network.(Pacific).us2	Cartoon Network (Pacific)
-epgshare2	Oprah.Winfrey.Network.HD.us2	Oprah Winfrey Network HD
-epgshare2	Spectrum.News.1.-.Milwaukee.-.STVA.us2	Spectrum News 1 - Milwaukee - STVA
-epgshare2	Discovery.en.Español.us2	Discovery en Español
-epgshare2	CHSN.Chicago.Sports.Network.us2	CHSN Chicago Sports Network
-epgshare2	Pasiones.TV.US.us2	Pasiones TV US
-epgshare2	MSG.(Alt..feed).-.MSG2.OVERFLOW.us2	MSG (Alt. feed) - MSG2 OVERFLOW
-epgshare2	Sony.MIX.us2	Sony MIX
-epgshare2	Spectrum.News.-.NY1.-.STVA.us2	Spectrum News - NY1 - STVA
-epgshare2	Starz.Encore.Action.HD.us2	Starz Encore Action HD
-epgshare2	PBS.Stream.us2	PBS Stream
-epgshare2	HBO.Drama.us2	HBO Drama
-epgshare2	Starz.Encore.Suspense.us2	Starz Encore Suspense
-epgshare2	Discovery.Life.Channel.us2	Discovery Life Channel
-epgshare2	Movie.Hub.West.us2	Movie Hub West
-epgshare2	AWE.Plus.us2	AWE Plus
-epgshare2	3ABN.Dare.to.Dream.Network.us2	3ABN Dare to Dream Network
-epgshare2	AFN.prime.Atlantic.us2	AFN prime Atlantic
-epgshare2	Sari.Sari.Channel.us2	Sari Sari Channel
-epgshare2	Peru.Magico.us2	Peru Magico
-epgshare2	Dabl.Network.LLC.us2	Dabl Network LLC
-epgshare2	LMN.HD.us2	LMN HD
-epgshare2	NBA.League.Pass.9.us2	NBA League Pass 9
-epgshare2	S-channel.us2	S-channel
-epgshare2	National.Geographic.HD.(Pacific).us2	National Geographic HD (Pacific)
-epgshare2	DOG.TV.us2	DOG TV
-epgshare2	TYT.The.Young.Turks.us2	TYT The Young Turks
-epgshare2	Starz.HD.(Pacific).us2	Starz HD (Pacific)
-epgshare2	CNBC.World.us2	CNBC World
-epgshare2	GMA.Life.TV.us2	GMA Life TV
-epgshare2	Scares.by.Shudder.us2	Scares by Shudder
-epgshare2	NBA.League.Pass.6.us2	NBA League Pass 6
-epgshare2	Newsmax.TV.HD.us2	Newsmax TV HD
-epgshare2	Laff.us2	Laff
-epgshare2	WWE.Network.us2	WWE Network
-epgshare2	Kartoon.Channel.us2	Kartoon Channel
-epgshare2	EBS.America.us2	EBS America
-epgshare2	Fight.Network.us2	Fight Network
-epgshare2	TUDN.us2	TUDN
-epgshare2	Circle.Country.us2	Circle Country
-epgshare2	SBS.HD.us2	SBS HD
-epgshare2	ESPN2.(Alternate).us2	ESPN2 (Alternate)
-epgshare2	NBA.League.Pass.4.us2	NBA League Pass 4
-epgshare2	MSG.National.us2	MSG National
-epgshare2	88.Films.us2	88 Films
-epgshare2	ABC.National.Feed.us2	ABC National Feed
-epgshare2	Real.Americas.Voice.us2	Real Americas Voice
-epgshare2	ESPN.HD.us2	ESPN HD
-epgshare2	HITN.us2	HITN
-epgshare2	Spectrum.News.-.Michigan.STVA.us2	Spectrum News - Michigan STVA
-epgshare2	Starz.in.Black.HD.us2	Starz in Black HD
-epgshare2	FloRacing.24/7.us2	FloRacing 24/7
-epgshare2	Spectrum.News.1.-.(MA).Pittsfield.-.STVA.us2	Spectrum News 1 - (MA) Pittsfield - STVA
-epgshare2	Blaze.TV.us2	Blaze TV
-epgshare2	Haunt.TV.us2	Haunt TV
-epgshare2	TNT.HD.(Pacific).us2	TNT HD (Pacific)
-epgshare2	365BLK.us2	365BLK
-epgshare2	NBA.League.Pass.7.HD.us2	NBA League Pass 7 HD
-epgshare2	LOCALISH.EASTERN.us2	LOCALISH EASTERN
-epgshare2	FS1.Fox.Sports.1.HD.us2	FS1 Fox Sports 1 HD
-epgshare2	Showtime.Showcase.HD.us2	Showtime Showcase HD
-epgshare2	HBO.Latino.HD.us2	HBO Latino HD
-epgshare2	Home.and.Garden.Television.HD.us2	Home and Garden Television HD
-epgshare2	Merit.TV.us2	Merit TV
-epgshare2	NFL.SUNDAY.TICKET.RED.ZONE.us2	NFL SUNDAY TICKET RED ZONE
-epgshare2	Rewind.TV.us2	Rewind TV
-epgshare2	Bandamax.us2	Bandamax
-epgshare2	Disney.Junior.HD.us2	Disney Junior HD
-epgshare2	American.Crimes.us2	American Crimes
-epgshare2	Boomerang.us2	Boomerang
-epgshare2	TBN.Inspire.us2	TBN Inspire
-epgshare2	Big.12.Studios.us2	Big 12 Studios
-epgshare2	Spectrum.News+.us2	Spectrum News+
-epgshare2	MSG.Sportsnet.2.Zone.1.us2	MSG Sportsnet 2 Zone 1
-epgshare2	ATN.Cricket.Plus.us2	ATN Cricket Plus
-epgshare2	SportsNet.Pittsburgh.HD.us2	SportsNet Pittsburgh HD
-epgshare2	Real.Madrid.us2	Real Madrid
-epgshare2	NBC.Sports.Now.us2	NBC Sports Now
-epgshare2	Starz.Cinema.HD.us2	Starz Cinema HD
-epgshare2	NBA.League.Pass.8.HD.us2	NBA League Pass 8 HD
-epgshare2	MeTV.Plus.us2	MeTV Plus
-epgshare2	Spectrum.News.1.-.Cleveland/Akron.-.STVA.us2	Spectrum News 1 - Cleveland/Akron - STVA
-epgshare2	Spectrum.News.1.(Kentucky).Covington.us2	Spectrum News 1 (Kentucky) Covington
-epgshare2	Next.Level.Sports.HD.us2	Next Level Sports HD
-epgshare2	SHO.x.BET.HD.us2	SHO x BET HD
-epgshare2	Sportsman.Channel.us2	Sportsman Channel
-epgshare2	Amazon.Movies.us2	Amazon Movies
-epgshare2	Bounce.TV.us2	Bounce TV
-epgshare2	VividTV.us2	VividTV
-epgshare2	Willow.Cricket.HD.us2	Willow Cricket HD
-epgshare2	MovieSphere.Gold.us2	MovieSphere Gold
-epgshare2	The.Word.Network.us2	The Word Network
-epgshare2	The.Movie.Channel.Extra.HD.us2	The Movie Channel Extra HD
-epgshare2	MeTV.Toons.us2	MeTV Toons
-epgshare2	Syfy.HD.us2	Syfy HD
-epgshare2	SUMtv.us2	SUMtv
-epgshare2	Starz.Encore.Family.SD.us2	Starz Encore Family SD
-epgshare2	The.Film.Detective.us2	The Film Detective
-epgshare2	ACC.Digital.Network.us2	ACC Digital Network
-epgshare2	DTV.ARANG.us2	DTV ARANG
-epgshare2	GOL.TV.us2	GOL TV
-epgshare2	Univision.Network.(Pacific).us2	Univision Network (Pacific)
-epgshare2	LooLoo.Kids.TV.us2	LooLoo Kids TV
-epgshare2	Rewind.HD.us2	Rewind HD
-epgshare2	truTV.HD.(Pacific).us2	truTV HD (Pacific)
-epgshare2	CBS.News.National.Stream.us2	CBS News National Stream
-epgshare2	beIN.Sports.En.Español.HD.us2	beIN Sports En Español HD
-epgshare2	Comet.(Pacific).us2	Comet (Pacific)
-epgshare2	Grjngo.-.Western.Movies.us2	Grjngo - Western Movies
-epgshare2	N+.Foro.us2	N+ Foro
-epgshare2	Starz.Encore.Black.us2	Starz Encore Black
-epgshare2	Universal.Westerns.us2	Universal Westerns
-epgshare2	Vevo.Latino.us2	Vevo Latino
-epgshare2	Nickelodeon.HD.us2	Nickelodeon HD
-epgshare2	Outside.Television.HD.us2	Outside Television HD
-epgshare2	SUMtv.Latino.us2	SUMtv Latino
-epgshare2	Action.Channel.us2	Action Channel
-epgshare2	BBC.America.HD.us2	BBC America HD
-epgshare2	GOD.TV.us2	GOD TV
-epgshare2	One.America.News.Network.HD.us2	One America News Network HD
-epgshare2	Movie.Hub.Action.West.us2	Movie Hub Action West
-epgshare2	Curiosity.Channel.HD.us2	Curiosity Channel HD
-epgshare2	DIRECTV.Sports.MixHD.us2	DIRECTV Sports MixHD
-epgshare2	Hallmark.Mystery.HD.us2	Hallmark Mystery HD
-epgshare2	FM.HD.us2	FM HD
-epgshare2	Movie.Hub.us2	Movie Hub
-epgshare2	QVC.HD.us2	QVC HD
-epgshare2	American.Heroes.Channel.HD.us2	American Heroes Channel HD
-epgshare2	FS2.Fox.Sports.2.HD.us2	FS2 Fox Sports 2 HD
-epgshare2	truTV.HD.us2	truTV HD
-epgshare2	Vevo.90s.us2	Vevo 90s
-epgshare2	BBC.News.(North.America).HD.us2	BBC News (North America) HD
-epgshare2	History.HD.us2	History HD
-epgshare2	NBA.League.Pass/MLS.Direct.Kick.HDTV.us2	NBA League Pass/MLS Direct Kick HDTV
-epgshare2	HSN2.us2	HSN2
-epgshare2	Film.24h.us2	Film 24h
-epgshare2	Vevo.Íconos.Latinos.us2	Vevo Íconos Latinos
-epgshare2	Univision.TL.Novelas.us2	Univision TL Novelas
-epgshare2	Starz.Edge.HD.us2	Starz Edge HD
-epgshare2	NBC.Sports.Philadelphia.Plus.us2	NBC Sports Philadelphia Plus
-epgshare2	New.England.Sports.Network.HD.us2	New England Sports Network HD
-epgshare2	Pursuit.Channel.us2	Pursuit Channel
-epgshare2	Shop.LC.us2	Shop LC
-epgshare2	FYI.Channel.HD.us2	FYI Channel HD
-epgshare2	TyC.Sports.Internacional.USA.us2	TyC Sports Internacional USA
-epgshare2	Newsy.us2	Newsy
-epgshare2	Animal.Planet.HD.(Pacific).us2	Animal Planet HD (Pacific)
-epgshare2	Eternal.Word.Television.Network.us2	Eternal Word Television Network
-epgshare2	Phoenix.Info.News.us2	Phoenix Info News
-epgshare2	Spectrum.News.1.-.(Kentucky).-.Evansville.us2	Spectrum News 1 - (Kentucky) - Evansville
-epgshare2	Vevo.2K.us2	Vevo 2K
-epgshare2	MYX.Channel.us2	MYX Channel
-epgshare2	Filmrise.Mysteries.us2	Filmrise Mysteries
-epgshare2	ACC.Network.us2	ACC Network
-epgshare2	HBO.West.us2	HBO West
-epgshare2	Movies!.us2	Movies!
-epgshare2	CFN.CATHOLIC.FAITH.NETWORK.us2	CFN CATHOLIC FAITH NETWORK
-epgshare2	NBA.League.Pass.10.us2	NBA League Pass 10
-epgshare2	Monumental.Sports.Network.Outer.Market.us2	Monumental Sports Network Outer Market
-epgshare2	Arizona.Family.Sports.us2	Arizona Family Sports
-epgshare2	FX.HD.us2	FX HD
-epgshare2	ACE.TV.us2	ACE TV
-epgshare2	NBC.Sports.Boston.HD.us2	NBC Sports Boston HD
-epgshare2	Tr3s:.MTV,.Musica.y.Mas.us2	Tr3s: MTV, Musica y Mas
-epgshare2	Spectrum.News.1.-.El.Paso.Texas.STVA.us2	Spectrum News 1 - El Paso Texas STVA
-epgshare2	Willow.2.Xtra.us2	Willow 2 Xtra
-epgshare2	NBA.League.Pass.3.us2	NBA League Pass 3
-epgshare2	NewsNation.us2	NewsNation
-epgshare2	BBC.Dinos.24/7.us2	BBC Dinos 24/7
-epgshare2	Spectrum.News.1.-.Cincinnati.-.STVA.us2	Spectrum News 1 - Cincinnati - STVA
-epgshare2	Zee.TV.us2	Zee TV
-epgshare2	Living.Faith.Network.HD.us2	Living Faith Network HD
-epgshare2	Oferta.TV.us2	Oferta TV
-epgshare2	HBO.East.us2	HBO East
-epgshare2	News.12.Long.Island.us2	News 12 Long Island
-epgshare2	Turner.Classic.Movies.HD.us2	Turner Classic Movies HD
-epgshare2	Disney.XD.HD.(Pacific).us2	Disney XD HD (Pacific)
-epgshare2	Baby.TV.US.us2	Baby TV US
-epgshare2	The.Movie.Channel.HD.us2	The Movie Channel HD
-epgshare2	Yes.Network.us2	Yes Network
-epgshare2	NBA.TV.HD.us2	NBA TV HD
-epgshare2	Cinemax.Hits.us2	Cinemax Hits
-epgshare2	CNN.International.us2	CNN International
-epgshare2	Bang.U.us2	Bang U
-epgshare2	90s.Sitcoms.us2	90s Sitcoms
-epgshare2	Spectrum.Bay.News.9.Tampa.us2	Spectrum Bay News 9 Tampa
-epgshare2	DirecTV.-.MLB.Extra.Innings.-.MLBEI.us2	DirecTV - MLB Extra Innings - MLBEI
-epgshare2	Christian.Television.Network.us2	Christian Television Network
-epgshare2	Galavision.Cable.Network.HD.us2	Galavision Cable Network HD
-epgshare2	Showtime.Women.HD.us2	Showtime Women HD
-epgshare2	National.Geographic.HD.us2	National Geographic HD
-epgshare2	Hustler.Mature.us2	Hustler Mature
-epgshare2	Spectrum.News.1.-.Columbus.-.STVA.us2	Spectrum News 1 - Columbus - STVA
-epgshare2	SEC.Network.HD.us2	SEC Network HD
-epgshare2	Victory.Channel.us2	Victory Channel
-epgshare2	i-CABLE.News.us2	i-CABLE News
-epgshare2	Sony.Movie.Channel.HD.us2	Sony Movie Channel HD
-epgshare2	CBS.Sports.HQ.us2	CBS Sports HQ
-epgshare2	Prime.Revenue.Frontier.us2	Prime Revenue Frontier
-epgshare2	Sony.KAL.us2	Sony KAL
-epgshare2	Sony.Cine.us2	Sony Cine
-epgshare2	Curiosity.NOW.us2	Curiosity NOW
-epgshare2	Family.Movie.Classics.us2	Family Movie Classics
-epgshare2	BraZZers.TV.Plus.us2	BraZZers TV Plus
-epgshare2	Paramount.Network.HD.us2	Paramount Network HD
-epgshare2	HBO.Hits.us2	HBO Hits
-epgshare2	Playboy.HD.us2	Playboy HD
 epgshare2	RFD.TV.HD.us2	RFD TV HD
-epgshare2	CBS.Sports.Golazo.Network.us2	CBS Sports Golazo Network
-epgshare2	Cinemax.(Pacific).us2	Cinemax (Pacific)
-epgshare2	Estrella.TV.us2	Estrella TV
-epgshare2	Meganoticias.MX.us2	Meganoticias MX
-epgshare2	Discovery.Channel.HD.us2	Discovery Channel HD
-epgshare2	Horror.Machine.us2	Horror Machine
-epgshare2	CW.Plus.East.us2	CW Plus East
-epgshare2	Catchy.Comedy.us2	Catchy Comedy
-epgshare2	BET.Jams.us2	BET Jams
-epgshare2	CNBC.HD.us2	CNBC HD
-epgshare2	Bloomberg.Business.Television.us2	Bloomberg Business Television
-epgshare2	VH1.HD.us2	VH1 HD
-epgshare2	CARACOL.INTERNATIONAL.us2	CARACOL INTERNATIONAL
-epgshare2	Hustler.TV.us2	Hustler TV
-epgshare2	BINGE-TV.us2	BINGE-TV
-epgshare2	Vevo.Pop.us2	Vevo Pop
-epgshare2	World.Harvest.Television.us2	World Harvest Television
-epgshare2	AFN.sports2.us2	AFN sports2
-epgshare2	MSG.Zone.3.HD.us2	MSG Zone 3 HD
-epgshare2	Court.TV.us2	Court TV
-epgshare2	The.Travel.Channel.HD.(Pacific).us2	The Travel Channel HD (Pacific)
-epgshare2	and.TV.us2	and TV
-epgshare2	Showtime.Next.HD.us2	Showtime Next HD
-epgshare2	FX.Movie.Channel.HD.us2	FX Movie Channel HD
-epgshare2	Fox.Deportes.HD.us2	Fox Deportes HD
+epgshare2	Big.Ten.Network.Overflow.HD.us2	Big Ten Network Overflow HD
+epgshare2	In.The.Garage.us2	In The Garage
+epgshare2	Great.American.Romcoms.us2	Great American Romcoms
+epgshare2	Nuestra.Tele.Internacional.us2	Nuestra Tele Internacional
+epgshare2	OPM.TV.us2	OPM TV
+epgshare2	MSG2.HD.us2	MSG2 HD
+epgshare2	MS.NOW.HD.us2	MS NOW HD
 epgshare2	Air.and.Space.us2	Air and Space
-epgshare2	West.TV.us2	West TV
-epgshare2	Atreseries.us2	Atreseries
-epgshare2	MSG.Sportsnet.Zone.1.HD.us2	MSG Sportsnet Zone 1 HD
-epgshare2	Cinemax.HD.us2	Cinemax HD
-epgshare2	5.StarMAX.HD.East.us2	5 StarMAX HD East
-epgshare2	Ve.Plus.us2	Ve Plus
-epgshare2	FXX.HD.(Pacific).us2	FXX HD (Pacific)
-epgshare2	Shorts.TV.us2	Shorts TV
-epgshare2	Spectrum.SportsNet.Lakers.HD.us2	Spectrum SportsNet Lakers HD
-epgshare2	Peachtree.TV.us2	Peachtree TV
-epgshare2	Cinevault.Classics.us2	Cinevault Classics
-epgshare2	Zona.Futbol.us2	Zona Futbol
-epgshare2	FS2.HD.us2	FS2 HD
-epgshare2	FOX.SOUL.us2	FOX SOUL
-epgshare2	Daystar.Television.Network.HD.[CHARTER].us2	Daystar Television Network HD [CHARTER]
-epgshare2	ESTRELLA.NEWS.us2	ESTRELLA NEWS
-epgshare2	GEMS.us2	GEMS
-epgshare2	CASH.us2	CASH
-epgshare2	The.Grio.HD.us2	The Grio HD
-epgshare2	Video.Rola.us2	Video Rola
-epgshare2	TV.Land.HD.(Pacific).us2	TV Land HD (Pacific)
-epgshare2	STELLAR.TV.us2	STELLAR TV
+epgshare2	Animal.Planet.HD.(Pacific).us2	Animal Planet HD (Pacific)
+epgshare2	Create.us2	Create
+epgshare2	Spectrum.News.1.(Carolinas).-.Charlotte.STVA.us2	Spectrum News 1 (Carolinas) - Charlotte STVA
+epgshare2	Telemundo.Satellite.Feed.us2	Telemundo Satellite Feed
+epgshare2	TCT.us2	TCT
+epgshare2	CBS.West.us2	CBS West
+epgshare2	BET.Soul.us2	BET Soul
+epgshare2	Spectrum.News.1.-.(Kentucky).Lexington.us2	Spectrum News 1 - (Kentucky) Lexington
+epgshare2	NBA.League.Pass.7.us2	NBA League Pass 7
+epgshare2	Once.us2	Once
+epgshare2	MLB.Network.HD.us2	MLB Network HD
+epgshare2	Disney.Channel.HD.us2	Disney Channel HD
+epgshare2	MGM+.Hits.HD.us2	MGM+ Hits HD
+epgshare2	Baby.TV.US.us2	Baby TV US
+epgshare2	Pets.TV.HD.us2	Pets TV HD
+epgshare2	Black.Voices.us2	Black Voices
+epgshare2	HBO.Zone.HD.us2	HBO Zone HD
+epgshare2	NESN+.New.England.Sports.Network.Plus.us2	NESN+ New England Sports Network Plus
+epgshare2	Honvietv.us2	Honvietv
+epgshare2	TVE.us2	TVE
+epgshare2	Dabl.us2	Dabl
+epgshare2	National.Geographic.HD.(Pacific).us2	National Geographic HD (Pacific)
 epgshare2	Penthouse.TV.XX5.Premium.us2	Penthouse TV XX5 Premium
-epgshare2	SBS.TV.Korea.us2	SBS TV Korea
-epgshare2	Comedy.Central.HD.(Pacific).us2	Comedy Central HD (Pacific)
-epgshare2	CBS.Streaming.SD.East.feed.us2	CBS Streaming SD East feed
-epgshare2	Cine.Nostalgia.us2	Cine Nostalgia
-epgshare2	AWE.A.Wealth.of.Entertainment.HD.us2	AWE A Wealth of Entertainment HD
-epgshare2	The.Cowgirl.Channel.us2	The Cowgirl Channel
-epgshare2	Vevo.Holiday.us2	Vevo Holiday
-epgshare2	FlixFling.Now.us2	FlixFling Now
-epgshare2	Defy.TV.us2	Defy TV
-epgshare2	AFN.sports.us2	AFN sports
-epgshare2	BYU-TV.us2	BYU-TV
+epgshare2	MGM+.Drive-In.us2	MGM+ Drive-In
+epgshare2	Estrella.TV.us2	Estrella TV
+epgshare2	AWE.Plus.us2	AWE Plus
+epgshare2	CuriosityStream.us2	CuriosityStream
+epgshare2	ShopHQ.HD.us2	ShopHQ HD
+epgshare2	Paramount+.with.Showtime.HD.us2	Paramount+ with Showtime HD
 epgshare2	TBS.HD.us2	TBS HD
-epgshare2	Chasing.Criminals.us2	Chasing Criminals
-epgshare2	Reality.Kings.TV.us2	Reality Kings TV
-epgshare2	UniMas.us2	UniMas
-epgshare2	Freeform.HD.us2	Freeform HD
-epgshare2	Impact.Network.us2	Impact Network
-epgshare2	Freeform.Pacific.us2	Freeform Pacific
-epgshare2	RTV.International.us2	RTV International
-epgshare2	KBS.World.24.us2	KBS World 24
-epgshare2	RetroPlex.HD.us2	RetroPlex HD
-epgshare2	Starz.Encore.HD.us2	Starz Encore HD
-epgshare2	DirecTV.Playboy.us2	DirecTV Playboy
-epgshare2	NBC.Sports.Bay.Area.Outer.Market.us2	NBC Sports Bay Area Outer Market
-epgshare2	The.Family.Channel.us2	The Family Channel
-epgshare2	NRB.TV.us2	NRB TV
+epgshare2	DIRECTV.Sports.MixHD.us2	DIRECTV Sports MixHD
+epgshare2	Cars.TV.HD.us2	Cars TV HD
+epgshare2	Vevo.R.andB.us2	Vevo R and B
+epgshare2	FOX.SOUL.us2	FOX SOUL
+epgshare2	truTV.HD.us2	truTV HD
+epgshare2	Starz.Encore.Family.SD.us2	Starz Encore Family SD
+epgshare2	and.TV.us2	and TV
+epgshare2	Universal.Movies.us2	Universal Movies
+epgshare2	Spectrum.Bay.News.9.Tampa.us2	Spectrum Bay News 9 Tampa
+epgshare2	QVC2.us2	QVC2
+epgshare2	NBA.League.Pass.5.us2	NBA League Pass 5
+epgshare2	NHK.1.HD.us2	NHK 1 HD
+epgshare2	The.Movie.Channel.HD.us2	The Movie Channel HD
+epgshare2	ESPN.HD.us2	ESPN HD
+epgshare2	UniMas.HD.(Pacific).us2	UniMas HD (Pacific)
+epgshare2	AFN.sports.us2	AFN sports
+epgshare2	UNIVERSO.HD.us2	UNIVERSO HD
+epgshare2	HBO.Comedy.HD.us2	HBO Comedy HD
+epgshare2	MTV.-.Music.Television.HD.us2	MTV - Music Television HD
+epgshare2	Stories.by.AMC.us2	Stories by AMC
+epgshare2	Spectrum.News.1.-.(MA).Worcester.-.STVA.us2	Spectrum News 1 - (MA) Worcester - STVA
+epgshare2	SportsNet.Pittsburgh.Plus.us2	SportsNet Pittsburgh Plus
+epgshare2	INFAST.US.us2	INFAST US
+epgshare2	Cinemax.HD.(Pacific).us2	Cinemax HD (Pacific)
+epgshare2	Spectrum.News.1.-.Dallas.-.Ft.Worth.STVA.us2	Spectrum News 1 - Dallas - Ft Worth STVA
+epgshare2	NBC.Sports.California.Plus.3.us2	NBC Sports California Plus 3
+epgshare2	ION.Mystery.us2	ION Mystery
+epgshare2	Spectrum.News.1.-.(Kentucky).-.Evansville.us2	Spectrum News 1 - (Kentucky) - Evansville
+epgshare2	NBC.West.Stream.us2	NBC West Stream
+epgshare2	Science.Channel.HD.us2	Science Channel HD
+epgshare2	FX.Movie.Channel.HD.us2	FX Movie Channel HD
+epgshare2	Altitude.Sports.2.HD.us2	Altitude Sports 2 HD
+epgshare2	Vevo.Rock.us2	Vevo Rock
+epgshare2	HBO.East.us2	HBO East
+epgshare2	Showtime.2.HD.us2	Showtime 2 HD
+epgshare2	Anheuser.Busch.Private.Network.us2	Anheuser Busch Private Network
+epgshare2	Action.Channel.us2	Action Channel
+epgshare2	HBO.Latino.HD.us2	HBO Latino HD
+epgshare2	Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2	Spectrum News 1 (Carolinas) - Greensboro STVA
+epgshare2	Sportsman.Channel.us2	Sportsman Channel
+epgshare2	MASN.-.Mid.Atlantic.Sports.Network.us2	MASN - Mid Atlantic Sports Network
+epgshare2	MLB.Network.Strike.Zone.HD.us2	MLB Network Strike Zone HD
+epgshare2	Action.Plus.us2	Action Plus
+epgshare2	Mexicanal.us2	Mexicanal
+epgshare2	Marquee.Sports.Network.HD.us2	Marquee Sports Network HD
+epgshare2	Monumental.Sports.Network.2.HD.us2	Monumental Sports Network 2 HD
+epgshare2	NBC.Sports.HD.1.us2	NBC Sports HD 1
+epgshare2	PBS.Kids.Stream.us2	PBS Kids Stream
+epgshare2	CTI.Zhong.Tian.Channel.us2	CTI Zhong Tian Channel
+epgshare2	GEMS.us2	GEMS
+epgshare2	Antenna.TV.us2	Antenna TV
+epgshare2	Cinemax.Spanish.HD.us2	Cinemax Spanish HD
+epgshare2	YTA.Youtoo.America.us2	YTA Youtoo America
+epgshare2	IFC.HD.us2	IFC HD
+epgshare2	RevN.us2	RevN
+epgshare2	SonLife.Broadcasting.Network.HD.us2	SonLife Broadcasting Network HD
+epgshare2	MSNBC.HD.us2	MSNBC HD
+epgshare2	Heroes.and.Icons.Network.SD.us2	Heroes and Icons Network SD
+epgshare2	Positiv.TV.us2	Positiv TV
+epgshare2	BINGE-TV.us2	BINGE-TV
+epgshare2	Fear.Zone.us2	Fear Zone
+epgshare2	Arizona.Family.Sports.us2	Arizona Family Sports
+epgshare2	SEC.Network.HD.us2	SEC Network HD
+epgshare2	Vevo.Latino.us2	Vevo Latino
+epgshare2	Tastemade.Travel.us2	Tastemade Travel
+epgshare2	Cooking.Channel.HD.us2	Cooking Channel HD
+epgshare2	The.Cowboy.Channel.us2	The Cowboy Channel
+epgshare2	DZMM.Radyo.Patrol.us2	DZMM Radyo Patrol
+epgshare2	DOG.TV.us2	DOG TV
+epgshare2	Starz.Cinema.HD.us2	Starz Cinema HD
+epgshare2	Telefe.international.us2	Telefe international
+epgshare2	Bandamax.us2	Bandamax
+epgshare2	NBA.League.Pass.4.HD.us2	NBA League Pass 4 HD
 epgshare2	NBC.Comedy.Vault.us2	NBC Comedy Vault
+epgshare2	History.HD.us2	History HD
+epgshare2	Love.Kills.us2	Love Kills
+epgshare2	MSG.National.us2	MSG National
+epgshare2	Scripps.News.us2	Scripps News
+epgshare2	MSG.Zone.3.HD.us2	MSG Zone 3 HD
+epgshare2	CSPAN.us2	CSPAN
+epgshare2	Pinoy.Box.Office.us2	Pinoy Box Office
+epgshare2	Nickelodeon.HD.us2	Nickelodeon HD
+epgshare2	CCTV4-China.Central.TV.us2	CCTV4-China Central TV
+epgshare2	FS2.Fox.Sports.2.HD.us2	FS2 Fox Sports 2 HD
+epgshare2	Univision.Network.(Pacific).us2	Univision Network (Pacific)
+epgshare2	BET.HD.us2	BET HD
+epgshare2	ATN.Movies.us2	ATN Movies
+epgshare2	SundanceTV.HD.us2	SundanceTV HD
+epgshare2	Saigon.Broadcasting.Network.us2	Saigon Broadcasting Network
+epgshare2	Bravo.(Pacific).us2	Bravo (Pacific)
+epgshare2	Court.TV.us2	Court TV
+epgshare2	Game+.Game.Plus.HD.us2	Game+ Game Plus HD
+epgshare2	HLN.HD.us2	HLN HD
+epgshare2	Atreseries.us2	Atreseries
+epgshare2	NBA.League.Pass.9.us2	NBA League Pass 9
+epgshare2	Movie.Hub.Action.West.us2	Movie Hub Action West
+epgshare2	NBA.League.Pass.2.us2	NBA League Pass 2
+epgshare2	Starz.HD.us2	Starz HD
+epgshare2	CW.us2	CW
+epgshare2	CSPAN3.us2	CSPAN3
+epgshare2	Great.American.Family.HD.us2	Great American Family HD
+epgshare2	Spectrum.News.1.-.El.Paso.Texas.STVA.us2	Spectrum News 1 - El Paso Texas STVA
+epgshare2	Cinema.Dinamita.us2	Cinema Dinamita
+epgshare2	Telecentro.TV.us2	Telecentro TV
+epgshare2	Vevo.Country.us2	Vevo Country
+epgshare2	SBS.TV.Korea.us2	SBS TV Korea
+epgshare2	Tastemade.us2	Tastemade
+epgshare2	GMA.Life.TV.us2	GMA Life TV
+epgshare2	Sony.KAL.us2	Sony KAL
+epgshare2	Spectrum.News.1.-.Green.Bay/Appleton.-.STVA.us2	Spectrum News 1 - Green Bay/Appleton - STVA
+epgshare2	World.Fishing.Network.HD.(US).us2	World Fishing Network HD (US)
+epgshare2	Starz.Encore.Español.SD.us2	Starz Encore Español SD
+epgshare2	Spectrum.News.1.-.Cincinnati.-.STVA.us2	Spectrum News 1 - Cincinnati - STVA
+epgshare2	JBS.us2	JBS
+epgshare2	Showtime.Women.HD.us2	Showtime Women HD
+epgshare2	Start.TV.Network.us2	Start TV Network
+epgshare2	Nosey.on.Peacock.us2	Nosey on Peacock
+epgshare2	The.Film.Detective.us2	The Film Detective
+epgshare2	Dabl.Network.LLC.us2	Dabl Network LLC
+epgshare2	CSPAN2.us2	CSPAN2
+epgshare2	MSG.Zone.1.us2	MSG Zone 1
+epgshare2	Investigation.Discovery.HD.us2	Investigation Discovery HD
+epgshare2	Great.American.Adventures.us2	Great American Adventures
+epgshare2	MSG.Plus.us2	MSG Plus
+epgshare2	88.TV.us2	88 TV
+epgshare2	3ABN.Radio.Network.us2	3ABN Radio Network
+epgshare2	SUMtv.us2	SUMtv
+epgshare2	Spectrum.News.1.(Kentucky).Covington.us2	Spectrum News 1 (Kentucky) Covington
+epgshare2	NBA.League.Pass.1.us2	NBA League Pass 1
+epgshare2	Horror.Plus.us2	Horror Plus
+epgshare2	Sony.MIX.us2	Sony MIX
+epgshare2	Home.and.Garden.Television.HD.(Pacific).us2	Home and Garden Television HD (Pacific)
+epgshare2	NBA.League.Pass.6.HD.us2	NBA League Pass 6 HD
+epgshare2	STELLAR.TV.us2	STELLAR TV
+epgshare2	USA.Network.HD.(Pacific).us2	USA Network HD (Pacific)
+epgshare2	Sony.Cine.us2	Sony Cine
+epgshare2	CBO.us2	CBO
+epgshare2	MOTORTREND.HD.us2	MOTORTREND HD
+epgshare2	FS1.HD.us2	FS1 HD
+epgshare2	CNBC.HD.us2	CNBC HD
+epgshare2	HBO.(Pacific).us2	HBO (Pacific)
+epgshare2	Story.us2	Story
+epgshare2	Ryz.Sports.Network.us2	Ryz Sports Network
+epgshare2	CBS.Streaming.SD.East.feed.us2	CBS Streaming SD East feed
+epgshare2	[TFC].The.Filipino.Channel.HD.us2	[TFC] The Filipino Channel HD
+epgshare2	NBC.Sports.Philadelphia.HD.us2	NBC Sports Philadelphia HD
+epgshare2	NECN.New.England.Cable.News.us2	NECN New England Cable News
+epgshare2	Fox.News.Channel.HD.us2	Fox News Channel HD
+epgshare2	Free.Movies.Plus.us2	Free Movies Plus
+epgshare2	Spectrum.News.1.-.Cleveland/Akron.-.STVA.us2	Spectrum News 1 - Cleveland/Akron - STVA
+epgshare2	truTV.HD.(Pacific).us2	truTV HD (Pacific)
+epgshare2	Bounce.TV.us2	Bounce TV
+epgshare2	De.Pelicula.us2	De Pelicula
+epgshare2	MTV.Classic.us2	MTV Classic
+epgshare2	Smithsonian.HD.Network.us2	Smithsonian HD Network
+epgshare2	Oferta.TV.us2	Oferta TV
+epgshare2	The.Cowgirl.Channel.us2	The Cowgirl Channel
+epgshare2	AFN.family/AFN.pulse.us2	AFN family/AFN pulse
+epgshare2	3ABN.Dare.to.Dream.Network.us2	3ABN Dare to Dream Network
+epgshare2	ROOT.Sports.Northwest.HD.us2	ROOT Sports Northwest HD
+epgshare2	Spectrum.News.1.-.(MA).Springfield.-.STVA.us2	Spectrum News 1 - (MA) Springfield - STVA
+epgshare2	TNT.HD.(Pacific).us2	TNT HD (Pacific)
+epgshare2	TC.Internacional.us2	TC Internacional
+epgshare2	Spectrum.News.-.NY1.-.STVA.us2	Spectrum News - NY1 - STVA
+epgshare2	Bloomberg.HD.us2	Bloomberg HD
+epgshare2	Circle.Country.us2	Circle Country
+epgshare2	EWTN.Español.us2	EWTN Español
+epgshare2	MSG.Sportsnet.2.HD.us2	MSG Sportsnet 2 HD
+epgshare2	ZooMoo.us2	ZooMoo
+epgshare2	Horror.Machine.us2	Horror Machine
+epgshare2	Spectrum.News.1.-.Toledo/Lima.-.STVA.us2	Spectrum News 1 - Toledo/Lima - STVA
+epgshare2	A.and.E.HD.East.us2	A and E HD East
+epgshare2	American.Crimes.us2	American Crimes
+epgshare2	EarthX.us2	EarthX
+epgshare2	HBO2.(Pacific).us2	HBO2 (Pacific)
+epgshare2	Prime.Revenue.Frontier.us2	Prime Revenue Frontier
+epgshare2	NBA.League.Pass.3.HD.us2	NBA League Pass 3 HD
+epgshare2	CNN.En.Español.us2	CNN En Español
+epgshare2	NASCAR.Channel.us2	NASCAR Channel
+epgshare2	Spectrum.News.-.Michigan.STVA.us2	Spectrum News - Michigan STVA
+epgshare2	Willow.2.Xtra.us2	Willow 2 Xtra
+epgshare2	China.Global.Television.Network.us2	China Global Television Network
+epgshare2	Daystar.Español.us2	Daystar Español
+epgshare2	Eternal.Word.Television.Network.us2	Eternal Word Television Network
+epgshare2	NFL.SUNDAY.TICKET.RED.ZONE.us2	NFL SUNDAY TICKET RED ZONE
+epgshare2	Real.Americas.Voice.us2	Real Americas Voice
+epgshare2	Spectrum.SportsNet.LA.Dodgers.HD.us2	Spectrum SportsNet LA Dodgers HD
+epgshare2	Plus.Movies.us2	Plus Movies
+epgshare2	ATN.Cricket.Plus.us2	ATN Cricket Plus
+epgshare2	Turner.Classic.Movies.HD.us2	Turner Classic Movies HD
+epgshare2	Nippon.TV.Channel.us2	Nippon TV Channel
+epgshare2	ABS-CBN.News.Channel.us2	ABS-CBN News Channel
+epgshare2	TV.Land.HD.(Pacific).us2	TV Land HD (Pacific)
+epgshare2	EWTN.-.Eternal.Word.Television.Network.HD.us2	EWTN - Eternal Word Television Network HD
+epgshare2	Altitude.Sports.us2	Altitude Sports
+epgshare2	TBN.Inspire.us2	TBN Inspire
+epgshare2	Spectrum.News.-.Hudson.Valley.STVA.us2	Spectrum News - Hudson Valley STVA
+epgshare2	Xplore.us2	Xplore
+epgshare2	Starz.Encore.Classic.us2	Starz Encore Classic
+epgshare2	Shop.LC.us2	Shop LC
+epgshare2	DangerTV.us2	DangerTV
+epgshare2	World.Harvest.Television.us2	World Harvest Television
+epgshare2	SportsNet.Pittsburgh.HD.us2	SportsNet Pittsburgh HD
+epgshare2	AFN.Satellite.us2	AFN Satellite
+epgshare2	Spectrum.News.1.-.Dayton.-.STVA.us2	Spectrum News 1 - Dayton - STVA
+epgshare2	Outdoor.America.Field.and.Stream.us2	Outdoor America Field and Stream
+epgshare2	One.America.News.Network.HD.us2	One America News Network HD
+epgshare2	Nick.Jr.HD.us2	Nick Jr HD
+epgshare2	NBC.East.Stream.us2	NBC East Stream
+epgshare2	Playboy.TV.us2	Playboy TV
+epgshare2	HBO.West.us2	HBO West
+epgshare2	Zona.Futbol.us2	Zona Futbol
+epgshare2	Me.TV.Network.us2	Me TV Network
+epgshare2	Big.12.Studios.us2	Big 12 Studios
+epgshare2	Trinity.Broadcasting.Network.HD.us2	Trinity Broadcasting Network HD
+epgshare2	BBC.News.(North.America).HD.us2	BBC News (North America) HD
+epgshare2	LifeS.us2	LifeS
+epgshare2	Vevo.70s.us2	Vevo 70s
+epgshare2	Lifetime.Real.Women.us2	Lifetime Real Women
+epgshare2	Tribeca.Festival.+.us2	Tribeca Festival +
+epgshare2	Multimedios.USA.us2	Multimedios USA
+epgshare2	Disney.XD.HD.us2	Disney XD HD
+epgshare2	HBO.Hits.us2	HBO Hits
+epgshare2	Paramount+.with.Showtime.HD.(Pacific).us2	Paramount+ with Showtime HD (Pacific)
+epgshare2	Comedy.TV.HD.us2	Comedy.TV HD
+epgshare2	Fox.Deportes.HD.us2	Fox Deportes HD
+epgshare2	Rede.Globo.TV.Internacional.us2	Rede Globo TV Internacional
+epgshare2	Spectrum.News.1.(Carolinas).-.Raleigh.STVA.us2	Spectrum News 1 (Carolinas) - Raleigh STVA
+epgshare2	Spectrum.News.-.Buffalo.-.STVA.us2	Spectrum News - Buffalo - STVA
+epgshare2	AFN.movie.us2	AFN movie
+epgshare2	SNY.SportsNet.New.York.HD.us2	SNY SportsNet New York HD
+epgshare2	HBO2.HD.us2	HBO2 HD
+epgshare2	Vevo.90s.us2	Vevo 90s
+epgshare2	Spectrum.News.1.-.Milwaukee.-.STVA.us2	Spectrum News 1 - Milwaukee - STVA
+epgshare2	Fun.Roads.us2	Fun Roads
+epgshare2	Law.and.Crime.us2	Law and Crime
+epgshare2	Grjngo.-.Western.Movies.us2	Grjngo - Western Movies
+epgshare2	BBC.America.HD.us2	BBC America HD
+epgshare2	HSN.Home.Shopping.Network.HD.us2	HSN Home Shopping Network HD
+epgshare2	MLB.Network.HD.Alternate.us2	MLB Network HD Alternate
+epgshare2	Shorts.TV.us2	Shorts TV
+epgshare2	FS2.HD.us2	FS2 HD
+epgshare2	TV.ONE.HD.us2	TV ONE HD
+epgshare2	HBO.Movies.us2	HBO Movies
+epgshare2	Vien.Thao.TV.us2	Vien Thao TV
+epgshare2	i24.News.English.us2	i24 News English
+epgshare2	NBC.Sports.HD.3.us2	NBC Sports HD 3
+epgshare2	Hustler.Mature.us2	Hustler Mature
+epgshare2	NBA.League.Pass.8.us2	NBA League Pass 8
+epgshare2	Crime.and.Investigation.Network.HD.us2	Crime and Investigation Network HD
+epgshare2	Oprah.Winfrey.Network.(Pacific.A.Feed).us2	Oprah Winfrey Network (Pacific A Feed)
+epgshare2	Hustler.TV.us2	Hustler TV
+epgshare2	¡HOLA!.TV.us2	¡HOLA! TV
+epgshare2	Reality.Kings.TV.us2	Reality Kings TV
+epgshare2	Freeform.HD.us2	Freeform HD
+epgshare2	DirecTV.Sports.Mix.us2	DirecTV Sports Mix
+epgshare2	BUZZR.Stream.us2	BUZZR Stream
+epgshare2	AXS.TV.us2	AXS TV
+epgshare2	Starz.HD.(Pacific).us2	Starz HD (Pacific)
+epgshare2	SBS.HD.us2	SBS HD
+epgshare2	SHOPnow.us2	SHOPnow
+epgshare2	Weather.Nation.TV.HD.us2	Weather Nation TV HD
+epgshare2	Space.City.Home.Network.HD.us2	Space City Home Network HD
+epgshare2	Shades.of.Black.us2	Shades of Black
+epgshare2	Universal.Action.us2	Universal Action
+epgshare2	DirecTV.Celebrity.Shopping.Network.us2	DirecTV Celebrity Shopping Network
+epgshare2	Fawesome.us2	Fawesome
+epgshare2	Syfy.HD.us2	Syfy HD
+epgshare2	The.Jack.Hanna.Channel.us2	The Jack Hanna Channel
+epgshare2	HBCUGO.SPORTS.us2	HBCUGO SPORTS
+epgshare2	BYU-TV.us2	BYU-TV
+epgshare2	MSG.Plus.-.Syracuse.us2	MSG Plus - Syracuse
+epgshare2	Fox.Sports.4K.us2	Fox Sports 4K
+epgshare2	AFN.spectrum.us2	AFN spectrum
+epgshare2	Curiosity.NOW.us2	Curiosity NOW
+epgshare2	Rai.Radio.1.us2	Rai Radio 1
+epgshare2	Tastemade.en.Español.us2	Tastemade en Español
+epgshare2	Starz.Encore.Westerns.(Pacific).us2	Starz Encore Westerns (Pacific)
+epgshare2	AMG.TV.us2	AMG TV
+epgshare2	YTN.Radio.Korea.us2	YTN Radio Korea
+epgshare2	Starz.Comedy.HD.us2	Starz Comedy HD
+epgshare2	News.12.Bronx.us2	News 12 Bronx
+epgshare2	Discovery.Familia.En.Español.us2	Discovery Familia En Español
+epgshare2	Cinema.One.us2	Cinema One
+epgshare2	90s.Sitcoms.us2	90s Sitcoms
+epgshare2	Universal.Monsters.us2	Universal Monsters
+epgshare2	Flix.us2	Flix
+epgshare2	News.12.Long.Island.us2	News 12 Long Island
+epgshare2	iCable.Finance.Info.News.Channel.us2	iCable Finance Info News Channel
+epgshare2	FXX.HD.(Pacific).us2	FXX HD (Pacific)
+epgshare2	Danbi.Christian.TV.us2	Danbi Christian TV
+epgshare2	WRR.101.9.us2	WRR 101.9
+epgshare2	Bowling.TV.us2	Bowling TV
+epgshare2	Kapatid.us2	Kapatid
+epgshare2	CARACOL.INTERNATIONAL.us2	CARACOL INTERNATIONAL
+epgshare2	Boomerang.us2	Boomerang
+epgshare2	FX.HD.us2	FX HD
+epgshare2	Galavision.Cable.Network.HD.us2	Galavision Cable Network HD
+epgshare2	WWE.Network.us2	WWE Network
+epgshare2	Univision.Network.HD.us2	Univision Network HD
+epgshare2	Military.History.Channel.us2	Military History Channel
+epgshare2	Showtime.Familyzone.HD.us2	Showtime Familyzone HD
+epgshare2	The.Weather.Channel.HD.us2	The Weather Channel HD
+epgshare2	NBC.Sports.Northwest.Streaming.us2	NBC Sports Northwest Streaming
+epgshare2	ScreenPix.Westerns.us2	ScreenPix Westerns
+epgshare2	POP.HD.us2	POP HD
+epgshare2	CINEVAULT.Westerns.us2	CINEVAULT Westerns
+epgshare2	3ABN.Praise.Him.Music.us2	3ABN Praise Him Music
+epgshare2	Merit.TV.us2	Merit TV
+epgshare2	MovieSphere.Gold.us2	MovieSphere Gold
+epgshare2	80s.Sitcoms.us2	80s Sitcoms
+epgshare2	ACE.TV.us2	ACE TV
+epgshare2	MBC.America.us2	MBC America
+epgshare2	NewsNation.us2	NewsNation
+epgshare2	Movie.Hub.West.us2	Movie Hub West
+epgshare2	Cinemax.Classics.us2	Cinemax Classics
+epgshare2	Sari.Sari.Channel.us2	Sari Sari Channel
+epgshare2	Hogar.HD.us2	Hogar HD
+epgshare2	Disney.Junior.HD.us2	Disney Junior HD
+epgshare2	Filmrise.Mysteries.us2	Filmrise Mysteries
+epgshare2	CNN.HD.us2	CNN HD
+epgshare2	Yes.Network.Overflow.us2	Yes Network Overflow
+epgshare2	Game.Show.Network.HD.us2	Game Show Network HD
+epgshare2	Monumental.Sports.Network.Outer.Market.us2	Monumental Sports Network Outer Market
+epgshare2	Defy.TV.us2	Defy TV
+epgshare2	MSG.(Alt..feed).-.MSG2.OVERFLOW.us2	MSG (Alt. feed) - MSG2 OVERFLOW
+epgshare2	ETBN.Enlace.USA.us2	ETBN Enlace USA
+epgshare2	CNN.International.us2	CNN International
+epgshare2	Nicktoons.us2	Nicktoons
+epgshare2	NBC.Sports.Bay.Area.HD.us2	NBC Sports Bay Area HD
+epgshare2	AMC.HD.us2	AMC HD
+epgshare2	Tennis.Channel.HD.us2	Tennis Channel HD
+epgshare2	Disney.Channel.(Pacific).us2	Disney Channel (Pacific)
+epgshare2	Comet.us2	Comet
+epgshare2	CNBC.World.us2	CNBC World
+epgshare2	ASPiRE.HD.us2	ASPiRE HD
+epgshare2	Spectrum.News.1.-.Austin.us2	Spectrum News 1 - Austin
+epgshare2	Amazon.Movies.us2	Amazon Movies
+epgshare2	E!.Entertainment.Television.HD.us2	E! Entertainment Television HD
+epgshare2	Cartoon.Network.HD.us2	Cartoon Network HD
+epgshare2	ESTRELLA.NEWS.us2	ESTRELLA NEWS
+epgshare2	Catchy.Comedy.us2	Catchy Comedy
+epgshare2	CASH.us2	CASH
+epgshare2	MGM.Presents:.Horror.us2	MGM Presents: Horror
+epgshare2	Recipe.TV.HD.us2	Recipe TV HD
+epgshare2	Right.Now.TV.us2	Right Now TV
+epgshare2	Spectrum.News.-.Albany.Capital.Region.STVA.us2	Spectrum News - Albany Capital Region STVA
+epgshare2	NBC.Sports.Boston.Outer.Market.us2	NBC Sports Boston Outer Market
+epgshare2	Cinemax.Hits.us2	Cinemax Hits
+epgshare2	The.Archive.us2	The Archive
+epgshare2	Living.Faith.Network.HD.us2	Living Faith Network HD
+epgshare2	Hogar.TV.us2	Hogar TV
+epgshare2	Cinemax.(Pacific).us2	Cinemax (Pacific)
+epgshare2	Video.Rola.us2	Video Rola
+epgshare2	CBS.Sports.HQ.us2	CBS Sports HQ
+epgshare2	Marquee.Sports.Network.Overflow.us2	Marquee Sports Network Overflow
+epgshare2	QVC3.us2	QVC3
+epgshare2	Bon.Appétit.TV.us2	Bon Appétit TV
+epgshare2	Movies!.us2	Movies!
+epgshare2	NRB.TV.us2	NRB TV
+epgshare2	Compre.AQUI.los.productos.mejores.del.TV.us2	Compre AQUI los productos mejores del TV
+epgshare2	BET.HD.(Pacific).us2	BET HD (Pacific)
+epgshare2	Spectrum.SportsNet.Lakers.HD.us2	Spectrum SportsNet Lakers HD
+epgshare2	TUDN.us2	TUDN
+epgshare2	Atrescine.us2	Atrescine
+epgshare2	BET.Her.us2	BET Her
+epgshare2	Outdoor.Channel.HD.us2	Outdoor Channel HD
+epgshare2	Univision.TL.Novelas.us2	Univision TL Novelas
+epgshare2	The.Travel.Channel.HD.us2	The Travel Channel HD
+epgshare2	Dabl.Network.LLC.Pacific.us2	Dabl Network LLC Pacific
+epgshare2	Playboy.Premium.HD.us2	Playboy Premium HD
+epgshare2	The.Repair.Shop.us2	The Repair Shop
+epgshare2	Oxygen.True.Crime.HD.us2	Oxygen True Crime HD
+epgshare2	Vevo.80s.us2	Vevo 80s
+epgshare2	EBS.America.us2	EBS America
+epgshare2	DTV.ARANG.us2	DTV ARANG
+epgshare2	News.12.Hudson.Valley.us2	News 12 Hudson Valley
+epgshare2	VSIN.Vegas.Sports.and.Information.Network.us2	VSIN Vegas Sports and Information Network
+epgshare2	So.Yummy.us2	So Yummy
+epgshare2	The.Travel.Channel.HD.(Pacific).us2	The Travel Channel HD (Pacific)
+epgshare2	Jewelry.Television.us2	Jewelry Television
+epgshare2	ScreenPix.Voices.us2	ScreenPix Voices
+epgshare2	Family.Entertainment.Television.us2	Family Entertainment Television
+epgshare2	DraftKings.Network.us2	DraftKings Network
+epgshare2	Big.Ten.Network.Overflow.us2	Big Ten Network Overflow
+epgshare2	Fox.Soccer.Plus.HD.us2	Fox Soccer Plus HD
+epgshare2	Galavision.Cable.Network.HD.(Pacific).us2	Galavision Cable Network HD (Pacific)
+epgshare2	Lifetime.HD.us2	Lifetime HD
+epgshare2	ActionMAX.HD.us2	ActionMAX HD
+epgshare2	3ABN.Latino.Network.us2	3ABN Latino Network
+epgshare2	NBC.Sports.Boston.HD.us2	NBC Sports Boston HD
+epgshare2	Outside.Television.HD.us2	Outside Television HD
+epgshare2	ION.Television.HD.us2	ION Television HD
+epgshare2	NFL.Network.HD.us2	NFL Network HD
+epgshare2	Vevo.2K.us2	Vevo 2K
+epgshare2	BET.Jams.us2	BET Jams
+epgshare2	DirecTV.VALU.us2	DirecTV VALU
+epgshare2	88.Films.us2	88 Films
+epgshare2	Movie.Hub.Action.us2	Movie Hub Action
+epgshare2	Gulf.Coast.Sports.and.Entertainment.Network.us2	Gulf Coast Sports and Entertainment Network
+epgshare2	NBC.Sports.Bay.Area.Plus.us2	NBC Sports Bay Area Plus
+epgshare2	National.Geographic.HD.us2	National Geographic HD
+epgshare2	Phoenix.Info.News.us2	Phoenix Info News
+epgshare2	American.Heroes.Channel.HD.us2	American Heroes Channel HD
+epgshare2	Vevo.Hip-Hop.us2	Vevo Hip-Hop
+epgshare2	N+.Foro.us2	N+ Foro
+epgshare2	GOD.TV.us2	GOD TV
+epgshare2	Teen.Nick.us2	Teen Nick
+epgshare2	ScreenPix.us2	ScreenPix
+epgshare2	Spectrum.News.-.Central.NY.STVA.us2	Spectrum News - Central NY STVA
+epgshare2	CINEVAULT.us2	CINEVAULT
+epgshare2	Scares.by.Shudder.us2	Scares by Shudder
+epgshare2	Christian.Television.Network.us2	Christian Television Network
+epgshare2	Cleo.TV.HD.us2	Cleo TV HD
+epgshare2	HITN.us2	HITN
+epgshare2	NTN24.us2	NTN24
+epgshare2	Nickelodeon.(Pacific).us2	Nickelodeon (Pacific)
+epgshare2	Cine.Nostalgia.us2	Cine Nostalgia
+epgshare2	The.Nest.us2	The Nest
+epgshare2	PBS.KIDS.HD.us2	PBS KIDS HD
+epgshare2	Cine.Mexicano.US.Feed.us2	Cine Mexicano US Feed
+epgshare2	Monumental.Sports.Network.HD.us2	Monumental Sports Network HD
+epgshare2	DUCKTV.us2	DUCKTV
+epgshare2	TLC.HD.(Pacific).us2	TLC HD (Pacific)
+epgshare2	MoviePlex.HD.us2	MoviePlex HD
+epgshare2	Jewish.Life.TV.us2	Jewish Life TV
+epgshare2	MLS.Direct.Kick.-.Direct.TV.-.MLSSO.us2	MLS Direct Kick - Direct TV - MLSSO
+epgshare2	TLC.HD.(US).us2	TLC HD (US)
+epgshare2	Busted.TV.us2	Busted TV
+epgshare2	Cinemax.HD.us2	Cinemax HD
+epgshare2	Pursuit.Channel.us2	Pursuit Channel
+epgshare2	The.Discovery.Channel.HD.(Pacific).us2	The Discovery Channel HD (Pacific)
+epgshare2	WE.tv.HD.us2	WE tv HD
+epgshare2	Destination.America.HD.us2	Destination America HD
+epgshare2	Cheddar.us2	Cheddar
+epgshare2	The.Movie.Channel.Extra.HD.us2	The Movie Channel Extra HD
+epgshare2	Playboy.HD.us2	Playboy HD
+epgshare2	Spectrum.News.-.(New.York).Rochester.STVA.us2	Spectrum News - (New York) Rochester STVA
+epgshare2	LOCALISH.EASTERN.us2	LOCALISH EASTERN
+epgshare2	Comedy.Central.HD.(Pacific).us2	Comedy Central HD (Pacific)
+epgshare2	HSN2.us2	HSN2
+epgshare2	AccuWeather.HD.us2	AccuWeather HD
+epgshare2	NBC.Sports.4K.us2	NBC Sports 4K
+epgshare2	S-channel.us2	S-channel
+epgshare2	Syfy.HD.(Pacific).us2	Syfy HD (Pacific)
+epgshare2	NFL.RedZone.HD.us2	NFL RedZone HD
+epgshare2	MYX.Channel.us2	MYX Channel
+epgshare2	Showtime.Next.HD.us2	Showtime Next HD
+epgshare2	Telefe.Internacional.us2	Telefe Internacional
+epgshare2	News.12.Brooklyn.us2	News 12 Brooklyn
+epgshare2	Blaze.TV.us2	Blaze TV
+epgshare2	Salem.News.Channel.us2	Salem News Channel
+epgshare2	Ovation.HD.us2	Ovation HD
+epgshare2	Nick.Music.us2	Nick Music
+epgshare2	Starz.Encore.Suspense.us2	Starz Encore Suspense
+epgshare2	Oprah.Winfrey.Network.HD.us2	Oprah Winfrey Network HD
+epgshare2	Fuse.HD.us2	Fuse HD
+epgshare2	HBO2.HD.(Pacific).us2	HBO2 HD (Pacific)
+epgshare2	GMA.Pinoy.TV.us2	GMA Pinoy TV
+epgshare2	Sony.Movie.Channel.HD.us2	Sony Movie Channel HD
+epgshare2	HBO.Signature.HD.us2	HBO Signature HD
+epgshare2	My.Network.us2	My Network
+epgshare2	FloRacing.24/7.us2	FloRacing 24/7
+epgshare2	Rai.Premium.us2	Rai Premium
+epgshare2	ROAR.TV.us2	ROAR TV
+epgshare2	The.Word.Network.us2	The Word Network
+epgshare2	Family.Movie.Classics.us2	Family Movie Classics
+epgshare2	TBS.HD.(Pacific).us2	TBS HD (Pacific)
+epgshare2	Cinemax.Action.us2	Cinemax Action
+epgshare2	CHSN.Chicago.Sports.Network.us2	CHSN Chicago Sports Network
+epgshare2	NBC.Chicago.(Live.Stream).us2	NBC Chicago (Live Stream)
+epgshare2	Blossom.TV.us2	Blossom TV
+epgshare2	Bloomberg.Business.Television.us2	Bloomberg Business Television
+epgshare2	TV.Chile.us2	TV Chile
+epgshare2	i-CABLE.News.us2	i-CABLE News
+epgshare2	SportsGrid.us2	SportsGrid
+epgshare2	VividTV.us2	VividTV
+epgshare2	AMC+.us2	AMC+
+epgshare2	Daystar.Television.Network.HD.[CHARTER].us2	Daystar Television Network HD [CHARTER]
+epgshare2	TYT.The.Young.Turks.us2	TYT The Young Turks
+epgshare2	ACC.Digital.Network.us2	ACC Digital Network
+epgshare2	Real.Madrid.us2	Real Madrid
+epgshare2	Little.Saigon.Radio.Channel.us2	Little Saigon Radio Channel
+epgshare2	Kartoon.Channel.us2	Kartoon Channel
+epgshare2	Sur.Peru.us2	Sur Peru
+epgshare2	Comedy.Central.HD.us2	Comedy Central HD
+epgshare2	Nuestra.Visión.us2	Nuestra Visión
+epgshare2	Animal.Planet.HD.us2	Animal Planet HD
+epgshare2	Root.Sports.Northwest.Plus.us2	Root Sports Northwest Plus
+epgshare2	VH1.HD.us2	VH1 HD
+epgshare2	The.Movie.Channel.(Pacific).us2	The Movie Channel (Pacific)
+epgshare2	NBA.League.Pass.8.HD.us2	NBA League Pass 8 HD
+epgshare2	DirecTV.GO4IT.us2	DirecTV GO4IT
+epgshare2	INSP.HD.us2	INSP HD
+epgshare2	BET.GOSPEL.us2	BET GOSPEL
+epgshare2	GZTV.us2	GZTV
+epgshare2	ABC.News.Live.us2	ABC News Live
+epgshare2	BBC.Dinos.24/7.us2	BBC Dinos 24/7
+epgshare2	RACER.Network.HD.us2	RACER Network HD
+epgshare2	NHK.World.TV.us2	NHK World TV
+epgshare2	3ABN.Proclaim.Network.us2	3ABN Proclaim Network
+epgshare2	MeTV.Toons.us2	MeTV Toons
+epgshare2	Phoenix.Satellite.TV.us2	Phoenix Satellite TV
+epgshare2	Disney.XD.HD.(Pacific).us2	Disney XD HD (Pacific)
+epgshare2	ESPN2.HD.us2	ESPN2 HD
+epgshare2	Magnolia.Network.HD.us2	Magnolia Network HD
+epgshare2	LMN.HD.us2	LMN HD
+epgshare2	ABC.National.Feed.us2	ABC National Feed
+epgshare2	ESPN.Deportes.HD.us2	ESPN Deportes HD
+epgshare2	CBS.Sports.Network.HD.us2	CBS Sports Network HD
+epgshare2	Mediaset.Italia.us2	Mediaset Italia
+epgshare2	ACC.Network.us2	ACC Network
+epgshare2	PBS.Kids.West.Stream.us2	PBS Kids West Stream
+epgshare2	ESPN8.The.Ocho.us2	ESPN8 The Ocho
+epgshare2	3ABN.us2	3ABN
+epgshare2	FNX.First.Nations.Experience.us2	FNX First Nations Experience
+epgshare2	Pasiones.TV.US.us2	Pasiones TV US
+epgshare2	beIN.Sports.USA.HD.us2	beIN Sports USA HD
+epgshare2	Vevo.True.School.Hip-Hop.us2	Vevo True School Hip-Hop
+epgshare2	Revolt.HD.us2	Revolt HD
+epgshare2	Nosey.us2	Nosey
+epgshare2	COZI.TV.us2	COZI TV
+epgshare2	Discovery.Turbo.TV.us2	Discovery Turbo TV
+epgshare2	AFN.prime.Atlantic.us2	AFN prime Atlantic
+epgshare2	Movie.Hub.Romance.us2	Movie Hub Romance
+epgshare2	Food.Network.HD.us2	Food Network HD
+epgshare2	VIETV.us2	VIETV
+epgshare2	Rai.News.24.us2	Rai News 24
+epgshare2	NBA.League.Pass/MLS.Direct.Kick.HDTV.us2	NBA League Pass/MLS Direct Kick HDTV
+epgshare2	Peachtree.TV.us2	Peachtree TV
+epgshare2	Universal.Crime.us2	Universal Crime
+epgshare2	AdultSwim.com.Cartoon.Network.us2	AdultSwim com Cartoon Network
+epgshare2	Rewind.HD.us2	Rewind HD
+epgshare2	365BLK.us2	365BLK
+epgshare2	SBS.Plus.us2	SBS Plus
+epgshare2	NBA.League.Pass.10.us2	NBA League Pass 10
+epgshare2	AFN.news.us2	AFN news
+epgshare2	DirecTV.-.MLB.Extra.Innings.-.MLBEI.us2	DirecTV - MLB Extra Innings - MLBEI
+epgshare2	Starz.Encore.HD.us2	Starz Encore HD
+epgshare2	PixL.us2	PixL
+epgshare2	CMT.HD.us2	CMT HD
+epgshare2	Spectrum.News.1.-.Madison.-.STVA.us2	Spectrum News 1 - Madison - STVA
+epgshare2	AAPKA.Colors.US.us2	AAPKA Colors US
+epgshare2	beIN.Sports.En.Español.HD.us2	beIN Sports En Español HD
+epgshare2	CFN.CATHOLIC.FAITH.NETWORK.us2	CFN CATHOLIC FAITH NETWORK
+epgshare2	El.Rey.Network.us2	El Rey Network
+epgshare2	Starz.Kids.HD.us2	Starz Kids HD
+epgshare2	MTV2:.Music.Television.HD.us2	MTV2: Music Television HD
+epgshare2	NBC.Sports.HD.2.us2	NBC Sports HD 2
+epgshare2	UPtv.us2	UPtv
+epgshare2	Local.Now.us2	Local Now
+epgshare2	NBA.League.Pass.3.us2	NBA League Pass 3
+epgshare2	De.Pelicula.Clasico.us2	De Pelicula Clasico
+epgshare2	Mega.TV.HD.us2	Mega TV HD
+epgshare2	Discovery.Life.Channel.us2	Discovery Life Channel
+epgshare2	Rewind.TV.us2	Rewind TV
+epgshare2	WORLD.Channel.us2	WORLD Channel
+epgshare2	Starz.in.Black.HD.us2	Starz in Black HD
+epgshare2	Newsmax.TV.HD.us2	Newsmax TV HD
+epgshare2	Playboy.En.Español.us2	Playboy En Español
+epgshare2	TViet.Network.us2	TViet Network
+epgshare2	Starz.(Pacific).us2	Starz (Pacific)
+epgshare2	Pure.Flix.TV.us2	Pure Flix TV
+epgshare2	MGM+.HD.us2	MGM+ HD
+epgshare2	The.Grio.HD.us2	The Grio HD
+epgshare2	Spectrum.News.-.Alabama.STVA.us2	Spectrum News - Alabama STVA
+epgshare2	Starz.Encore.(Pacific).us2	Starz Encore (Pacific)
+epgshare2	IndiePlex.HD.us2	IndiePlex HD
+epgshare2	Starz.Encore.Westerns.SD.us2	Starz Encore Westerns SD
+epgshare2	Home.and.Garden.Television.HD.us2	Home and Garden Television HD
+epgshare2	SHO.x.BET.HD.us2	SHO x BET HD
+epgshare2	FXX.HD.us2	FXX HD
+epgshare2	MSG.Plus.(Zone.2).us2	MSG Plus (Zone 2)
+epgshare2	Barvanna.Network.us2	Barvanna Network
+epgshare2	MeTV.Plus.us2	MeTV Plus
+epgshare2	DIRECTV.Lifetime.us2	DIRECTV Lifetime
+epgshare2	Bang.U.us2	Bang U
+epgshare2	Bravo.HD.us2	Bravo HD
+epgshare2	Golden.Eagle.Broadcasting.us2	Golden Eagle Broadcasting
+epgshare2	3ABN.Kids.Network.us2	3ABN Kids Network
+epgshare2	Disney.Junior.HD.(Pacific).us2	Disney Junior HD (Pacific)
+epgshare2	Paramount.Network.HD.us2	Paramount Network HD
+epgshare2	Impact.Network.us2	Impact Network
+epgshare2	Vietface.TV.us2	Vietface TV
+epgshare2	Vice.us2	Vice
+epgshare2	NHL.Network.HD.us2	NHL Network HD
+epgshare2	Prime.Movies.us2	Prime Movies
+epgshare2	ESPN2.(Alternate).us2	ESPN2 (Alternate)
+epgshare2	Discovery.Family.Channel.HD.us2	Discovery Family Channel HD
+epgshare2	ESPNEWS.HD.us2	ESPNEWS HD
+epgshare2	MTV.-.Music.Television.HD.(Pacific).us2	MTV - Music Television HD (Pacific)
+epgshare2	Cinevault.Classics.us2	Cinevault Classics
+epgshare2	Ve.Plus.us2	Ve Plus
+epgshare2	CANAL.22.INTERNACIONAL.us2	CANAL 22 INTERNACIONAL
+epgshare2	NBC.Sports.California.Plus.us2	NBC Sports California Plus
+epgshare2	Haunt.TV.us2	Haunt TV
+epgshare2	MSG.Sportsnet.Zone.3.(MSG.WNY).us2	MSG Sportsnet Zone 3 (MSG WNY)
+epgshare2	BraZZers.TV.Plus.us2	BraZZers TV Plus
+epgshare2	SUMtv.Latino.us2	SUMtv Latino
+epgshare2	NASA.Plus.us2	NASA Plus
+epgshare2	Adult.On.Demand.us2	Adult On Demand
+epgshare2	Big.Ten.Network.HD.us2	Big Ten Network HD
+epgshare2	Telemundo.Satellite.Feed.Pacific.us2	Telemundo Satellite Feed Pacific
+epgshare2	MGM.Presents:.Westerns.us2	MGM Presents: Westerns
+epgshare2	Comet.(Pacific).us2	Comet (Pacific)
+epgshare2	RetroPlex.HD.us2	RetroPlex HD
+epgshare2	5.StarMAX.HD.East.us2	5 StarMAX HD East
+epgshare2	The.Hope.Channel.us2	The Hope Channel
+epgshare2	TV.Land.HD.us2	TV Land HD
+epgshare2	News.12.Westchester.us2	News 12 Westchester
+epgshare2	Spectrum.News.1.(Carolinas).-.Mountain.STVA.us2	Spectrum News 1 (Carolinas) - Mountain STVA
+epgshare2	CBS.News.National.Stream.us2	CBS News National Stream
+epgshare2	TyC.Sports.Internacional.USA.us2	TyC Sports Internacional USA
+epgshare2	MGM+.Marquee.HD.us2	MGM+ Marquee HD
+epgshare2	NBA.League.Pass.6.us2	NBA League Pass 6
+epgshare2	Scientology.Media.Productions.us2	Scientology Media Productions
+epgshare2	Freeform.Pacific.us2	Freeform Pacific
+epgshare2	KBS.World.24.us2	KBS World 24
+epgshare2	GOL.TV.us2	GOL TV
+epgshare2	Hallmark.Family.us2	Hallmark Family
+epgshare2	News.12.Connecticut.us2	News 12 Connecticut
+epgshare2	Fight.Network.us2	Fight Network
+epgshare2	Golf.Channel.HD.us2	Golf Channel HD
+epgshare2	MSG.Sportsnet.Zone.1.HD.us2	MSG Sportsnet Zone 1 HD
+epgshare2	Nat.Geo.Mundo.us2	Nat Geo Mundo
+epgshare2	NBC.Sports.California.SAT.us2	NBC Sports California HD
+epgshare2	Quest.us2	Quest
+epgshare2	NBA.League.Pass.4.us2	NBA League Pass 4
+epgshare2	NBC.True.CRMZ.us2	NBC True CRMZ
+epgshare2	Spectrum.News.1.-.SO.CAL.-.STVA.us2	Spectrum News 1 - SO CAL - STVA
+epgshare2	Fox.Business.HD.us2	Fox Business HD
+epgshare2	National.Geographic.Wild.HD.us2	National Geographic Wild HD
+epgshare2	AFN.prime.Pacific.us2	AFN prime Pacific
+epgshare2	Film.24h.us2	Film 24h
+epgshare2	Discovery.en.Español.us2	Discovery en Español
+epgshare2	Tastemade.Home.us2	Tastemade Home
+epgshare2	WAPA.America.us2	WAPA America
+epgshare2	CW.Plus.East.us2	CW Plus East
+epgshare2	Laff.us2	Laff
+epgshare2	Peru.Magico.us2	Peru Magico
+epgshare2	ESPNU.HD.us2	ESPNU HD
+epgshare2	Cinema.Dinamita.(HD.Feed).us2	Cinema Dinamita (HD Feed)
+epgshare2	Victory.Channel.us2	Victory Channel
+epgshare2	The.Family.Channel.us2	The Family Channel
+epgshare2	Great.American.Faith.and.Living.us2	Great American Faith and Living
+epgshare2	Logo.us2	Logo
+epgshare2	Spectrum.News+.us2	Spectrum News+
+epgshare2	West.TV.us2	West TV
+epgshare2	Vice.HD.us2	Vice HD
+epgshare2	Hallmark.Mystery.HD.us2	Hallmark Mystery HD
+epgshare2	FX.HD.(Pacific).us2	FX HD (Pacific)
+epgshare2	Hallmark.Channel.HD.us2	Hallmark Channel HD
+epgshare2	NBA.League.Pass.2.HD.us2	NBA League Pass 2 HD
+epgshare2	Spectrum.News.1.-.Columbus.-.STVA.us2	Spectrum News 1 - Columbus - STVA
+epgshare2	NBA.League.Pass.9.HD.us2	NBA League Pass 9 HD
+epgshare2	New.England.Sports.Network.HD.us2	New England Sports Network HD
+epgshare2	Vevo.Pop.us2	Vevo Pop
+epgshare2	Showtime.Extreme.HD.us2	Showtime Extreme HD
+epgshare2	Curiosity.Channel.HD.us2	Curiosity Channel HD
+epgshare2	ABC.National.Feed.Pacific.us2	ABC National Feed Pacific
+epgshare2	DirecTV.Playboy.us2	DirecTV Playboy
+epgshare2	PI.KBS.World.us2	PI KBS World
+epgshare2	Grit.us2	Grit
+epgshare2	El.Sembrador.us2	El Sembrador
+epgshare2	3ABN.International.Network.us2	3ABN International Network
+epgshare2	BabyFirst.TV.us2	BabyFirst TV
+epgshare2	Starz.Encore.Action.HD.us2	Starz Encore Action HD
+epgshare2	Starz.Edge.HD.us2	Starz Edge HD
+epgshare2	QVC.HD.us2	QVC HD
+epgshare2	AFN.sports2.us2	AFN sports2
+epgshare2	Free.Speech.TV.us2	Free Speech TV
+epgshare2	Biz.TV.us2	Biz TV
+epgshare2	Tan.Tv.us2	Tan Tv
+epgshare2	The.First.us2	The First
+epgshare2	HDNet.Movies.us2	HDNet Movies
+epgshare2	MSG.Sportsnet.2.Zone.1.us2	MSG Sportsnet 2 Zone 1
+epgshare2	Yes.Network.us2	Yes Network
+epgshare2	UniMas.us2	UniMas
+epgshare2	Ecuavisa.International.us2	Ecuavisa International
+epgshare2	Hustler.Mature.HD.us2	Hustler Mature HD
+epgshare2	Investigation.Discovery.HD.(Pacific).us2	Investigation Discovery HD (Pacific)
+epgshare2	NBA.League.Pass.5.HD.us2	NBA League Pass 5 HD
+epgshare2	Universal.Westerns.us2	Universal Westerns
+epgshare2	Spectrum.News.1.-.San.Antonio.us2	Spectrum News 1 - San Antonio
+epgshare2	NBC.Sports.Now.us2	NBC Sports Now
+epgshare2	CHSN.Plus.us2	CHSN Plus
+epgshare2	Next.Level.Sports.HD.us2	Next Level Sports HD
+epgshare2	MSG.SportsZone.us2	MSG SportsZone
+epgshare2	Vevo.Reggaeton.and.Trap.us2	Vevo Reggaeton and Trap
+epgshare2	MTVLIVE.us2	MTVLIVE
+epgshare2	NBC.Sports.Philadelphia.Plus.us2	NBC Sports Philadelphia Plus
+epgshare2	Xumo.Free.Westerns.us2	Xumo Free Westerns
+epgshare2	Spectrum.News.1.(Carolinas).-.Coastal.STVA.us2	Spectrum News 1 (Carolinas) - Coastal STVA
+epgshare2	LooLoo.Kids.TV.us2	LooLoo Kids TV
+epgshare2	Cartoon.Network.(Pacific).us2	Cartoon Network (Pacific)
+epgshare2	HBO.Drama.us2	HBO Drama
+epgshare2	Movie.Hub.us2	Movie Hub
+epgshare2	Cine.Estelar.us2	Cine Estelar
+epgshare2	Willow.Cricket.HD.us2	Willow Cricket HD
+epgshare2	Vevo.Regional.Mexicano.us2	Vevo Regional Mexicano
+epgshare2	TNT.HD.us2	TNT HD
+epgshare2	CentroAméricaTV.us2	CentroAméricaTV
+epgshare2	MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2	MASN2 - Mid Atlantic Sports Network 2 HD
+epgshare2	Charming.China.us2	Charming China
+epgshare2	MBN.Plus.us2	MBN Plus
+epgshare2	mtv-U.us2	mtv-U
+epgshare2	Justice.Central.HD.us2	Justice Central HD
+epgshare2	Chasing.Criminals.us2	Chasing Criminals
+epgshare2	CHARGE!.us2	CHARGE!
+epgshare2	Meganoticias.MX.us2	Meganoticias MX
+epgshare2	Origin.Sports.us2	Origin Sports
+epgshare2	ReelzChannel.HD.us2	ReelzChannel HD
+epgshare2	Great.Entertainment.Television.us2	Great Entertainment Television
+epgshare2	AWE.A.Wealth.of.Entertainment.HD.us2	AWE A Wealth of Entertainment HD
+epgshare2	Spectrum.News.1.-.(Kentucky).Louisville.us2	Spectrum News 1 - (Kentucky) Louisville
+epgshare2	Starz.Encore.Black.us2	Starz Encore Black
+epgshare2	Billiard.TV.us2	Billiard TV
+epgshare2	PBS.Stream.us2	PBS Stream
+epgshare2	NBA.League.Pass.7.HD.us2	NBA League Pass 7 HD
+epgshare2	Showtime.Showcase.HD.us2	Showtime Showcase HD
+epgshare2	VGN.TV.us2	VGN TV
+epgshare2	NBC.Sports.Bay.Area.Outer.Market.us2	NBC Sports Bay Area Outer Market
+epgshare2	CBS.Sports.Golazo.Network.us2	CBS Sports Golazo Network
+epgshare2	Rai.Italia.us2	Rai Italia
+epgshare2	VME.us2	VME
+epgshare2	Cine.Latino.US.us2	Cine Latino US
+epgshare2	History.Channel.En.Español.us2	History Channel En Español
+epgshare2	ScreenPix.Action.us2	ScreenPix Action
+epgshare2	Vevo.Íconos.Latinos.us2	Vevo Íconos Latinos
+epgshare2	Westerns.Plus.us2	Westerns Plus
+epgshare2	America’s.Test.Kitchen.us2	America’s Test Kitchen
+epgshare2	Zee.TV.us2	Zee TV
+epgshare2	FS1.Fox.Sports.1.HD.us2	FS1 Fox Sports 1 HD
+epgshare2	NBC.Sports.California.Outer.Market.us2	NBC Sports California Outer Market
+epgshare2	Spectrum.News.1.-.(MA).Pittsfield.-.STVA.us2	Spectrum News 1 - (MA) Pittsfield - STVA
+epgshare2	MagellanTV.Now.us2	MagellanTV Now
+epgshare2	Newsy.us2	Newsy
+epgshare2	Tr3s:.MTV,.Musica.y.Mas.us2	Tr3s: MTV, Musica y Mas
+epgshare2	RETRO.us2	RETRO
+epgshare2	FYI.Channel.HD.us2	FYI Channel HD
+epgshare2	Total.Crime.us2	Total Crime
+epgshare2	FlixFling.Now.us2	FlixFling Now
+epgshare2	FM.HD.us2	FM HD
+epgshare2	Vevo.Holiday.us2	Vevo Holiday
+epgshare2	RTV.International.us2	RTV International
+epgshare2	News.12.New.Jersey.us2	News 12 New Jersey
+epgshare2	The.Africa.Channel.us2	The Africa Channel
+epgshare2	The.Filipino.Channel.(Pacific).us2	The Filipino Channel (Pacific)
+epgshare2	Antena.3.Internacional.us2	Antena 3 Internacional
+epgshare2	Home.Shopping.Network.us2	Home Shopping Network
+epgshare2	NBA.TV.HD.us2	NBA TV HD
+epgshare2	USA.Network.HD.us2	USA Network HD
+epgshare2	Discovery.Channel.HD.us2	Discovery Channel HD
 epgshare3	WPXI-DT.us_locals1	WPXI-DT
 epgshare3	K18EL-D.us_locals1	K18EL-D
 epgshare3	WOCV-CD.us_locals1	WOCV-CD
